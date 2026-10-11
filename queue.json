@@ -1,6 +1,300 @@
 {
  "posts": [
   {
+   "id": "20261011T0500_c4b761aa",
+   "at": "2026-10-11T05:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0500_reel-sunday-plan.mp4",
+   "caption": "Sunday is for planning, not predicting.\n\nNobody knows where the market opens Monday. You don't need to. What you DO need is a plan for whatever happens.\n\nMark the levels on the names you trade. Check the calendar (this week has bank earnings, CPI and options expiration). Decide the most you're willing to lose this week, and write it down before the first trade.\n\nThe traders who show up prepared don't have to guess. Everyone else is reacting.\n\nWhat does your Sunday prep look like? 👇",
+   "comment": "A plan in your head changes the moment a trade goes red. Write it down.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T0600_0877a154",
+   "at": "2026-10-11T06:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0600_mtr-trading-costs.mp4",
+   "caption": "Every trade costs money before it makes any.\n\nSpreads, commissions and fees come out on every round trip, win or lose. They feel tiny one trade at a time. They are NOT tiny over a year.\n\n5 trades a day at $5 per round trip = $6,300 a year.\n20 trades a day at $10 per round trip = $50,400 a year.\n\nThat's before a single losing trade. Your strategy has to beat that number first just to break even.\n\nThe math: trades a day x cost per round trip x 252 trading days. Before taxes.\n\nHow many trades do you make a day? Be honest 👇\n\nEducational only, not financial advice.",
+   "comment": "Spreads and fees are the one loss you're guaranteed. Your edge has to beat them first.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T0700_29b42c02",
+   "at": "2026-10-11T07:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0700_week-in-review.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0700_week-in-review.jpg",
+   "caption": "What a week for stocks.\n\nThe S&P 500 gained +1.15% this week and closed Friday at 7,811.54, less than 0.1% below the record close of 7,818.93 it set on Tuesday.\n\nThe Nasdaq rose +0.64% to 27,366.17. The Dow added +0.93% to 51,654.95.\n\nAnd it happened with the 10-year Treasury yield at 5.24%, just under the 5.31% it hit Monday, its highest since 2002. Meanwhile the VIX closed the week at 14.84. Fear is LOW.\n\nNext week brings bank earnings, the CPI inflation report and monthly options expiration. Calm weeks don't always stay calm.\n\nDid your portfolio beat the S&P this week? 👇\n\nData: index closes via Yahoo Finance and FRED. Not financial advice.",
+   "comment": "Record highs with 5% bond yields. Something has to give, or the economy is stronger than people think.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T0800_e569a585",
+   "at": "2026-10-11T08:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0800_notify-journal.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0800_notify-journal.jpg",
+   "caption": "Read that twice.\n\nMost traders don't fail because their strategy is bad. They fail because they abandon it after two losses and start improvising.\n\nYour journal is the most honest trading coach you'll ever have. It remembers exactly what happened when you followed your rules, and exactly what happened when you didn't.\n\nBefore the bell Monday: open it, read last week, and write down the ONE rule you'll protect this week.\n\nTag a trader who needs this before the open. 👇",
+   "comment": "Your journal remembers what your emotions forget. Read it before you trade.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T0900_97ac8de3",
+   "at": "2026-10-11T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/0900_reel-patience.mp4",
+   "caption": "Patience isn't doing nothing. It's refusing to do the wrong thing.\n\nEvery day the market shows you dozens of moves. Most of them aren't your trade. They don't fit your setup, your size or your risk.\n\nThe traders who last aren't the ones who trade the most. They're the ones who can sit through 10 \"almost\" setups and only pull the trigger on the one that actually fits the plan.\n\nCash is a position too.\n\nAre you a patient trader or an itchy one? 👇",
+   "comment": "Sitting on your hands is a skill. Most people never practice it.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1000_93852cad",
+   "at": "2026-10-11T10:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1000_options101-covered-call.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1000_options101-covered-call.jpg",
+   "caption": "Calls on Friday. Puts on Saturday. Today: the COVERED CALL. Save this. 📌\n\nYou own 100 shares at $100 and sell the $105 call for $2.00. You collect $200 today, no matter what happens next.\n\nAt expiration:\n→ Stock falls to $90: you lose $800 instead of $1,000 (the premium cushions it)\n→ Stock stays at $100: you keep the $200\n→ Stock at $105 or higher: you make $700, and that's the max. Your shares can get called away at $105\n\nThe trade-off is simple: you get paid now, you give up the big upside, and you still own the downside.\n\nWhat do you want next: cash-secured puts or spreads? 👇\n\nHypothetical example, before commissions. Educational only, not financial advice.",
+   "comment": "A covered call doesn't remove the stock's downside. It only cushions it by the premium.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1100_2df3f518",
+   "at": "2026-10-11T11:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1100_melting-option.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1100_melting-option.jpg",
+   "caption": "Holding a short-dated option and \"hoping\" is how time decay wins. 🫠\n\nEvery day you wait, the option loses a little value. And it's not a straight line: the last few days melt the FASTEST.\n\nThat's why so many options go from \"down a little\" to \"worth nothing\" in the final week.\n\nSimple fix: decide your exit BEFORE you enter. A profit target, a stop, and a date you'll get out by no matter what.\n\nEver watched one melt to zero? 👇",
+   "comment": "Hope is not an exit strategy. Especially with options.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1200_d7bc8ea4",
+   "at": "2026-10-11T12:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1200_wyr-bottom-vs-1pct.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1200_wyr-bottom-vs-1pct.jpg",
+   "caption": "Would you rather... A or B? 👇\n\nA: Catch the exact bottom once a year, but trade with no rules the rest of the time.\nB: Never lose more than 1% on any trade, but never catch a bottom.\n\nMost traders dream about A. It makes the best screenshot.\n\nBut the traders still around 10 years later usually live by B. One perfect trade can't fix a hundred careless ones, and a 1% max loss means no single trade can ever knock you out.\n\nA or B? Tell me WHY.",
+   "comment": "Bottoms make great screenshots. Risk rules make careers.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1300_530494fe",
+   "at": "2026-10-11T13:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1300_psych-missed-trade.mp4",
+   "caption": "FOMO tells you a missed move was money taken from you. It wasn't. It was never in your account.\n\nHere's what actually costs money: chasing the move after it already happened. Buying the top of the candle. Taking a worse entry with a bigger stop because you \"can't miss this one.\"\n\nA missed trade costs $0. A chased trade can cost a lot.\n\nThe market makes new setups every single day. You don't need the one that already left.\n\nWhat's a trade you chased and regretted? 👇\n\nEducational only, not financial advice.",
+   "comment": "The market makes a new setup every day. You don't have to take the one that already left.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1400_7c94ed9d",
+   "at": "2026-10-11T14:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1400_trading-week.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1400_trading-week.jpg",
+   "caption": "Funny until it's your account. 😅\n\nThis week has bank earnings on Tuesday and the CPI inflation report on Wednesday. Big event days are exactly when discipline slips: the move is fast, the screen is loud, and the plan goes out the window.\n\nThen Thursday becomes \"make it back\" day. And Friday is options expiration...\n\nWrite your rules down BEFORE Monday: max loss per day, max trades per day, and what you will NOT trade.\n\nWhich day of the week is your weakest? 👇",
+   "comment": "If Thursday looks familiar, your max daily loss rule is missing.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1500_e71520aa",
+   "at": "2026-10-11T15:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1500_kobeissi-oil.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1500_kobeissi-oil.jpg",
+   "caption": "Oil prices are now up +68.1% in 2026.\n\nWTI crude closed at $96.24 on October 6, up from $57.26 at the end of 2025.\n\nThis comes after oil hit $114.58 in April, its 2026 high.\n\nFor perspective, oil started the year below $60 a barrel.\n\nIn other words, energy is back at the center of the market. Oil feeds into transportation costs, company margins and inflation, which is exactly what traders will be watching when CPI hits on Wednesday.\n\nSource: EIA via FRED. Not financial advice.",
+   "comment": "Oil feeds into transport, input costs and inflation. Traders watch it for a reason.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1600_cd9a79f8",
+   "at": "2026-10-11T16:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1600_mtr-position-size.mp4",
+   "caption": "Position size is the one decision you control on EVERY trade.\n\nThe 1% rule: if your stop gets hit, you lose 1% of your account. Nothing more.\n\nThe math: shares = (account x 1%) / (entry price - stop price).\n\n$25,000 account, stop $2 below your entry: 125 shares max.\nSame account, stop $5 below: 50 shares.\n$10,000 account, $1 stop: 100 shares.\n\nNotice the stop decides the size, not your confidence. A wider stop means fewer shares.\n\nOne warning: a stock can gap past your stop overnight, so the real loss can be bigger.\n\nWhat % do you risk per trade? 👇\n\nEducational only, not financial advice.",
+   "comment": "Size the trade off the stop, not off how confident you feel.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1700_6757d943",
+   "at": "2026-10-11T17:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1700_watchlist-too-big.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1700_watchlist-too-big.jpg",
+   "caption": "When you watch everything, you chase everything.\n\nMost traders have 50+ tickers on their watchlist and know almost nothing about how any of them actually move.\n\nThe best traders usually know a handful of names inside out: how they react to earnings, where buyers tend to step in, what a real breakout looks like versus a fake one.\n\nTry this for one month: 5 tickers. That's it. Learn their personality.\n\nHow many tickers are on your list right now? 👇",
+   "comment": "Fewer names, better reads. Quality over quantity.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1800_3eedb999",
+   "at": "2026-10-11T18:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1800_premarket-routine.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1800_premarket-routine.jpg",
+   "caption": "Save this for Monday morning. 📌\n\nThe first hour of the trading day is decided BEFORE the bell rings.\n\nTraders who walk in with their levels marked, the calendar checked and a max loss set don't have to improvise when the open gets wild. Everyone else is reacting.\n\nThis week especially: bank earnings Tuesday, CPI Wednesday, options expiration Friday. Know what's coming before it hits your screen.\n\nWhat's the first thing you check every morning? 👇\n\nEducational only, not financial advice.",
+   "comment": "Same routine every day. That's what makes it work.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T1900_53777ef8",
+   "at": "2026-10-11T19:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1900_photobox-margin-debt.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/1900_photobox-margin-debt.jpg",
+   "caption": "Margin debt just hit a record, then fell by the most ever in a single month.\n\nFINRA data: investors borrowed a record $1.502 trillion on margin in June 2026. In July, $84.8 billion came back out, the largest one-month dollar drop since the data began in 1997.\n\nMargin lets you buy more than you can afford. That feels amazing when the market goes up.\n\nBut it magnifies losses just as much. And if your account falls far enough, your broker can issue a margin call or sell your positions for you, at the worst possible time.\n\nDo you trade on margin? 👇\n\nSource: FINRA margin statistics. Not financial advice.",
+   "comment": "Margin calls don't wait for the market to come back.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T2000_8f6fb755",
+   "at": "2026-10-11T20:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2000_headsup-week-ahead.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2000_headsup-week-ahead.jpg",
+   "caption": "Here's the week ahead. 📅\n\nMONDAY: Columbus Day. The stock market is OPEN, but the bond market is closed.\nTUESDAY: Big bank earnings start, led by JPMorgan.\nWEDNESDAY: The September CPI inflation report at 8:30 a.m. ET, with more bank earnings expected.\nFRIDAY: Monthly options expiration.\n\nWith the Fed having raised rates in September and the 10-year yield above 5%, Wednesday's CPI number could move everything.\n\nIf you trade options through these events, remember: implied volatility tends to rise INTO big events and drop right after.\n\nWhich day are you watching most? 👇\n\nDates: JPMorgan investor relations, BLS, SIFMA. Not financial advice.",
+   "comment": "Event-heavy weeks are where position size matters most.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T2100_c95ebe4c",
+   "at": "2026-10-11T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2100_bid-ask-spread.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2100_bid-ask-spread.jpg",
+   "caption": "That gap is the bid-ask spread, and you pay it every time you trade.\n\nBuy at the $1.10 ask, and if you had to sell right away, you'd only get the $0.90 bid. That's an 18% loss before the stock even moves.\n\nWide spreads usually show up in options with low volume and low open interest.\n\nHow to protect yourself:\n→ Check volume and open interest before you trade\n→ Use limit orders, not market orders\n→ Start near the middle of the spread instead of paying the ask\n\nDo you check the spread before you buy? 👇\n\nEducational only, not financial advice.",
+   "comment": "A tight spread is a free edge. A wide one is a hidden fee.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T2200_a617d954",
+   "at": "2026-10-11T22:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2200_headline-overtrading.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2200_headline-overtrading.jpg",
+   "caption": "More trading does not mean more money.\n\nIn a famous study of 66,465 households from 1991 to 1996, the 20% who traded the most earned 11.4% a year. The market returned 17.9%.\n\nThe researchers found it wasn't bad stock picks that hurt them. It was trading costs and trading too often.\n\nThe lesson isn't \"never trade.\" It's that every trade needs a real reason, because every trade has a real cost.\n\nDo you overtrade? Be honest 👇\n\nSource: Barber & Odean, \"Trading Is Hazardous to Your Wealth,\" Journal of Finance, 2000.",
+   "comment": "More trades doesn't mean more profit. Usually it means more fees.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261011T2300_32a392d8",
+   "at": "2026-10-11T23:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2300_kobeissi-2y-yield.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2300_kobeissi-2y-yield.jpg",
+   "caption": "The 2-year Treasury yield is up +128 basis points in 2026, to 4.75%.\n\nIt hit 4.92% on September 28, the highest since May 2024.\n\nThis comes after the Fed raised rates in September for the first time since 2023.\n\nFor perspective, the 2-year was at 3.38% in late February.\n\nIn other words, short-term rates are moving UP again, and the 2-year will be one of the first things to react to Wednesday's CPI report.\n\nSource: U.S. Treasury via FRED. Not financial advice.",
+   "comment": "The 2-year tracks where traders think the Fed is headed. Watch it on CPI day.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
+   "id": "20261012T0000_246cf972",
+   "at": "2026-10-12T00:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-11/2400_reel-sunday-night.mp4",
+   "caption": "Sunday night reminder before a BIG week.\n\nBank earnings, CPI and options expiration all land in the next five days. It's going to be tempting to trade everything.\n\nYou don't have to. You don't have to win Monday. You don't have to make back last week. You just have to protect the account so you're still here for the setups that are actually yours.\n\nSurvive first. Profit later.\n\nGoodnight, traders. What's your ONE rule for this week? 👇",
+   "comment": "Survive the week first. Profits come to the ones still standing.",
+   "batch": "postplanner_2026-10-11.xlsx",
+   "added": "2026-10-11T07:36:59.176Z"
+  },
+  {
    "id": "20261012T0500_a974c0f2",
    "at": "2026-10-12T05:00",
    "platforms": [
