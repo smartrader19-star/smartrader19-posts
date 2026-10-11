@@ -1,3 +1,286 @@
 {
- "posts": []
+ "posts": [
+  {
+   "id": "20261012T0500_a974c0f2",
+   "at": "2026-10-12T05:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/0500_reel-monday-rule.mp4",
+   "caption": "New week. Same rules.\n\nMonday is when traders try to fix last week. They size up to make back a loss, chase the first move of the day, or abandon the plan they wrote on Sunday.\n\nDon't. Last week is closed. This week has bank earnings Tuesday, the CPI report Wednesday and options expiration Friday. There will be PLENTY of chances.\n\nStart small, follow the plan, and let the week come to you.\n\nWhat's your ONE rule for this week? 👇",
+   "comment": "The week doesn't care how last week went. Neither should your position size.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T0600_c07970cd",
+   "at": "2026-10-12T06:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/0600_mtr-iv-expected-move.mp4",
+   "caption": "Implied volatility isn't just a number on your options chain. It's the market's estimate of how far a stock could move.\n\nThe math: expected move = price x IV x square root of (days / 365). That's a one standard deviation move, which the stock stays inside about 68% of the time.\n\nOn a $100 stock:\n→ 20% IV: about ±$1.05 a day, ±$5.73 a month\n→ 40% IV: about ±$2.09 a day, ±$11.47 a month\n→ 80% IV: about ±$4.19 a day, ±$22.94 a month\n\nWhy it matters: if you buy an option, the stock usually has to move MORE than the market already expects for you to win. High IV means you're paying for a big move up front.\n\nDo you check IV before you buy? 👇\n\nEducational only, not financial advice.",
+   "comment": "IV is the price of uncertainty. Before earnings it's high. After earnings it usually isn't.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T0700_ebf57528",
+   "at": "2026-10-12T07:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/0700_reel-columbus-day.mp4",
+   "caption": "Heads up before the open: it's Columbus Day.\n\nThe NYSE and Nasdaq are OPEN today. The U.S. bond market is closed, per SIFMA's holiday recommendation, so there's no cash Treasury trading.\n\nStocks come into the day hot. On Friday the S&P 500 rose +0.59% to 7,811.54, the Dow added +0.83% to 51,654.95, and the Nasdaq gained +0.64% to 27,366.17.\n\nHoliday sessions are often quieter, and quiet sessions can trap traders who force trades. The real action this week starts Tuesday with the big banks.\n\nAre you trading today or waiting for earnings? 👇\n\nData: Yahoo Finance index closes, SIFMA. Not financial advice.",
+   "comment": "Light days are a great time to plan, not a great time to force trades.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T0800_ca48afc0",
+   "at": "2026-10-12T08:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/0800_reel-notify-stop-loss.mp4",
+   "caption": "If your stop-loss could talk, this is what it would say. 👇\n\nMoving a stop \"just a little lower\" feels harmless in the moment. You're not changing the plan, you're just giving it room, right?\n\nThen you move it again. And again. And a small, planned loss becomes the trade that ruins your month.\n\nA stop is a decision you made when you were calm. Moving it is a decision you're making when you're scared. Trust the calm version of you.\n\nBe honest: have you ever moved a stop and regretted it? 👇",
+   "comment": "The stop you set before the trade is smarter than the one you'd set in the middle of it.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T0900_e170a731",
+   "at": "2026-10-12T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/0900_reel-volume.mp4",
+   "caption": "Price tells you WHAT happened. Volume tells you how much conviction was behind it.\n\nA stock breaking out on light volume is a few buyers pushing a thin market. Those moves often fade. A breakout on heavy volume means real money is showing up.\n\nSame thing on the way down: a drop on huge volume is usually more serious than a slow drift lower.\n\nBefore you chase a move this morning, check one thing: is volume higher than normal? If not, be careful.\n\nDo you watch volume or just price? 👇\n\nEducational only, not financial advice.",
+   "comment": "Big candle, tiny volume? Be suspicious.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1000_6f7a2382",
+   "at": "2026-10-12T10:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1000_options101-cash-secured-put.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1000_options101-cash-secured-put.jpg",
+   "caption": "Calls, puts, covered calls... today: the CASH-SECURED PUT. Save this. 📌\n\nThe stock is at $100. You sell 1 put with a $95 strike for $2.00 and collect $200 today. You set aside $9,500 in cash in case you have to buy 100 shares at $95.\n\nAt expiration:\n→ Stock stays above $95: the put expires and you keep the $200\n→ Stock falls below $95: you buy 100 shares at $95, but your real cost is $93 because of the premium\n→ Stock drops to $85: you're down $800 on paper\n\nIt's a way to get paid while you wait to buy a stock you already want. The catch: if the stock drops hard, you still own it all the way down.\n\nOnly sell puts on stocks you'd be happy to own. Next in the series: spreads?\n\nHypothetical example, before commissions. Educational only, not financial advice.",
+   "comment": "Selling a put on a stock you don't want to own is just picking up pennies in front of a steamroller.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1100_8c7da9f6",
+   "at": "2026-10-12T11:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1100_reel-meme-moving-stop.mp4",
+   "caption": "Every blown-up account has this story somewhere in it. 😅\n\nThe first time you move a stop, nothing bad happens. The stock comes back. You feel smart.\n\nSo you do it again. And the market eventually finds the one time it doesn't come back.\n\nRule worth tattooing on your monitor: stops only move in ONE direction, toward locking in profit. Never further away from your entry.\n\nTag the friend who needs this reminder 👇",
+   "comment": "A stop you keep moving isn't a stop. It's a suggestion.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1200_814b8438",
+   "at": "2026-10-12T12:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1200_reel-wyr-trading-vs-dividends.mp4",
+   "caption": "Would you rather... A or B? 👇\n\nA: $1,000 a month from trading, 40 hours a week at the screen.\nB: $1,000 a month from dividends, zero hours a week.\n\nHere's the catch with B: at a 4% dividend yield, $1,000 a month takes about $300,000 invested ($12,000 a year / 4%).\n\nThe catch with A: it's a job. Some months it pays more. Some months it pays nothing, or less than nothing.\n\nOne buys your time back. The other trades your time for money. A or B, and why?\n\nEducational only, not financial advice.",
+   "comment": "The dream is usually trade to build the capital, then let the capital pay you.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1300_077ca092",
+   "at": "2026-10-12T13:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1300_reel-loss-tuition.mp4",
+   "caption": "Every trader pays tuition. The question is whether you're getting an education for it.\n\nA loss that teaches you something is part of the process. A loss you repeat three times is just a habit you haven't faced yet.\n\nAfter every losing trade, write down three things: what happened, what you felt, and which rule you broke (if any). It takes two minutes.\n\nRead it back once a week. The pattern will jump out at you.\n\nWhat's a lesson the market had to teach you more than once? 👇",
+   "comment": "The market is an expensive teacher. Don't pay for the same class twice.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1400_a295dbae",
+   "at": "2026-10-12T14:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1400_reel-how-i-trade.mp4",
+   "caption": "We've all been the second one. 😂\n\nBuy, panic, sell, regret, buy back higher, repeat. Every round trip costs spreads and fees, and every emotional exit locks in a loss that a plan would have avoided.\n\nThe fix isn't more screen time. It's fewer decisions: set your entry, your stop and your target BEFORE the trade, then let them do the work.\n\nTag the friend who trades like the second half 👇",
+   "comment": "If your trading looks like a ping-pong match, your plan is missing.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1500_3b7ba392",
+   "at": "2026-10-12T15:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1500_reel-kobeissi-nasdaq.mp4",
+   "caption": "The Nasdaq Composite is now up +17.0% in 2026.\n\nThe index closed at 27,193.34 on October 8, up from 23,241.99 at the end of 2025.\n\nThis comes as the S&P 500 is up +13.4% over the same stretch.\n\nFor perspective, the Nasdaq set a record close of 27,599.89 on October 6.\n\nIn other words, tech is still leading this market.\n\nSource: Nasdaq via FRED. Not financial advice.",
+   "comment": "Leadership matters. When tech leads, the whole market usually follows. When it stalls, watch out.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1600_43c12a6b",
+   "at": "2026-10-12T16:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1600_mtr-missing-best-days.mp4",
+   "caption": "Missing a handful of days can wipe out 20 years of returns.\n\n$10,000 left in the S&P 500 from 2006 through 2025 grew to about $54,839 (price only, no dividends).\n\nMiss the 10 best days and it's about $24,417.\nMiss the 30 best days and you LOST money: about $9,428.\n\nHere's the painful part: many of the best days came right after the worst ones, exactly when most people panic and sell. (More on that at 10 PM.)\n\nData: S&P 500 daily closes via Yahoo Finance, Dec 30, 2005 to Dec 31, 2025, price only. The best days removed, every other day kept.\n\nHave you ever sold and watched it rip without you? 👇\n\nEducational only, not financial advice.",
+   "comment": "Time in the market keeps beating timing the market.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1700_4cdce599",
+   "at": "2026-10-12T17:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1700_reel-hot-take-every-tick.mp4",
+   "caption": "Here's a simple test for position size.\n\nIf you can't walk away from the screen for 30 minutes without your heart rate going up, the trade is too big for your account or your nerves.\n\nThe right size is boring. You know your max loss, you've accepted it before the trade, and a red candle doesn't ruin your afternoon.\n\nCut the size in half and watch how much better your decisions get.\n\nAgree or disagree? 👇",
+   "comment": "If you can't sleep with it, you're too big.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1800_021728c0",
+   "at": "2026-10-12T18:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1800_checklist-earnings.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1800_checklist-earnings.jpg",
+   "caption": "Earnings season starts TOMORROW with the big banks. Save this before you trade any of them. 📌\n\nEarnings are the biggest scheduled risk a single stock has. The stock can gap 5%, 10% or more overnight, right past any stop you set.\n\nAnd if you trade options, implied volatility usually climbs into the report and drops right after it. You can be right on direction and still lose money if the move is smaller than what was priced in.\n\nRun through these 7 before every earnings trade.\n\nWhich earnings report are you watching this week? 👇\n\nEducational only, not financial advice.",
+   "comment": "The safest earnings trade is often a smaller one.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T1900_bf593aac",
+   "at": "2026-10-12T19:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/1900_reel-photobox-records.mp4",
+   "caption": "28 record closes. And we're not even through October.\n\nThe S&P 500 started 2026 with a record to beat of 6,932.05, set on Christmas Eve 2025. Since then it has closed at a new all-time high 28 times, most recently 7,818.93 on October 6.\n\nHere's what most people get wrong: record highs FEEL like the top. Historically, they've often come in clusters during strong years, not as a single warning sign.\n\nThat doesn't mean nothing can go wrong. It means \"it's too high\" isn't a strategy by itself.\n\nAre you buying records or waiting for a pullback? 👇\n\nData: S&P 500 daily closes via Yahoo Finance, through Oct. 9, 2026. Not financial advice.",
+   "comment": "Waiting for the perfect pullback has cost people more than buying at a record ever did.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T2000_2638e5fc",
+   "at": "2026-10-12T20:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/2000_reel-headsup-banks.mp4",
+   "caption": "Earnings season starts tomorrow morning. 📅\n\nTUESDAY: JPMorgan reports before the open, with Wells Fargo, Goldman Sachs and Citigroup also expected.\nWEDNESDAY: the September CPI inflation report at 8:30 a.m. ET.\nFRIDAY: monthly options expiration.\n\nBank earnings set the tone for the whole season. They tell you how consumers are spending, how companies are borrowing, and how much trading activity there's been.\n\nIf you're holding bank stocks or their options overnight, check your size tonight, not at 6:45 a.m.\n\nWhich bank are you watching? 👇\n\nDates: JPMorgan investor relations, earnings calendars, BLS. Not financial advice.",
+   "comment": "Big banks see the whole economy first. Their reports are a preview for everyone else.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T2100_9f1b63bc",
+   "at": "2026-10-12T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/2100_reel-assignment.mp4",
+   "caption": "This is the part of selling options nobody explains until it happens to you.\n\nMost stock options in the U.S. are American-style: the buyer can exercise any time before expiration. If you sold that option, you can be ASSIGNED early.\n\nSold a covered call? Your shares can get called away. Sold a put? You can be handed 100 shares per contract.\nEarly assignment is most likely when an option is deep in the money, or right before a dividend for calls.\n\nIndex options like SPX are different: they're European-style and cash-settled, so no early assignment.\n\nHave you ever been assigned early? 👇\n\nEducational only, not financial advice.",
+   "comment": "Selling options means accepting the other side's choices. Size for it.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T2200_28120695",
+   "at": "2026-10-12T22:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/2200_reel-headline-best-worst.mp4",
+   "caption": "The best days and the worst days travel together.\n\nFrom 2006 through 2025, 6 of the S&P 500's 10 best days came within two weeks of one of its 10 worst days.\n\nThe best day: +11.58% on October 13, 2008, just days after a -7.62% drop. In 2020, a +9.38% day on March 24 came eight days after a -11.98% crash.\n\nThat's why panic-selling is so expensive. The days you're most tempted to get out are often right next to the days you most need to be in. (That's the 4 PM table.)\n\nDid you sell in 2020 or hold? 👇\n\nData: S&P 500 daily closes via Yahoo Finance, price only.",
+   "comment": "The recovery usually starts when it feels the worst.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261012T2300_0e08c4e2",
+   "at": "2026-10-12T23:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/2300_reel-kobeissi-fed.mp4",
+   "caption": "The Fed is raising rates again.\n\nIn September, the Fed lifted its target range to 3.75%-4.00%, its first hike since July 2023.\n\nThis comes after 6 straight cuts from September 2024 to December 2025, totaling -175 basis points.\n\nFor perspective, the rate peaked at 5.50% in 2023 and bottomed at 3.75% after the cuts.\n\nIn other words, the Fed just changed direction, and Wednesday's CPI report will shape what it does next.\n\nSource: Federal Reserve via FRED. Not financial advice.",
+   "comment": "Rate direction drives everything from mortgage rates to tech valuations. Watch Wednesday.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261013T0000_4c7ac369",
+   "at": "2026-10-13T00:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-12/2400_reel-big-day-tomorrow.mp4",
+   "caption": "Earnings season starts in a few hours.\n\nThe banks report before the market opens. Futures can move overnight. And the worst place to make a trading decision is in bed at midnight with your phone 6 inches from your face.\n\nYour plan is written. Your size is decided. Your max loss is set. Nothing you see in the next six hours changes that.\n\nClose the app. Get some sleep. Rested traders react better.\n\nGoodnight, traders. 🌙",
+   "comment": "The plan you made with a clear head beats anything you'll come up with at 2 AM.",
+   "batch": "postplanner_2026-10-12.xlsx",
+   "added": "2026-10-11T07:25:35.422Z"
+  }
+ ]
 }
