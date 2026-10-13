@@ -857,6 +857,288 @@
    "comment": "If your trading gives you a rush, check your position size.",
    "batch": "postplanner_2026-10-13.xlsx",
    "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261014T0500_50118284",
+   "at": "2026-10-14T05:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/0500_reel-two-accounts.mp4",
+   "caption": "The most important wall in your finances is the one between investing money and trading money.\n\nLong-term money has one job: grow quietly for years. Trading money has a different job, and it can go to zero while you learn.\n\nExample: put 90% of your money in long-term investments and 10% in a trading account. If the trading account goes to ZERO, you've lost 10%, not everything.\n\nThe rules:\n→ Decide the split once, in writing\n→ Never move long-term money to cover a trading loss\n→ Add to the trading account only from new savings\n\nDo you keep your trading money separate? 👇\n\nEducational only, not financial advice.\n\n#investing #trading #personalfinance #riskmanagement #stockmarket",
+   "comment": "Blowing up a trading account is a lesson. Blowing up your savings is a disaster. Keep them apart.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T0600_8c6f11b9",
+   "at": "2026-10-14T06:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/0600_mtr-otm-lottery.mp4",
+   "caption": "Cheap options feel like a bargain. The math says they're mostly lottery tickets.\n\nTake a $100 stock and its 30-day calls (30% implied volatility, Black-Scholes):\n\n→ $100 call: about $3.59, finishes in the money about 50% of the time\n→ $110 call: about $0.66, about 13%\n→ $120 call: about $0.06, about 2%\n\nThe $120 call looks cheap at six cents. But the stock has to rise more than 20% in a month just to break even, and the model gives that about a 2% chance.\n\nLow price doesn't mean low risk. It usually means low odds.\n\nDo you buy far out-of-the-money options? 👇\n\nModel estimates (30 days, 30% IV, 4% rate), not guarantees. Educational only, not financial advice.\n\n#optionstrading #options #callsandputs #optionseducation #stockmarket",
+   "comment": "A cheap option that expires worthless 98% of the time isn't cheap. It's expensive slowly.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T0700_6a25cc6e",
+   "at": "2026-10-14T07:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/0700_reel-history-black-monday.mp4",
+   "caption": "Black Monday is still the worst day in the S&P 500's history.\n\nOn Friday, Oct. 16, 1987, the S&P 500 closed at 282.70. On Monday it closed at 224.84. That's -20.47% in one session.\n\nFor perspective, the next-worst days on record:\n→ Oct. 28, 1929: -12.94%\n→ Mar. 16, 2020: -11.98%\n\nIt took about a year to recover. The S&P 500 first closed back above its pre-crash level on Oct. 20, 1988.\n\nThe investors who made it back weren't the ones who guessed the bottom. They were the ones who weren't forced to sell: no margin calls, no money needed that week.\n\nWould you have held through a -20% day? 👇\n\nData: S&P 500 daily closes via Yahoo Finance. Not financial advice.\n\n#stockmarket #blackmonday #markethistory #sp500 #investing",
+   "comment": "The crash doesn't ruin people. Leverage and needing the money that week does.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T0800_56a3b106",
+   "at": "2026-10-14T08:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/0800_reel-notify-phone.mp4",
+   "caption": "Checking your account more doesn't make it go up. It just makes you feel every tick.\n\nHere's why it hurts: since 1950, the S&P 500 has closed higher on only about 53% of trading days. Check daily and you'll see red almost half the time, even in great years.\n\nAnd every time you look, you're tempted to do something. Most of those somethings are mistakes.\n\nTry this instead:\n→ Set price alerts at your stop and target\n→ Check at set times: the open, midday, the close\n→ Delete the app from your home screen for a week\n\nHow many times did you check your account yesterday? Be honest 👇\n\n#tradingpsychology #investing #mindset #stockmarket #daytrading",
+   "comment": "Alerts watch the price so you don't have to.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T0900_db616782",
+   "at": "2026-10-14T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/0900_reel-limit-orders.mp4",
+   "caption": "The order type you pick can cost you money before the stock even moves.\n\nExample: a stock shows $10.00 bid and $10.20 ask. A market buy fills at $10.20, or worse if the price is moving. Sell right back at the bid and you're down 2% instantly.\n\nOn 500 shares, that spread alone is $100. At the open, spreads are often wider and prices jump around.\n\nSimple rules:\n→ Use limit orders on anything that isn't super liquid\n→ Be extra careful in the first minutes after the open\n→ Check the bid-ask spread before you click\n\nMarket orders or limit orders, which do you use? 👇\n\nEducational only, not financial advice.\n\n#stocktrading #daytrading #limitorders #tradingtips #stockmarket",
+   "comment": "A limit order is just you deciding the price instead of letting the market decide for you.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1000_5b27cfaf",
+   "at": "2026-10-14T10:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1000_options101-bear-put-spread.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1000_options101-bear-put-spread.jpg",
+   "caption": "Calls, puts, covered calls, cash-secured puts, bull call spreads... today: the BEAR PUT SPREAD. Save this. 📌\n\nIt's the bearish twin of yesterday's bull call spread. The stock is at $100. You buy the $100 put for $3.80 and sell the $90 put for $1.30. Your net cost is $250, and that's the most you can lose.\n\nAt expiration:\n→ Above $100: you lose the $250\n→ At $97.50: break-even\n→ At $90 or lower: you make the max, $750\n\nThe trade-off: you give up gains below $90 to cut your cost from $380 to $250. You get a bearish bet with a clear max loss and a clear max win.\n\nNext in the series: the iron condor?\n\nHypothetical example, before commissions. Educational only, not financial advice.\n\n#optionstrading #options #putspread #optionseducation #stockmarket",
+   "comment": "Bearish but don't want unlimited risk? A put spread caps both sides.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1100_36c9f122",
+   "at": "2026-10-14T11:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1100_reel-meme-sold-too-early.mp4",
+   "caption": "Selling too early is the most painful GOOD decision you'll ever make. 😅\n\nIf your plan said take profit at +10% and you did, you followed the plan. The stock running after doesn't make it a mistake. It makes it hindsight.\n\nWant a middle ground? Scale out. Example: you own 100 shares at $100. Sell 50 at $110 and lock in $500. Trail a stop on the other 50 and let them run.\n\nYou'll never sell the exact top. Nobody does.\n\nTag the friend who sold right before the rocket 👇\n\n#tradingmemes #stockmarketmemes #takeprofit #tradingpsychology #stocks",
+   "comment": "Nobody went broke taking a planned profit.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1200_bbe746cd",
+   "at": "2026-10-14T12:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1200_reel-wyr-small-wins.mp4",
+   "caption": "Would you rather... A or B? 👇\n\nA: win $100 nine times in a row, then lose $1,000 once.\nB: lose $100 nine times in a row, then win $1,000 once.\n\nDo the math. A ends at -100 dollars. B ends at +100 dollars.\n\nA feels amazing 90% of the time and still loses money. B feels awful 90% of the time and still makes money. That's why win rate alone tells you almost nothing. The size of your wins and losses decides everything.\n\nWhich would you pick, honestly? 👇\n\nEducational only, not financial advice.\n\n#wouldyourather #tradingpsychology #riskmanagement #trading #stockmarket",
+   "comment": "A high win rate with one giant loss is still a losing strategy.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1300_bcbb0043",
+   "at": "2026-10-14T13:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1300_reel-anchoring.mp4",
+   "caption": "The price you paid is the most important number to you and the least important number to the market.\n\nSay you bought at $50 and it's now $40. That's -20%, and getting back to $50 takes +25%. Your brain wants to wait for $50. That's anchoring.\n\nThe better question isn't \"how do I get back to even?\" It's \"is this the best place for my money right now, at this price?\"\n\nTry this:\n→ Cover your entry price on screen\n→ Ask if you'd buy it today at $40\n→ If the answer is no, why do you still own it?\n\nEver held something just to get back to even? 👇\n\nEducational only, not financial advice.\n\n#tradingpsychology #anchoring #behavioralfinance #investingtips #stockmarket",
+   "comment": "Getting back to even is a feeling, not a strategy.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1400_b305b5e2",
+   "at": "2026-10-14T14:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1400_reel-paper-vs-real.mp4",
+   "caption": "Same strategy. Completely different human. 😂\n\nPaper trading is great for learning buttons and testing rules. What it can't test is how you act when the money is real.\n\nThe fix: go live, but tiny. Trade 1 share, or positions small enough that a loss doesn't sting, for your first 50 real trades. Then size up slowly.\n\nYour strategy has to work with your nerves, not just on paper.\n\nTag the friend who's a legend in the simulator 👇\n\n#tradingmemes #papertrading #tradinghumor #tradingpsychology #daytrader",
+   "comment": "The simulator never makes your heart race. Real money does. Start small.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1500_c47ddca2",
+   "at": "2026-10-14T15:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1500_reel-kobeissi-tsm.mp4",
+   "caption": "TSMC stock is up +46.2% in 2026 heading into this week's earnings.\n\nShares of Taiwan Semiconductor (TSM) closed at $444.35 on October 12, up from $303.89 at the end of 2025.\n\nThis comes after the stock set a record close of $485.80 on October 5. It now sits 8.5% below that high.\n\nFor perspective, TSM traded as low as $316.50 on March 30, its 2026 low.\n\nIn other words, expectations are high going into Thursday's report.\n\nSource: Yahoo Finance daily closes. Not financial advice.\n\n#TSMC #semiconductors #stockmarket #stocks #chipstocks",
+   "comment": "When a stock is up this much into earnings, the bar for a good reaction is higher.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1600_d44cb09b",
+   "at": "2026-10-14T16:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1600_mtr-income-goal.mp4",
+   "caption": "Want to replace your salary with trading? Run these numbers first.\n\nThe return you need each year is just your income goal divided by your account size.\n\n→ $50,000 a year from a $25,000 account: 200% a year\n→ $50,000 a year from a $100,000 account: 50% a year\n→ $50,000 a year from a $500,000 account: 10% a year\n\nFor perspective, the S&P 500 averaged about 8.2% a year from 1950 to 2025, price only. Needing 200% a year means needing to beat the market by roughly 25 times. Every year. Before taxes.\n\nThat's not a reason to quit. It's a reason to build the account first and the income second.\n\nWhat account size would you need for your goal? 👇\n\nEducational only, not financial advice.\n\n#trading #personalfinance #daytrading #investing #stockmarket",
+   "comment": "Grow the account first. The income comes after.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1700_6102b89a",
+   "at": "2026-10-14T17:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1700_reel-hot-take-one-sentence.mp4",
+   "caption": "A good trade fits in one sentence. A bad one needs a paragraph of excuses.\n\nExample of a real one-sentence plan: \"I'm buying because it broke above $50 on double its normal volume, and I'm out if it closes back below $48.\"\n\nThat sentence has everything:\n→ Why you're in\n→ What would prove you wrong\n→ Where you get out\n\nIf you can't write that sentence, you don't have a trade. You have a feeling.\n\nAgree or disagree? 👇\n\n#tradingtips #trading #stocktrading #tradingstrategy #stockmarket",
+   "comment": "Write the sentence before you click buy. If it won't come out, don't click.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1800_c021de97",
+   "at": "2026-10-14T18:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1800_checklist-overnight-hold.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1800_checklist-overnight-hold.jpg",
+   "caption": "Save this for the next time you're tempted to \"just hold it overnight.\" 📌\n\nYour stop works during market hours. Overnight, a stock can open far past it, and your stop just fills at the open.\n\nExample: a $5,000 position with a 5% stop is planned as a $250 risk. If bad news gaps it down 15% overnight, you lose $750 instead.\n\nThat's why overnight positions should be smaller than day trades.\n\nDo you hold trades overnight? 👇\n\nEducational only, not financial advice.\n\n#swingtrading #riskmanagement #tradingtips #stockmarket #trading",
+   "comment": "Size overnight trades for the gap, not the stop.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T1900_46b3eb25",
+   "at": "2026-10-14T19:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/1900_reel-photobox-small-caps.mp4",
+   "caption": "The big stocks and the small stocks are telling different stories right now.\n\nAs of Monday's close (Oct. 12), the S&P 500 was 0.15% below its record of 7,818.93. The Russell 2000, the main small-cap index, was 8.9% below its August 14 record of 3,068.42.\n\nBoth are still up for the year: the S&P 500 +14.0% and the Russell 2000 +12.6%. But since August, small caps have been the weaker group.\n\nThe lesson for investors: \"the market\" on the news usually means the biggest companies. Your stocks can have a very different year.\n\nDo you own small caps or stick to the big names? 👇\n\nData: Yahoo Finance daily closes. Not financial advice.\n\n#smallcaps #russell2000 #sp500 #investing #stockmarket",
+   "comment": "An index near a record doesn't mean every stock is near one.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T2000_efa8dfec",
+   "at": "2026-10-14T20:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/2000_reel-headsup-tsmc.mp4",
+   "caption": "The world's largest contract chipmaker reports in a few hours. 📅\n\nTONIGHT: TSMC reports third-quarter results, with its earnings call at 2:00 a.m. ET Thursday.\nFRIDAY: monthly options expiration.\n\nWhy it matters: TSMC builds chips for many of the biggest tech companies, so its results and outlook can move chip stocks across the market. The stock (TSM) is up +46.2% in 2026 going in.\n\nIf you hold chip stocks or their options overnight, check your size tonight. By the US open, the reaction may already be priced in.\n\nAre you holding any chip stocks into this one? 👇\n\nDate: TSMC investor relations. Data: Yahoo Finance. Not financial advice.\n\n#TSMC #earnings #semiconductors #chipstocks #stockmarket",
+   "comment": "Big stocks that report overnight can gap the whole sector by the open.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T2100_f7b27c9e",
+   "at": "2026-10-14T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/2100_reel-open-interest.mp4",
+   "caption": "Two numbers on every options chain, and most beginners mix them up.\n\nVolume counts every contract traded today, whether it opened a new position or closed an old one. Open interest counts the contracts that are still open, and it only updates once a day, after the close.\n\nExample: a call trades 5,000 contracts today with open interest of 1,000.\n→ Tomorrow open interest jumps toward 5,000? Mostly new positions opened.\n→ Open interest stays near 1,000? Mostly day trades or positions being closed.\n\nBig volume is interesting. Big volume plus rising open interest is when new money is actually showing up.\n\nDo you check open interest before you trade an option? 👇\n\nEducational only, not financial advice.\n\n#optionstrading #options #openinterest #optionseducation #stockmarket",
+   "comment": "Low open interest often means wide spreads. Check it before you trade a contract.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T2200_83927f0a",
+   "at": "2026-10-14T22:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/2200_reel-headline-q4.mp4",
+   "caption": "We're two weeks into the fourth quarter. Here's what history says.\n\nFrom 1950 through 2025, the S&P 500 finished the fourth quarter higher in 61 of 76 years. That's 80% of the time, with an average gain of about +4.2%.\n\nBut it's a tendency, not a promise. In Q4 2018, the S&P 500 fell -13.97%.\n\nSeasonality is useful as background. It's not a reason to skip your stop or size up.\n\nDo you pay attention to seasonality? 👇\n\nData: S&P 500 closes Sep 30 to Dec 31 each year via Yahoo Finance, price only. Past performance doesn't guarantee future results.\n\n#sp500 #stockmarket #seasonality #investing #stockmarketdata",
+   "comment": "History is a tailwind, not a guarantee. Keep your rules either way.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261014T2300_9703006f",
+   "at": "2026-10-14T23:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/2300_reel-kobeissi-nflx.mp4",
+   "caption": "Netflix stock is now down -47.3% from its record close.\n\nShares closed at $70.61 on October 12, versus a split-adjusted record of $133.91 on June 30, 2025.\n\nThis comes as the S&P 500 sits within 0.15% of its own record.\n\nFor perspective, Netflix is down -24.7% in 2026 alone and hit a 2026 low of $67.06 on October 2.\n\nIn other words, a mega-cap can be cut nearly in half while the index barely notices.\n\nSource: Yahoo Finance daily closes, split-adjusted. Not financial advice.\n\n#netflix #NFLX #stockmarket #stocks #investing",
+   "comment": "Even the biggest names can drop 50%. Size every position like it can.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
+  },
+  {
+   "id": "20261015T0000_a1446b4d",
+   "at": "2026-10-15T00:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-14/2400_reel-one-percent-better.mp4",
+   "caption": "You don't need a perfect trading day. You need a slightly better process than yesterday.\n\nMost traders try to fix everything at once after a bad week. New strategy, new indicators, bigger size. It rarely works.\n\nPick ONE thing for tomorrow:\n→ Skip the first trade you'd normally force\n→ Follow your stop with zero exceptions\n→ Write one honest line in your journal after the close\n\nDo that one thing every day for a month and you won't recognize your trading.\n\nWhat's your one thing for tomorrow? 👇\n\nGoodnight, traders. 🌙\n\n#tradingpsychology #tradingmindset #selfimprovement #discipline #trading",
+   "comment": "Better process first. Better results follow.",
+   "batch": "postplanner_2026-10-14.xlsx",
+   "added": "2026-10-13T07:05:21.831Z"
   }
  ]
 }
