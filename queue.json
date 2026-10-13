@@ -575,6 +575,288 @@
    "comment": "The plan you made with a clear head beats anything you'll come up with at 2 AM.",
    "batch": "postplanner_2026-10-12.xlsx",
    "added": "2026-10-11T07:25:35.422Z"
+  },
+  {
+   "id": "20261013T0500_94121187",
+   "at": "2026-10-13T05:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/0500_reel-daily-loss-limit.mp4",
+   "caption": "Trading desks give every trader a daily loss limit. Most people trading from home never set one.\n\nHere's how it works. On a $10,000 account, a 2% daily limit is $200. Lose $200 and you're done. Platform closed. No exceptions.\n\nWhy it matters: three bad days in a row costs you 6%. Annoying, but fixable. One day of revenge trading can cost 20%, and a 20% loss needs a +25% gain just to get back to even.\n\nSet yours today:\n→ Pick the number BEFORE the open\n→ Write it on a sticky note\n→ When you hit it, walk away\n\nDo you have a daily loss limit? What is it? 👇\n\nEducational only, not financial advice.\n\n#daytrading #riskmanagement #tradingpsychology #tradingrules #stockmarket",
+   "comment": "The best trade after hitting your limit is the one you don't take.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T0600_289a00c4",
+   "at": "2026-10-13T06:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/0600_mtr-delta-touch.mp4",
+   "caption": "Delta tells you more than how fast an option moves. It's also a rough probability.\n\nRule of thumb: an option's delta is about its chance of finishing in the money. Its chance of TOUCHING the strike before expiration is about double that.\n\nExample: you sell a 0.20 delta put.\n→ About a 20% chance it finishes in the money\n→ About a 40% chance the stock trades through your strike at some point before expiration\n\nThat's why option sellers get tested far more often than they expect. Your strike getting hit is not rare. Plan for it before you sell.\n\nThese are model approximations, not guarantees. Big news can blow right through them.\n\nDo you check delta before you pick a strike? 👇\n\nEducational only, not financial advice.\n\n#optionstrading #options #delta #optionsgreeks #stockmarket",
+   "comment": "Selling a 0.20 delta option means getting tested often. Size so a test doesn't scare you out.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T0700_d1875c59",
+   "at": "2026-10-13T07:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/0700_reel-justin-split-monday.mp4",
+   "caption": "A split market to start the week.\n\nMonday's closes:\n→ Dow: +0.38% to 51,850.55\n→ S&P 500: -0.06% to 7,807.24\n→ Nasdaq: -0.44% to 27,245.90\n→ Russell 2000: -0.45% to 2,794.48\n\nTech lagged while bank stocks firmed up ahead of earnings. Citigroup gained +1.76% and JPMorgan added +0.39%.\n\nThe S&P 500 is still within 0.1% of its record close of 7,818.93.\n\nTODAY: JPMorgan reports before the open, with Wells Fargo, Goldman Sachs and Citigroup also expected. Bank stocks can gap hard on the numbers.\n\nAre you trading the bank reports or waiting? 👇\n\nData: Yahoo Finance daily closes. Not financial advice.\n\n#stockmarket #dowjones #nasdaq #earningsseason #marketnews #stocks",
+   "comment": "When the Dow and Nasdaq split, check which sectors are leading before you pick a side.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T0800_9e964906",
+   "at": "2026-10-13T08:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/0800_reel-notify-cash.mp4",
+   "caption": "Not trading is a decision too. Sometimes it's the best one you'll make all day.\n\nForcing trades costs more than it feels like. Say you take 5 so-so trades a week that win 45% of the time at 1:1. That's -0.10R per trade on average.\n\nOver 250 trades a year, that's -25R. Risking $100 a trade, you just paid $2,500 to feel busy.\n\nCash does three things for you:\n→ It can't lose money while you wait\n→ It keeps you ready for the A+ setup\n→ It keeps your head clear\n\nDo you trade every day or only when there's a setup? 👇\n\nEducational only, not financial advice.\n\n#tradingpsychology #daytrading #patience #riskmanagement #trading",
+   "comment": "No setup is a setup. It means wait.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T0900_77166ffe",
+   "at": "2026-10-13T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/0900_reel-relative-strength.mp4",
+   "caption": "The easiest day to find the strongest stocks is a red day.\n\nWhen the market sells off, almost everything goes down with it. The stocks that refuse to fall usually have buyers stepping in. That's relative strength.\n\nExample from yesterday: the Nasdaq fell 0.44% while Citigroup rose 1.76%. That's 2.2 percentage points of outperformance in a single session.\n\nHow to spot it at the open:\n→ Compare each stock's % change to SPY or QQQ\n→ Look for green names when the index is red\n→ Check that volume backs it up\n\nDo you scan for relative strength or just for big movers? 👇\n\nEducational only, not financial advice.\n\n#stocktrading #relativestrength #technicalanalysis #daytrading #stockmarket",
+   "comment": "A stock that's green on a red day is waving at you. Put it on the list.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1000_f7b062f6",
+   "at": "2026-10-13T10:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1000_options101-bull-call-spread.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1000_options101-bull-call-spread.jpg",
+   "caption": "Calls, puts, covered calls, cash-secured puts... today: the BULL CALL SPREAD. Save this. 📌\n\nThe stock is at $100. You buy the $100 call for $4.00 and sell the $110 call for $1.50. Your net cost is $250, and that's the most you can lose.\n\nAt expiration:\n→ Below $100: you lose the $250\n→ At $102.50: break-even\n→ At $110 or higher: you make the max, $750\n\nThe trade-off: you give up everything above $110 to cut your cost from $400 to $250. A smaller bet with a clear max loss and a clear max win.\n\nNext in the series: the bear put spread?\n\nHypothetical example, before commissions. Educational only, not financial advice.\n\n#optionstrading #options #callspread #optionseducation #stockmarket",
+   "comment": "Spreads trade some upside for a lower cost and a known max loss. Know which one you need.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1100_05b3715c",
+   "at": "2026-10-13T11:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1100_reel-meme-long-term-now.mp4",
+   "caption": "Every bag holder has said this sentence at least once. 😅\n\nIt starts as a quick trade. It goes red. And instead of taking the small loss, the plan quietly changes: \"I'll just hold it.\"\n\nThe problem is the math gets worse the longer you wait. Down 30%, you need +43% to get back. Down 50%, you need +100%.\n\nSimple rule:\n→ Decide the timeframe BEFORE you enter\n→ A day trade gets a day-trade stop\n→ Never turn a trade into an investment to avoid a loss\n\nTag the friend who's still holding 👇\n\n#tradingmemes #stockmarketmemes #bagholder #tradingpsychology #stocks",
+   "comment": "If the reason for the trade is gone, the trade should be gone too.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1200_faba1e32",
+   "at": "2026-10-13T12:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1200_reel-wyr-double-or-nothing.mp4",
+   "caption": "Would you rather... A or B? 👇\n\nA: a coin flip. Heads, your $10,000 account doubles to $20,000. Tails, it goes to zero.\nB: +12% a year, every year, for 10 years.\n\nHere's the math. B turns $10,000 into $31,058. A's average outcome is just $10,000, and half the time you're at zero with no way back.\n\nThat's risk of ruin. One bad outcome can end the game, and you can't compound from zero.\n\nA or B? Be honest 👇\n\nEducational only, not financial advice.\n\n#wouldyourather #riskmanagement #compounding #trading #investing",
+   "comment": "The goal isn't the biggest win. It's never taking the loss you can't come back from.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1300_5d81c560",
+   "at": "2026-10-13T13:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1300_reel-confirmation-bias.mp4",
+   "caption": "The most dangerous research is the kind that only proves you right.\n\nOnce you own a stock, your brain starts filtering. Good news feels important. Bad news feels like noise. That's confirmation bias, and it keeps people in losing trades far too long.\n\nA 2-minute fix before every trade:\n→ Write 3 reasons it could FAIL\n→ Write the price that proves you wrong\n→ Read one bearish take on purpose\n\nIf you can't explain the other side, you don't understand the trade yet.\n\nWhat's a trade where you ignored the warning signs? 👇\n\nEducational only, not financial advice.\n\n#tradingpsychology #confirmationbias #investingtips #mindset #stockmarket",
+   "comment": "Read the bear case before you buy. It's cheaper than learning it from the chart.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1400_715b10c1",
+   "at": "2026-10-13T14:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1400_reel-quit-job-quit-trading.mp4",
+   "caption": "Both of these people are wrong. 😂\n\nOne trade tells you almost nothing. It's a sample size of one.\n\nEven a strategy that wins 60% of the time loses 3 in a row about 6.4% of the time, and wins 3 in a row about 21.6% of the time. Streaks are normal. They don't mean you're a genius or a fraud.\n\nJudge yourself on your last 50 trades, not your last one.\n\nTag the friend who quits trading every Thursday 👇\n\n#tradingmemes #tradinghumor #daytrader #tradingpsychology #stockmarket",
+   "comment": "Your edge shows up over 50 trades, not 1.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1500_f99f9fa8",
+   "at": "2026-10-13T15:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1500_reel-kobeissi-hy-spread.mp4",
+   "caption": "Junk bond spreads have widened by +55 basis points since late August.\n\nThe ICE BofA US High Yield spread rose to 3.15% on October 8, up from its 2026 low of 2.60% on August 28.\n\nThis comes as the S&P 500 sits within 0.1% of its record close.\n\nFor perspective, the spread hit 3.46% during the March selloff and 4.61% in April 2025.\n\nIn other words, bond investors are asking for more protection while stock investors stay near highs.\n\nSource: ICE BofA via FRED. Not financial advice.\n\n#stockmarket #bonds #creditmarkets #macro #investing",
+   "comment": "Credit often moves before stocks. Worth watching when the two disagree.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1600_1e01e3b5",
+   "at": "2026-10-13T16:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1600_mtr-shares-vs-calls.mp4",
+   "caption": "Same $1,000. Very different outcomes.\n\nA $100 stock. Option A: buy 10 shares. Option B: buy 2 calls with a $100 strike at $5.00 each. Both cost $1,000.\n\nAt expiration:\n→ Stock flat at $100: shares $0, calls -$1,000 (-100%)\n→ Stock at $105: shares +$50, calls $0\n→ Stock at $120: shares +$200, calls +$3,000\n\nThat's leverage, and it cuts both ways. The calls need the stock to move MORE and FASTER than the shares do, just to break even.\n\nHypothetical, held to expiration, before commissions.\n\nShares or calls, which do you usually buy? 👇\n\nEducational only, not financial advice.\n\n#optionstrading #options #leverage #stocktrading #tradingeducation",
+   "comment": "Calls can't sit still. Shares can. Pick the one that matches your timeframe.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1700_47602d5b",
+   "at": "2026-10-13T17:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1700_reel-hot-take-indicators.mp4",
+   "caption": "Most indicators are built from the same thing: price.\n\nRSI, MACD, stochastics and moving averages all come from the same candles. Stack five of them and you often get the same signal five times, which feels like confirmation but isn't.\n\nTry this:\n→ Keep one for trend (like a moving average)\n→ Keep one for momentum (like RSI)\n→ Delete the rest for a week and just watch price and volume\n\nA clean chart makes faster, calmer decisions.\n\nHow many indicators are on your chart right now? 👇\n\n#technicalanalysis #trading #daytrading #tradingtips #chartanalysis",
+   "comment": "If your chart needs a legend, it has too much on it.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1800_5d1ec6f5",
+   "at": "2026-10-13T18:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1800_checklist-pump-and-dump.png",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1800_checklist-pump-and-dump.jpg",
+   "caption": "Save this before the next \"hot tip\" lands in your DMs. 📌\n\nA pump and dump is simple: promoters buy a cheap, thinly traded stock, hype it everywhere, then sell into the rush of new buyers. When they're done selling, the price collapses.\n\nThe math for the people who buy late is brutal. A $0.50 stock pumped to $1.50 that falls back to $0.50 leaves top buyers down 67%.\n\nThe SEC's Investor.gov lists these same warning signs. If a tip checks two or more boxes, walk away.\n\nHave you ever gotten one of these tips? 👇\n\nSource: SEC Investor.gov investor alerts. Not financial advice.\n\n#stockmarket #investingtips #scamawareness #pennystocks #trading",
+   "comment": "If someone is that sure a stock will 10x, ask why they're telling you instead of buying more.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T1900_96c86881",
+   "at": "2026-10-13T19:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/1900_reel-photobox-gold.mp4",
+   "caption": "Gold is down 21.2% from its record. Quietly.\n\nGold futures closed at a record $5,318.40 on January 29. On Monday they settled at $4,190.60. That's a -21.2% drop, which is bear market territory.\n\nIt's also down 3.5% for 2026, after starting the year at $4,341.10.\n\nThe lesson isn't about gold. It's that every asset can drop 20%, even the ones people call safe. Position size matters for all of them.\n\nDo you own any gold? 👇\n\nData: COMEX gold futures (GC=F) daily settles via Yahoo Finance. Not financial advice.\n\n#gold #commodities #trading #riskmanagement #stockmarket",
+   "comment": "Safe is a feeling, not a guarantee. Size every position like it can drop 20%.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T2000_5729344e",
+   "at": "2026-10-13T20:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/2000_reel-headsup-cpi.mp4",
+   "caption": "Tomorrow's 8:30 a.m. number can move everything. 📅\n\nWEDNESDAY: the September CPI inflation report, 8:30 a.m. ET.\nFRIDAY: monthly options expiration.\n\nWhy it matters: the Fed raised its target range to 3.75%-4.00% in September, its first hike since 2023. A hot inflation number can push rate expectations higher. A cool one can do the opposite.\n\nIf you trade options, implied volatility often climbs into the report and drops right after it. If you hold positions overnight, check your size tonight, not at 8:29 a.m.\n\nWhat's your guess: hotter or cooler than expected? 👇\n\nDates: BLS release calendar. Not financial advice.\n\n#CPI #inflation #stockmarket #federalreserve #marketnews",
+   "comment": "Decide what you'll do on a hot number AND a cool one before 8:30.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T2100_4a5dc3c5",
+   "at": "2026-10-13T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/2100_reel-sell-vs-exercise.mp4",
+   "caption": "This is the options mistake that costs money without anyone noticing.\n\nExample: the stock is at $110. Your $100 call trades at $12.00 with weeks left.\n\n→ Exercise: you buy the stock at $100 when it's worth $110. That's $1,000 of value per contract.\n→ Sell the call: you collect $1,200.\n\nThe $200 difference is time value, and exercising early throws it away.\n\nExceptions exist, like deep in-the-money calls right before a dividend, or contracts with very wide bid-ask spreads. Most of the time, selling to close wins.\n\nDid you know about time value when you started? 👇\n\nEducational only, not financial advice.\n\n#optionstrading #options #optionseducation #callsandputs #stockmarket",
+   "comment": "An option is worth its intrinsic value plus time value. Exercising early keeps only the first part.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T2200_6a43b39b",
+   "at": "2026-10-13T22:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/2200_reel-headline-up-days.mp4",
+   "caption": "Zoom out.\n\nFrom 1950 through 2025, the S&P 500 closed higher on 10,160 of 19,121 trading days. That's 53.1%, barely better than a coin flip.\n\nBut it finished the YEAR higher in 56 of 76 years. That's 73.7%, about 3 years out of 4.\n\nDay to day, the market is mostly noise. Year to year, it has gone up far more often than not. Your timeframe changes everything.\n\nDo you look at your account daily or yearly? 👇\n\nData: S&P 500 daily closes via Yahoo Finance, Jan 1950 to Dec 2025, price only. Past performance doesn't guarantee future results.\n\n#sp500 #stockmarket #investing #longterminvesting #stockmarketdata",
+   "comment": "Checking your account every day makes a 3-in-4 game feel like a coin flip.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261013T2300_c162abe6",
+   "at": "2026-10-13T23:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/2300_reel-kobeissi-cpi.mp4",
+   "caption": "US inflation is running at 3.35% ahead of tomorrow's report.\n\nThe Consumer Price Index rose 3.35% year over year in August, up from 2.39% in January.\n\nThis comes after inflation hit a 2026 high of 4.17% in May, and as the Fed raised rates in September for the first time since 2023.\n\nFor perspective, inflation peaked at 8.98% in June 2022.\n\nIn other words, inflation has cooled from May but is still well above where it started the year. Tomorrow's September number decides which way that trend goes.\n\nSource: BLS via FRED. Not financial advice.\n\n#inflation #CPI #economy #stockmarket #federalreserve",
+   "comment": "The trend matters more than one print. Watch the direction tomorrow.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
+  },
+  {
+   "id": "20261014T0000_5a3dbcda",
+   "at": "2026-10-14T00:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-13/2400_reel-boring-is-profitable.mp4",
+   "caption": "The best trading usually looks boring from the outside.\n\nThe traders who last aren't chasing the biggest move of the day. They take the same few setups, with the same size, following the same rules, over and over.\n\nExcitement is usually a warning sign. It means the size is too big, the setup is new, or the plan went out the window.\n\nTomorrow brings the CPI report. Make your plan boring tonight: your levels, your size, your max loss. Then go to sleep.\n\nGoodnight, traders. 🌙\n\n#tradingpsychology #tradingmindset #daytrading #discipline #stockmarket",
+   "comment": "If your trading gives you a rush, check your position size.",
+   "batch": "postplanner_2026-10-13.xlsx",
+   "added": "2026-10-13T06:27:42.102Z"
   }
  ]
 }
