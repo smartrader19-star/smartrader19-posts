@@ -1,0 +1,39 @@
+# smarTrader19 autopost (copied to .github/workflows/ by hourly.py --publish; edit the copy in hourly/planner/).
+# Posts what the dashboard queued (queue.json on the planner-data branch). Wakes at :50 and :55 to post the next
+# slot on the minute; :15 and :35 retry anything that failed and finish first comments. The dashboard starts a
+# run itself after every save (workflow_dispatch). Free: the repo is public.
+name: autopost
+on:
+  schedule:
+    - cron: "50,55 * * * *"
+    - cron: "15,35 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run = post what's due, check = test a day without posting, dry = list the schedule"
+        default: run
+      date:
+        description: "YYYY-MM-DD for check / dry"
+        default: ""
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  autopost:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            planner
+      - name: autopost
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_ID: ${{ secrets.META_IG_ID }}
+          MODE: ${{ inputs.mode }}
+          DAY: ${{ inputs.date }}
+        run: python3 planner/autopost.py "${MODE:-run}" $DAY

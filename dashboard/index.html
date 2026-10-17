@@ -1,0 +1,803 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>smarTrader19 Planner</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="avatar.jpg">
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<style>
+:root {
+  --bg: #f4f6f8; --panel: #ffffff; --panel2: #f9fafb; --line: #e3e7eb; --line2: #eef1f4;
+  --text: #1c2228; --muted: #69737d; --faint: #9aa3ac;
+  --green: #1fa84a; --green-ink: #ffffff; --green-soft: #e7f6ec; --today: #eef9f1;
+  --fb: #1877f2; --red: #d93d42; --red-soft: #fdeced; --amber: #c27c0e; --amber-soft: #fdf4e3;
+  --blue: #2f6fe0; --blue-soft: #e8f0fd; --shadow: 0 8px 30px rgba(20, 30, 40, .14);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1113; --panel: #161a1e; --panel2: #1b2025; --line: #2a3137; --line2: #21272c;
+    --text: #e6eaee; --muted: #9aa4ae; --faint: #6d7781;
+    --green: #2fbf5c; --green-ink: #06210f; --green-soft: #153321; --today: #13241a;
+    --red: #f06368; --red-soft: #3a1c1e; --amber: #e9a23b; --amber-soft: #352a15;
+    --blue: #6b9cf5; --blue-soft: #1a2640; --shadow: 0 8px 30px rgba(0, 0, 0, .5);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1113; --panel: #161a1e; --panel2: #1b2025; --line: #2a3137; --line2: #21272c;
+  --text: #e6eaee; --muted: #9aa4ae; --faint: #6d7781;
+  --green: #2fbf5c; --green-ink: #06210f; --green-soft: #153321; --today: #13241a;
+  --red: #f06368; --red-soft: #3a1c1e; --amber: #e9a23b; --amber-soft: #352a15;
+  --blue: #6b9cf5; --blue-soft: #1a2640; --shadow: 0 8px 30px rgba(0, 0, 0, .5);
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--bg); color: var(--text); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+button, input, textarea, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+a { color: var(--blue); }
+.app { display: grid; grid-template-columns: 248px 1fr; height: 100vh; }
+
+/* side panel */
+.side { background: var(--panel); border-right: 1px solid var(--line); padding: 18px 16px; display: flex; flex-direction: column; gap: 18px; overflow-y: auto; }
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 15px; }
+.brand img { width: 36px; height: 36px; border-radius: 50%; border: 2px solid var(--green); }
+.brand small { display: block; font-weight: 500; color: var(--muted); font-size: 12px; }
+.btn { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 8px 14px; font-weight: 600; }
+.btn:hover { background: var(--panel2); }
+.btn.primary { background: var(--green); color: var(--green-ink); border-color: var(--green); }
+.btn.primary:hover { filter: brightness(1.06); }
+.btn.danger { color: var(--red); border-color: var(--red); background: transparent; }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.create { width: 100%; padding: 11px; font-size: 15px; display: flex; align-items: center; justify-content: center; gap: 8px; }
+.navh { font-size: 11px; font-weight: 700; letter-spacing: .08em; color: var(--muted); text-transform: uppercase; margin: 0 0 6px; }
+.nav { display: flex; flex-direction: column; gap: 2px; }
+.nav button { text-align: left; background: none; border: 0; border-radius: 8px; padding: 8px 10px; font-weight: 600; display: flex; justify-content: space-between; }
+.nav button:hover { background: var(--panel2); }
+.nav button.on { background: var(--green-soft); color: var(--green); }
+.nav .n { color: var(--muted); font-weight: 500; }
+.profiles { display: flex; gap: 10px; }
+.prof { position: relative; border: 0; background: none; padding: 0; opacity: .38; }
+.prof.on { opacity: 1; }
+.prof img { width: 48px; height: 48px; border-radius: 50%; border: 3px solid var(--line); display: block; }
+.prof.on img { border-color: var(--green); }
+.prof .net { position: absolute; right: -3px; bottom: -3px; }
+.runner { margin-top: auto; border: 1px solid var(--line); border-radius: 10px; padding: 12px; background: var(--panel2); font-size: 13px; }
+.runner b { display: block; margin-bottom: 4px; }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; }
+
+/* main */
+.main { display: flex; flex-direction: column; min-width: 0; }
+.bar { display: flex; align-items: center; gap: 10px; padding: 14px 20px; background: var(--panel); border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.tabs { display: inline-flex; background: var(--panel2); border: 1px solid var(--line); border-radius: 8px; padding: 2px; }
+.tabs button { border: 0; background: none; padding: 6px 14px; border-radius: 6px; font-weight: 600; color: var(--muted); }
+.tabs button.on { background: var(--green-soft); color: var(--green); }
+.search { flex: 1; min-width: 160px; max-width: 320px; border: 1px solid var(--line); background: var(--panel); border-radius: 8px; padding: 7px 12px; }
+.spacer { flex: 1; }
+.total { color: var(--muted); }
+.total b { color: var(--text); }
+.iconbtn { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; width: 36px; height: 36px; display: inline-grid; place-items: center; }
+.weekbar { display: flex; align-items: center; gap: 12px; padding: 12px 20px; }
+.weekbar h2 { font-size: 16px; margin: 0; letter-spacing: .02em; min-width: 170px; text-align: center; }
+.banner { margin: 0 20px 10px; padding: 10px 14px; border-radius: 10px; background: var(--amber-soft); color: var(--amber); font-weight: 600; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.banner.info { background: var(--blue-soft); color: var(--blue); }
+.content { flex: 1; overflow: auto; padding: 0 20px 24px; }
+
+/* calendar */
+.cal { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; min-width: 860px; }
+.calrow { display: grid; grid-template-columns: 64px repeat(7, minmax(110px, 1fr)); }
+.calhead { position: sticky; top: 0; z-index: 2; background: var(--panel); border-bottom: 1px solid var(--line); border-radius: 12px 12px 0 0; }
+.dh { text-align: center; padding: 10px 4px; font-weight: 700; font-size: 13px; border-left: 1px solid var(--line2); }
+.dh span { display: inline-grid; place-items: center; min-width: 26px; height: 26px; border-radius: 13px; margin-top: 4px; font-weight: 600; }
+.dh.today span { background: var(--green); color: var(--green-ink); }
+.hr { font-size: 11px; font-weight: 700; color: var(--muted); padding: 6px 8px; text-align: right; border-top: 1px solid var(--line2); }
+.cell { border-left: 1px solid var(--line2); border-top: 1px solid var(--line2); padding: 4px; min-height: 38px; display: flex; flex-direction: column; gap: 4px; }
+.cell.today { background: var(--today); }
+.pill { display: flex; align-items: center; gap: 6px; width: 100%; border: 1px solid var(--line); border-left: 4px solid var(--faint); background: var(--panel); border-radius: 7px; padding: 5px 7px; font-size: 12px; text-align: left; }
+.pill:hover { border-color: var(--green); }
+.pill .t { font-weight: 600; white-space: nowrap; }
+.pill .nets { display: inline-flex; gap: 2px; margin-left: auto; }
+.pill.posted { border-left-color: var(--green); }
+.pill.failed { border-left-color: var(--red); background: var(--red-soft); }
+.pill.missed { border-left-color: var(--amber); background: var(--amber-soft); }
+.pill.posting { border-left-color: var(--blue); }
+.net { display: inline-grid; place-items: center; width: 18px; height: 18px; border-radius: 50%; color: #fff; font: 800 11px/1 Arial, sans-serif; box-shadow: 0 0 0 2px var(--panel); position: relative; }
+.net.fb { background: var(--fb); }
+.net.ig { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fd5949 45%, #d6249f 60%, #285AEB 90%); }
+.net.big { width: 22px; height: 22px; }
+.net::after { content: ""; position: absolute; right: -3px; top: -3px; width: 8px; height: 8px; border-radius: 50%; display: none; box-shadow: 0 0 0 1.5px var(--panel); }
+.net.s-posted::after { display: block; background: var(--green); }
+.net.s-error::after, .net.s-missed::after { display: block; background: var(--red); }
+.net.s-staged::after { display: block; background: var(--blue); }
+.kind { color: var(--muted); display: inline-flex; }
+
+/* list */
+.list { display: flex; flex-direction: column; gap: 18px; max-width: 980px; }
+.day h3 { margin: 6px 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.lrow { display: grid; grid-template-columns: 74px 58px 1fr auto; gap: 14px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--faint); border-radius: 10px; padding: 10px 12px; text-align: left; width: 100%; }
+.lrow + .lrow { margin-top: 8px; }
+.lrow.selmode { grid-template-columns: 26px 74px 58px 1fr auto; cursor: pointer; }
+.lrow.selmode.picked { border-color: var(--red); background: var(--red-soft); }
+.lrow.selmode.locked { opacity: .5; cursor: not-allowed; }
+.lrow input[type=checkbox], .day h3 input { width: 18px; height: 18px; accent-color: var(--red); margin: 0; }
+.day h3 label { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; }
+.selbar { position: fixed; z-index: 30; left: 50%; transform: translateX(-50%); bottom: 18px; width: min(780px, calc(100vw - 32px)); background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 12px 14px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.list.selecting { padding-bottom: 110px; }
+.btn.on { background: var(--red-soft); color: var(--red); border-color: var(--red); }
+.lrow:hover { border-color: var(--green); }
+.lrow.posted { border-left-color: var(--green); } .lrow.failed { border-left-color: var(--red); } .lrow.missed { border-left-color: var(--amber); } .lrow.posting { border-left-color: var(--blue); }
+.lrow .t { font-weight: 700; }
+.thumb { width: 58px; height: 72px; border-radius: 6px; object-fit: cover; background: var(--line2); display: block; }
+.lrow .cap { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; color: var(--text); }
+.lrow .meta { display: flex; gap: 6px; align-items: center; }
+.empty { text-align: center; color: var(--muted); padding: 60px 20px; }
+.empty b { display: block; color: var(--text); font-size: 16px; margin-bottom: 6px; }
+
+/* modal + drawer */
+.scrim { position: fixed; inset: 0; background: rgba(10, 15, 20, .45); display: none; z-index: 20; }
+.scrim.on { display: block; }
+.modal { position: fixed; z-index: 21; left: 50%; top: 4vh; transform: translateX(-50%); width: min(1040px, calc(100vw - 24px)); max-height: 92vh; overflow: auto; background: var(--bg); border-radius: 14px; box-shadow: var(--shadow); display: none; }
+.modal.on { display: block; }
+.mhead { display: flex; align-items: center; gap: 12px; padding: 16px 20px; position: sticky; top: 0; background: var(--bg); z-index: 1; }
+.mhead h2 { margin: 0; font-size: 20px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; margin: 0 20px 16px; }
+.card > h3 { margin: 0; padding: 14px 18px; font-size: 16px; border-bottom: 1px solid var(--line); display: flex; align-items: center; gap: 10px; }
+.step { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: var(--panel2); border: 1px solid var(--line); font-size: 13px; }
+.cardb { padding: 16px 18px; }
+.drop { border: 2px dashed var(--line); border-radius: 12px; padding: 34px 16px; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.drop.hot { border-color: var(--green); background: var(--green-soft); }
+.drop p { margin: 0; }
+.linkbtn { background: none; border: 0; color: var(--green); font-weight: 700; padding: 0; }
+table.prev { width: 100%; border-collapse: collapse; font-size: 13px; }
+.prev th { text-align: left; color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .05em; padding: 6px 8px; border-bottom: 1px solid var(--line); }
+.prev td { padding: 8px; border-bottom: 1px solid var(--line2); vertical-align: top; }
+.prev .capc { max-width: 380px; }
+.prev .capc div { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.tag { display: inline-block; border-radius: 6px; padding: 2px 7px; font-size: 12px; font-weight: 700; white-space: nowrap; }
+.tag.ok { background: var(--green-soft); color: var(--green); }
+.tag.err { background: var(--red-soft); color: var(--red); }
+.tag.warn { background: var(--amber-soft); color: var(--amber); }
+.tag.dup { background: var(--panel2); color: var(--muted); border: 1px solid var(--line); }
+.mfoot { display: flex; align-items: center; gap: 12px; padding: 0 20px 20px; flex-wrap: wrap; }
+.drawer { position: fixed; z-index: 21; top: 0; right: 0; bottom: 0; width: min(520px, 100vw); background: var(--panel); box-shadow: var(--shadow); transform: translateX(105%); transition: transform .18s ease; display: flex; flex-direction: column; }
+.drawer.on { transform: none; }
+.dhead { display: flex; align-items: center; gap: 10px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+.dhead h2 { margin: 0; font-size: 17px; flex: 1; }
+.dbody { flex: 1; overflow: auto; padding: 16px 18px; display: flex; flex-direction: column; gap: 14px; }
+.media { flex: none; height: 380px; background: #000; border-radius: 10px; display: grid; place-items: center; overflow: hidden; }
+.media video, .media img { max-width: 100%; max-height: 380px; display: block; }
+label.f { display: flex; flex-direction: column; gap: 6px; font-weight: 600; font-size: 13px; }
+label.f input, label.f textarea { border: 1px solid var(--line); background: var(--panel2); border-radius: 8px; padding: 8px 10px; font-weight: 400; }
+label.f textarea { min-height: 150px; resize: vertical; }
+.count { font-weight: 500; color: var(--muted); font-size: 12px; text-align: right; }
+.count.over { color: var(--red); }
+.statrow { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; }
+.statrow .s { margin-left: auto; text-align: right; font-size: 13px; }
+.checks { display: flex; gap: 16px; }
+.checks label { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; }
+.dfoot { display: flex; gap: 10px; padding: 14px 18px; border-top: 1px solid var(--line); }
+.toast { position: fixed; z-index: 40; left: 50%; bottom: 22px; transform: translateX(-50%); background: var(--text); color: var(--panel); padding: 10px 16px; border-radius: 10px; font-weight: 600; box-shadow: var(--shadow); display: none; max-width: calc(100vw - 32px); }
+.toast.on { display: block; }
+.muted { color: var(--muted); }
+.small { font-size: 12px; }
+code { background: var(--panel2); border: 1px solid var(--line); border-radius: 5px; padding: 1px 5px; font-size: 12px; }
+ol.steps { margin: 6px 0 0; padding-left: 20px; }
+ol.steps li { margin: 4px 0; }
+
+@media (max-width: 860px) {
+  .app { grid-template-columns: 1fr; height: auto; min-height: 100vh; }
+  .side { border-right: 0; border-bottom: 1px solid var(--line); padding: 12px 16px; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 12px; }
+  .side .navwrap, .runner { display: none; }
+  .create { width: auto; }
+  .bar, .weekbar { padding-left: 16px; padding-right: 16px; }
+  .content { padding: 0 16px 24px; }
+  .banner { margin: 0 16px 10px; }
+  .lrow { grid-template-columns: 1fr 58px; grid-template-areas: "t thumb" "cap thumb" "meta thumb"; gap: 4px 12px; }
+  .lrow .t { grid-area: t; } .lrow .thumb { grid-area: thumb; } .lrow .cap { grid-area: cap; } .lrow .meta { grid-area: meta; }
+  .lrow.selmode { grid-template-columns: 26px 1fr 58px; grid-template-areas: "ck t thumb" "ck cap thumb" "ck meta thumb"; }
+  .lrow .ck { grid-area: ck; align-self: center; }
+  .total { display: none; }
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="brand"><img src="avatar.jpg" alt=""><div>smarTrader19<small>Post planner</small></div></div>
+    <button class="btn primary create" id="createBtn">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+      Create Posts</button>
+    <div class="navwrap">
+      <p class="navh">Posts</p>
+      <div class="nav" id="nav"></div>
+    </div>
+    <div class="navwrap">
+      <p class="navh">Profiles</p>
+      <div class="profiles" id="profiles"></div>
+    </div>
+    <div class="runner" id="runner"></div>
+  </aside>
+
+  <main class="main">
+    <div class="bar">
+      <div class="tabs" id="tabs"><button data-v="calendar">Calendar</button><button data-v="list">List</button></div>
+      <input class="search" id="search" type="search" placeholder="Search posts">
+      <button class="btn" id="selectBtn" title="Select posts and delete them in bulk">Select</button>
+      <span class="spacer"></span>
+      <span class="total" id="total"></span>
+      <button class="iconbtn" id="refreshBtn" title="Refresh" aria-label="Refresh">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.64-6.36M21 4v5h-5"/></svg></button>
+      <button class="iconbtn" id="settingsBtn" title="Settings" aria-label="Settings">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button>
+    </div>
+    <div class="weekbar" id="weekbar">
+      <button class="btn" id="todayBtn">Today</button>
+      <button class="iconbtn" id="prevBtn" aria-label="Previous week">&#8249;</button>
+      <h2 id="weekTitle"></h2>
+      <button class="iconbtn" id="nextBtn" aria-label="Next week">&#8250;</button>
+      <span class="spacer"></span>
+      <span class="muted small">All times Eastern (New York)</span>
+    </div>
+    <div id="banners"></div>
+    <div class="content" id="content"></div>
+  </main>
+</div>
+
+<div class="scrim" id="scrim"></div>
+
+<!-- create multiple posts -->
+<div class="modal" id="createModal" role="dialog" aria-label="Create multiple posts">
+  <div class="mhead"><h2>Create multiple posts <span class="muted" id="profCount"></span></h2><span class="spacer"></span><button class="btn" data-close>Close</button></div>
+  <div class="card">
+    <h3><span class="step">1</span>Choose post destination</h3>
+    <div class="cardb checks" id="destChecks"></div>
+  </div>
+  <div class="card">
+    <h3><span class="step">2</span>Add post content</h3>
+    <div class="cardb">
+      <div class="drop" id="drop">
+        <p>Drop the day's <b>spreadsheet file</b> here</p>
+        <p class="muted small">the postplanner_DATE.xlsx Claude builds (Post Planner's bulk format works too)</p>
+        <button class="btn primary" id="pickBtn">Upload spreadsheet</button>
+        <input type="file" id="fileIn" accept=".xlsx,.xls,.csv" hidden>
+        <button class="linkbtn" id="sampleBtn">Download sample sheet</button>
+      </div>
+      <div id="preview"></div>
+    </div>
+  </div>
+  <div class="mfoot" id="createFoot"></div>
+</div>
+
+<!-- settings -->
+<div class="modal" id="settingsModal" role="dialog" aria-label="Settings" style="width:min(720px, calc(100vw - 24px))">
+  <div class="mhead"><h2>Settings</h2><span class="spacer"></span><button class="btn" data-close>Close</button></div>
+  <div class="card">
+    <h3>GitHub connection</h3>
+    <div class="cardb" id="ghBox"></div>
+  </div>
+  <div class="card">
+    <h3>Autoposting</h3>
+    <div class="cardb" id="autoBox"></div>
+  </div>
+  <div class="card">
+    <h3>Test a day without posting</h3>
+    <div class="cardb">
+      <p class="muted" style="margin-top:0">Checks both accounts, every file, and has Instagram validate every post for that day. Nothing gets published.</p>
+      <div style="display:flex;gap:10px;flex-wrap:wrap"><input type="date" id="checkDate" class="search" style="max-width:200px"><button class="btn" id="checkBtn">Run test</button></div>
+      <p class="small" id="checkMsg"></p>
+    </div>
+  </div>
+</div>
+
+<!-- post drawer -->
+<aside class="drawer" id="drawer" aria-label="Post details">
+  <div class="dhead"><h2 id="dTitle">Post</h2><button class="btn" data-close>Close</button></div>
+  <div class="dbody" id="dBody"></div>
+  <div class="dfoot" id="dFoot"></div>
+</aside>
+
+<div class="toast" id="toast"></div>
+
+<script>
+"use strict";
+const CFG = {
+  owner: "smartrader19-star", repo: "smartrader19-posts", data: "planner-data", state: "state",
+  workflow: "autopost.yml", tz: "America/New_York", keepDays: 30, capMax: 2200,
+  profiles: [
+    { id: "fb", net: "Facebook", name: "SmarTrader" },
+    { id: "ig", net: "Instagram", name: "@smartrader_official" },
+  ],
+};
+const DEMO = new URLSearchParams(location.search).has("demo");
+const $ = (s, r = document) => r.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const store = {
+  get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch {} },
+};
+const S = {
+  posts: [], state: {}, runs: [], wf: null, user: null, loaded: false, err: "",
+  view: store.get("stp_view") || (innerWidth < 860 ? "list" : "calendar"),
+  filter: "all", show: { fb: true, ig: true }, q: "", week0: null, sel: new Set(), selecting: false,
+  dest: { fb: true, ig: true }, rows: [], open: null,
+};
+
+/* ---------- time (everything is Eastern wall-clock "YYYY-MM-DDTHH:MM") ---------- */
+const etFmt = new Intl.DateTimeFormat("en-CA", { timeZone: CFG.tz, year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+function nowET() { const p = Object.fromEntries(etFmt.formatToParts(new Date()).map(x => [x.type, x.value])); return `${p.year}-${p.month}-${p.day}T${p.hour}:${p.minute}`; }
+function ymdUTC(ymd) { const [y, m, d] = ymd.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d)); }
+function addDays(ymd, n) { const t = ymdUTC(ymd); t.setUTCDate(t.getUTCDate() + n); return t.toISOString().slice(0, 10); }
+function sunday(ymd) { return addDays(ymd, -ymdUTC(ymd).getUTCDay()); }
+function hm12(at) { let h = +at.slice(11, 13); const m = at.slice(14, 16), ap = h < 12 ? "am" : "pm"; h = h % 12 || 12; return `${h}:${m}${ap}`; }
+const MON = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
+const DOW = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+function dayLabel(ymd) { const t = ymdUTC(ymd); return `${["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][t.getUTCDay()]}, ${MON[t.getUTCMonth()][0] + MON[t.getUTCMonth()].slice(1).toLowerCase()} ${t.getUTCDate()}`; }
+function hourLabel(h) { return h === 0 ? "12 AM" : h < 12 ? `${h} AM` : h === 12 ? "12 PM" : `${h - 12} PM`; }
+
+/* ---------- GitHub ---------- */
+const API = "https://api.github.com";
+const token = () => store.get("stp_token") || "";
+function b64enc(str) { const b = new TextEncoder().encode(str); let s = ""; for (let i = 0; i < b.length; i += 0x8000) s += String.fromCharCode.apply(null, b.subarray(i, i + 0x8000)); return btoa(s); }
+function b64dec(s) { const bin = atob(String(s).replace(/\s/g, "")); return new TextDecoder().decode(Uint8Array.from(bin, c => c.charCodeAt(0))); }
+async function gh(path, opts = {}) {
+  const headers = { Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28" };
+  if (token()) headers.Authorization = `Bearer ${token()}`;
+  if (opts.body) headers["Content-Type"] = "application/json";
+  const r = await fetch(API + path, { ...opts, headers, cache: "no-store" });
+  if (r.status === 204) return null;
+  const j = await r.json().catch(() => ({}));
+  if (!r.ok) { const e = new Error(j.message || `GitHub said ${r.status}`); e.status = r.status; throw e; }
+  return j;
+}
+const repoPath = p => `/repos/${CFG.owner}/${CFG.repo}${p}`;
+async function readJSON(branch, name) {
+  if (token()) {
+    try {
+      const r = await gh(repoPath(`/contents/${name}?ref=${branch}`));
+      const text = r.content ? b64dec(r.content) : b64dec((await gh(repoPath(`/git/blobs/${r.sha}`))).content);
+      return { json: JSON.parse(text), sha: r.sha };
+    } catch (e) { if (e.status === 404) return { json: null, sha: null }; throw e; }
+  }
+  const r = await fetch(`https://raw.githubusercontent.com/${CFG.owner}/${CFG.repo}/${branch}/${name}?t=${Date.now()}`, { cache: "no-store" });
+  if (r.status === 404) return { json: null, sha: null };
+  if (!r.ok) throw new Error(`couldn't read ${name} (${r.status})`);
+  return { json: await r.json(), sha: null };
+}
+let demoQueue = null;
+async function mutateQueue(fn, message) {
+  if (DEMO) { fn(demoQueue); prune(demoQueue); S.posts = demoQueue.posts; return; }
+  if (!token()) throw new Error("Connect GitHub in Settings first (gear icon, top right).");
+  for (let i = 0; i < 4; i++) {
+    const cur = await readJSON(CFG.data, "queue.json");
+    const q = cur.json || { posts: [] };
+    q.posts = q.posts || [];
+    fn(q); prune(q);
+    try {
+      await gh(repoPath("/contents/queue.json"), { method: "PUT", body: JSON.stringify({ message, branch: CFG.data, sha: cur.sha || undefined, content: b64enc(JSON.stringify(q, null, 1) + "\n") }) });
+      S.posts = q.posts;
+      return;
+    } catch (e) { if (e.status !== 409 && e.status !== 422) throw e; }
+  }
+  throw new Error("The queue changed while saving. Refresh and try again.");
+}
+function prune(q) { const cut = addDays(nowET().slice(0, 10), -CFG.keepDays); q.posts = q.posts.filter(p => p.at.slice(0, 10) >= cut).sort((a, b) => a.at.localeCompare(b.at)); }
+async function dispatch(mode = "run", date = "") {
+  if (DEMO) return;
+  await gh(repoPath(`/actions/workflows/${CFG.workflow}/dispatches`), { method: "POST", body: JSON.stringify({ ref: "main", inputs: { mode, date } }) });
+}
+
+/* ---------- data ---------- */
+async function loadAll(quiet) {
+  try {
+    if (DEMO) { if (!demoQueue) demoQueue = { posts: [] }; S.posts = demoQueue.posts; S.state = {}; S.loaded = true; render(); return; }
+    const [q, st] = await Promise.all([readJSON(CFG.data, "queue.json"), readJSON(CFG.state, "posted.json").catch(() => ({ json: {} }))]);
+    S.posts = (q.json && q.json.posts) || []; S.state = st.json || {}; S.loaded = true; S.err = "";
+    if (token()) {
+      const [wf, runs] = await Promise.all([gh(repoPath(`/actions/workflows/${CFG.workflow}`)).catch(() => null), gh(repoPath(`/actions/workflows/${CFG.workflow}/runs?per_page=5`)).catch(() => null)]);
+      S.wf = wf; S.runs = (runs && runs.workflow_runs) || [];
+    }
+  } catch (e) { S.err = e.message; if (!quiet) toast(e.message); }
+  render();
+}
+const plats = p => (p.platforms && p.platforms.length ? p.platforms : ["fb", "ig"]);
+const pstate = (p, pl) => S.state[`${p.id}/${pl}`] || {};
+function overall(p) {
+  const st = plats(p).map(pl => pstate(p, pl).status || "scheduled");
+  if (st.every(s => s === "posted")) return "posted";
+  if (st.some(s => s === "error")) return "failed";
+  if (st.some(s => s === "missed")) return "missed";
+  if (st.some(s => s === "posted" || s === "staged")) return "posting";
+  return "scheduled";
+}
+const locked = p => plats(p).some(pl => ["posted", "missed"].includes(pstate(p, pl).status));
+function visible() {
+  const q = S.q.trim().toLowerCase();
+  return S.posts.filter(p => {
+    if (!plats(p).some(pl => S.show[pl])) return false;
+    if (q && !(p.caption || "").toLowerCase().includes(q) && !(p.comment || "").toLowerCase().includes(q)) return false;
+    const o = overall(p);
+    if (S.filter === "planned") return o === "scheduled" || o === "posting";
+    if (S.filter === "posted") return o === "posted";
+    if (S.filter === "failed") return o === "failed" || o === "missed";
+    return true;
+  });
+}
+
+/* ---------- icons ---------- */
+const netIcon = (pl, st, big) => `<span class="net ${pl}${big ? " big" : ""}${st ? " s-" + st : ""}" title="${pl === "fb" ? "Facebook" : "Instagram"}${st ? ": " + st : ""}">${pl === "fb" ? "f" : '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/></svg>'}</span>`;
+const kindIcon = k => k === "reel"
+  ? '<span class="kind" title="Reel"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="4"/><path d="M10 8.5v7l6-3.5z" fill="currentColor"/></svg></span>'
+  : '<span class="kind" title="Image"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/></svg></span>';
+
+/* ---------- render ---------- */
+function render() {
+  const vis = visible();
+  // nav
+  const count = f => S.posts.filter(p => { const o = overall(p); return f === "all" || (f === "planned" ? o === "scheduled" || o === "posting" : f === "posted" ? o === "posted" : o === "failed" || o === "missed"); }).length;
+  $("#nav").innerHTML = [["all", "All posts"], ["planned", "Planned"], ["posted", "Posted"], ["failed", "Failed / missed"]]
+    .map(([k, t]) => `<button data-f="${k}" class="${S.filter === k ? "on" : ""}">${t}<span class="n">${count(k)}</span></button>`).join("");
+  $("#profiles").innerHTML = CFG.profiles.map(p => `<button class="prof ${S.show[p.id] ? "on" : ""}" data-p="${p.id}" title="${esc(p.net + ": " + p.name)} (click to show/hide)"><img src="avatar.jpg" alt="">${netIcon(p.id, "", true)}</button>`).join("");
+  $("#tabs").querySelectorAll("button").forEach(b => b.classList.toggle("on", b.dataset.v === S.view));
+  $("#total").innerHTML = `Total posts: <b>${S.posts.length}</b>`;
+  // runner box
+  const run = S.runs[0];
+  const paused = S.wf && S.wf.state !== "active";
+  let rb = "<b>Autoposting</b>";
+  if (DEMO) rb += '<span class="muted">Demo mode: nothing is saved.</span>';
+  else if (!token()) rb += '<span class="muted">Read-only. Connect GitHub in Settings to schedule and edit.</span>';
+  else if (paused) rb += '<span><span class="dot" style="background:var(--amber)"></span>Paused</span>';
+  else rb += '<span><span class="dot" style="background:var(--green)"></span>On</span>';
+  if (run) rb += `<div class="small muted" style="margin-top:6px">Last run ${new Date(run.created_at).toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}: <a href="${esc(run.html_url)}" target="_blank" rel="noopener">${esc(run.conclusion || run.status)}</a></div>`;
+  $("#runner").innerHTML = rb;
+  // banners
+  let bn = "";
+  if (S.err) bn += `<div class="banner">${esc(S.err)}</div>`;
+  if (!DEMO && !token()) bn += `<div class="banner info">You're viewing read-only. <button class="btn" data-open="settings">Connect GitHub</button></div>`;
+  if (paused) bn += `<div class="banner">Autoposting is paused: scheduled posts will NOT go out. <button class="btn" id="resumeBtn">Resume autoposting</button></div>`;
+  $("#banners").innerHTML = bn;
+  // week bar
+  const view = S.selecting ? "list" : S.view;
+  $("#weekbar").style.display = view === "calendar" ? "" : "none";
+  $("#selectBtn").classList.toggle("on", S.selecting);
+  $("#selectBtn").textContent = S.selecting ? "Done" : "Select";
+  const w0 = S.week0, w6 = addDays(w0, 6), a = ymdUTC(w0), b = ymdUTC(w6);
+  $("#weekTitle").textContent = `${MON[a.getUTCMonth()]} ${a.getUTCDate()} - ${MON[b.getUTCMonth()]} ${b.getUTCDate()}`;
+  $("#content").innerHTML = !S.loaded ? '<div class="empty">Loading...</div>' : view === "calendar" ? calendar(vis) : list(vis);
+}
+function pillHTML(p) {
+  const o = overall(p);
+  return `<button class="pill ${o}" data-id="${esc(p.id)}" title="${esc((p.caption || "").split("\n")[0])}"><span class="t">${hm12(p.at)}</span>${kindIcon(p.kind)}<span class="nets">${plats(p).map(pl => netIcon(pl, pstate(p, pl).status)).join("")}</span></button>`;
+}
+function calendar(vis) {
+  const today = nowET().slice(0, 10), days = [...Array(7)].map((_, i) => addDays(S.week0, i));
+  const by = {};
+  vis.forEach(p => { const k = p.at.slice(0, 10) + "|" + +p.at.slice(11, 13); (by[k] = by[k] || []).push(p); });
+  let h = `<div class="cal"><div class="calrow calhead"><div></div>${days.map(d => `<div class="dh ${d === today ? "today" : ""}">${DOW[ymdUTC(d).getUTCDay()]}<br><span>${ymdUTC(d).getUTCDate()}</span></div>`).join("")}</div>`;
+  for (let hr = 0; hr < 24; hr++) {
+    h += `<div class="calrow"><div class="hr">${hourLabel(hr)}</div>${days.map(d => `<div class="cell ${d === today ? "today" : ""}">${(by[d + "|" + hr] || []).sort((x, y) => x.at.localeCompare(y.at)).map(pillHTML).join("")}</div>`).join("")}</div>`;
+  }
+  const n = vis.filter(p => p.at.slice(0, 10) >= S.week0 && p.at.slice(0, 10) <= addDays(S.week0, 6)).length;
+  if (!n) h += `<div class="empty"><b>Nothing scheduled this week</b>Drop a day's spreadsheet in to fill it. <button class="btn primary" data-open="create">Create Posts</button></div>`;
+  return h + "</div>";
+}
+function thumb(p) {
+  return p.kind === "reel" ? `<video class="thumb" src="${esc(p.media)}#t=1" preload="metadata" muted playsinline></video>` : `<img class="thumb" src="${esc(p.media_jpg || p.media)}" alt="" loading="lazy">`;
+}
+function listRows(vis) {
+  const today = nowET().slice(0, 10);
+  return vis.filter(p => S.filter !== "all" || p.at.slice(0, 10) >= addDays(today, -2)).sort((a, b) => a.at.localeCompare(b.at));
+}
+function list(vis) {
+  const today = nowET().slice(0, 10);
+  const rows = listRows(vis);
+  if (!rows.length) return `<div class="empty"><b>No posts here</b>${S.posts.length ? "Try another filter." : "Drop a day's spreadsheet in to schedule it."} <button class="btn primary" data-open="create">Create Posts</button></div>`;
+  const by = {};
+  rows.forEach(p => (by[p.at.slice(0, 10)] = by[p.at.slice(0, 10)] || []).push(p));
+  const row = p => {
+    const inner = `<span class="t">${hm12(p.at)}</span>${thumb(p)}<span class="cap">${esc(p.caption)}</span><span class="meta">${kindIcon(p.kind)}${plats(p).map(pl => netIcon(pl, pstate(p, pl).status)).join("")}</span>`;
+    if (!S.selecting) return `<button class="lrow ${overall(p)}" data-id="${esc(p.id)}">${inner}</button>`;
+    const lk = locked(p), on = S.sel.has(p.id);
+    return `<label class="lrow selmode ${overall(p)}${lk ? " locked" : ""}${on ? " picked" : ""}"${lk ? ' title="Already posted, so it stays"' : ""}><input type="checkbox" class="ck" data-sel="${esc(p.id)}" ${on ? "checked" : ""} ${lk ? "disabled" : ""}>${inner}</label>`;
+  };
+  const head = (d, ps) => {
+    const label = `${dayLabel(d)}${d === today ? " &middot; today" : ""}`;
+    const open = ps.filter(p => !locked(p));
+    if (!S.selecting || !open.length) return label;
+    const all = open.every(p => S.sel.has(p.id));
+    return `<label><input type="checkbox" data-selday="${d}" ${all ? "checked" : ""}> ${label} <span class="muted">(${open.length} not posted yet)</span></label>`;
+  };
+  const n = S.sel.size;
+  const bar = !S.selecting ? "" : `<div class="selbar"><b>${n} selected</b><button class="btn" id="selAll">Select all shown</button><button class="btn" id="selNone">Clear</button><span class="spacer"></span><button class="btn danger" id="selDelete" ${n ? "" : "disabled"}>Delete ${n || ""} post${n === 1 ? "" : "s"}</button></div>`;
+  const tip = !S.selecting ? "" : `<p class="muted small" style="margin:0">Tick posts, or tick a day to select everything on it that hasn't posted yet. Posts that already went out can't be deleted here.</p>`;
+  return `<div class="list${S.selecting ? " selecting" : ""}">${tip}${Object.keys(by).map(d => `<div class="day"><h3>${head(d, by[d])}</h3>${by[d].map(row).join("")}</div>`).join("")}${bar}</div>`;
+}
+async function bulkDelete() {
+  const ids = [...S.sel].filter(id => { const p = S.posts.find(x => x.id === id); return p && !locked(p); });
+  if (!ids.length) return;
+  if (!confirm(`Delete ${ids.length} post${ids.length === 1 ? "" : "s"}? ${ids.length === 1 ? "It" : "They"} won't be posted.`)) return;
+  await busy("#selDelete", async () => {
+    const del = new Set(ids);
+    await mutateQueue(q => { q.posts = q.posts.filter(p => !del.has(p.id)); }, `bulk delete ${ids.length} posts`);
+    S.sel.clear(); S.selecting = false;
+    toast(`Deleted ${ids.length} post${ids.length === 1 ? "" : "s"}`); render();
+  });
+}
+
+/* ---------- post drawer ---------- */
+function openPost(id) {
+  const p = S.posts.find(x => x.id === id);
+  if (!p) return;
+  const lk = locked(p);
+  $("#dTitle").textContent = `${dayLabel(p.at.slice(0, 10))}, ${hm12(p.at)}`;
+  const statusRow = pl => {
+    const s = pstate(p, pl), st = s.status || "scheduled", prof = CFG.profiles.find(x => x.id === pl);
+    let right = st === "posted" ? `<a href="${esc(s.url || "#")}" target="_blank" rel="noopener">Posted, view</a>${s.comment === "done" ? "<br><span class='muted small'>first comment added</span>" : s.comment === "failed" ? "<br><span class='small' style='color:var(--red)'>first comment failed</span>" : ""}`
+      : st === "error" ? `<span style="color:var(--red)">Failed, retrying</span><br><span class="small muted">${esc(s.err || "")}</span>`
+      : st === "missed" ? `<span style="color:var(--amber)">Missed</span><br><span class="small muted">${esc(s.err || "")}</span>`
+      : st === "staged" ? '<span style="color:var(--blue)">Uploading, posts on the minute</span>' : '<span class="muted">Scheduled</span>';
+    return `<div class="statrow">${netIcon(pl, "", true)}<div><b>${prof.net}</b><div class="small muted">${esc(prof.name)}</div></div><div class="s">${right}</div></div>`;
+  };
+  $("#dBody").innerHTML = `
+    <div class="media">${p.kind === "reel" ? `<video src="${esc(p.media)}" controls playsinline preload="metadata"></video>` : `<img src="${esc(p.media_jpg || p.media)}" alt="">`}</div>
+    ${plats(p).map(statusRow).join("")}
+    <label class="f">Time (Eastern)<input type="datetime-local" id="eAt" value="${esc(p.at)}" ${lk ? "disabled" : ""}></label>
+    <div class="checks">${CFG.profiles.map(pr => `<label><input type="checkbox" data-ep="${pr.id}" ${plats(p).includes(pr.id) ? "checked" : ""} ${lk ? "disabled" : ""}> ${pr.net}</label>`).join("")}</div>
+    <label class="f">Caption <textarea id="eCap" ${lk ? "disabled" : ""}>${esc(p.caption)}</textarea><span class="count" id="eCount"></span></label>
+    <label class="f">First comment <textarea id="eCom" style="min-height:70px" ${lk ? "disabled" : ""}>${esc(p.comment)}</textarea></label>
+    <p class="small muted" style="margin:0">Media: <a href="${esc(p.media)}" target="_blank" rel="noopener">${esc(p.media.split("/").pop())}</a>${p.batch ? ` &middot; from ${esc(p.batch)}` : ""}</p>`;
+  const upd = () => { const n = $("#eCap").value.length; $("#eCount").textContent = `${n} / ${CFG.capMax}`; $("#eCount").classList.toggle("over", n > CFG.capMax); };
+  $("#eCap").addEventListener("input", upd); upd();
+  $("#dFoot").innerHTML = lk ? '<span class="muted small">Already posted (or missed), so it can\'t be changed here.</span>'
+    : '<button class="btn primary" id="saveBtn">Save changes</button><span class="spacer"></span><button class="btn danger" id="delBtn">Delete post</button>';
+  openLayer("#drawer");
+  S.open = id;   // after openLayer: it closes other layers, which clears S.open
+}
+async function savePost() {
+  const id = S.open, at = $("#eAt").value.slice(0, 16), cap = $("#eCap").value, com = $("#eCom").value;
+  const pl = CFG.profiles.map(p => p.id).filter(k => $(`[data-ep="${k}"]`).checked);
+  if (!/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/.test(at)) return toast("Pick a date and time.");
+  if (at <= nowET()) return toast("That time has already passed (Eastern).");
+  if (!pl.length) return toast("Tick Facebook, Instagram or both.");
+  if (cap.length > CFG.capMax) return toast(`Caption is over Instagram's ${CFG.capMax} characters.`);
+  await busy("#saveBtn", async () => {
+    await mutateQueue(q => { const p = q.posts.find(x => x.id === id); if (!p) throw new Error("That post was deleted elsewhere."); Object.assign(p, { at, caption: cap, comment: com, platforms: pl, edited: new Date().toISOString() }); }, "edit post " + id);
+    toast("Saved"); closeLayers(); render(); dispatch().catch(() => {});
+  });
+}
+async function deletePost() {
+  const id = S.open, p = S.posts.find(x => x.id === id);
+  if (!p || !confirm(`Delete the ${hm12(p.at)} post on ${dayLabel(p.at.slice(0, 10))}? It won't be posted.`)) return;
+  await busy("#delBtn", async () => {
+    await mutateQueue(q => { q.posts = q.posts.filter(x => x.id !== id); }, "delete post " + id);
+    toast("Deleted"); closeLayers(); render();
+  });
+}
+
+/* ---------- spreadsheet import ---------- */
+const norm = s => String(s ?? "").replace(/^#+/, "").trim().toUpperCase();
+function parseTime(v) {
+  const s = String(v ?? "").trim().replace(/\s+/g, " ");
+  let m = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4}) (\d{1,2}):(\d{2})(?::\d{2})? ?(am|pm)?$/i);
+  if (m) {
+    let [, mo, d, y, h, mi, ap] = m; y = +y < 100 ? 2000 + +y : +y; h = +h;
+    if (ap) { ap = ap.toLowerCase(); if (ap === "pm" && h < 12) h += 12; if (ap === "am" && h === 12) h = 0; }
+    if (+mo < 1 || +mo > 12 || +d < 1 || +d > 31 || h > 23 || +mi > 59) return null;
+    return `${y}-${String(mo).padStart(2, "0")}-${String(d).padStart(2, "0")}T${String(h).padStart(2, "0")}:${mi}`;
+  }
+  m = s.match(/^(\d{4})-(\d{2})-(\d{2})[ T](\d{1,2}):(\d{2})/);
+  if (m) return `${m[1]}-${m[2]}-${m[3]}T${m[4].padStart(2, "0")}:${m[5]}`;
+  return null;
+}
+function hash(s) { let h = 0x811c9dc5; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 0x01000193); } return (h >>> 0).toString(16).padStart(8, "0"); }
+function readSheet(buf, name) {
+  if (!window.XLSX) throw new Error("The spreadsheet reader didn't load. Check the internet connection and reload.");
+  const wb = XLSX.read(buf, { type: "array" });
+  const rows = XLSX.utils.sheet_to_json(wb.Sheets[wb.SheetNames[0]], { header: 1, raw: false, defval: "" });
+  const hi = rows.findIndex(r => r.some(c => norm(c) === "POSTING TIME"));
+  if (hi < 0) throw new Error("No POSTING TIME column found. Use the postplanner_DATE.xlsx Claude builds, or the sample sheet.");
+  const col = {}; rows[hi].forEach((c, i) => { col[norm(c)] = i; });
+  const get = (r, k) => (col[k] == null ? "" : String(r[col[k]] ?? "")).trim();
+  const out = [];
+  rows.slice(hi + 1).forEach((r, i) => {
+    if (!r.some(c => String(c).trim()) || String(r[0]).trim().startsWith("#")) return;
+    const row = { n: out.length + 1, line: hi + i + 2, at: parseTime(get(r, "POSTING TIME")), rawAt: get(r, "POSTING TIME"), caption: String(r[col.CAPTION] ?? "").replace(/\r\n?/g, "\n"), media: get(r, "MEDIA"), comment: get(r, "FIRST COMMENT").replace(/\r\n?/g, "\n"), reel: get(r, "REEL OR STORY").toLowerCase(), errs: [], warns: [] };
+    const rp = (get(r, "PLATFORMS").toLowerCase().match(/facebook|instagram|insta|\bfb\b|\big\b/g) || []).map(x => x.startsWith("f") ? "fb" : "ig");
+    if (rp.length) row.platforms = CFG.profiles.map(p => p.id).filter(k => rp.includes(k));   // per-row destination
+    const ext = (row.media.split("?")[0].split(".").pop() || "").toLowerCase();
+    row.kind = row.reel === "reel" || ["mp4", "mov"].includes(ext) ? "reel" : "image";
+    if (row.reel === "story") row.errs.push("stories aren't supported");
+    if (!row.at) row.errs.push(`can't read the time "${row.rawAt}"`);
+    else if (row.at <= nowET()) row.errs.push("time already passed");
+    if (!/^https?:\/\//i.test(row.media)) row.errs.push("no media URL (every post needs a video or image)");
+    else if (row.kind === "image" && !["png", "jpg", "jpeg"].includes(ext)) row.errs.push("image must be .png or .jpg");
+    if (row.caption.length > CFG.capMax) row.errs.push(`caption is ${row.caption.length} characters (max ${CFG.capMax})`);
+    if (!row.caption.trim()) row.warns.push("empty caption");
+    row.media_jpg = row.kind === "image" ? row.media.replace(/\.png(\?.*)?$/i, ".jpg") : "";
+    row.dupOf = S.posts.find(p => p.media === row.media);   // one media file = one post, even if its time was edited
+    row.dup = !!row.dupOf;
+    out.push(row);
+  });
+  if (!out.length) throw new Error("The sheet has no post rows under the header.");
+  return out;
+}
+async function verifyMedia(rows) {
+  const urls = [...new Set(rows.flatMap(r => [r.media, r.media_jpg]).filter(u => /^https?:/.test(u || "")))];
+  const res = {};
+  let i = 0;
+  await Promise.all([...Array(6)].map(async () => {
+    while (i < urls.length) {
+      const u = urls[i++];
+      try { const r = await fetch(u, { method: "HEAD", cache: "no-store" }); res[u] = r.ok ? "ok" : `HTTP ${r.status}`; }
+      catch { res[u] = "unverified"; }
+    }
+  }));
+  rows.forEach(r => [r.media, r.media_jpg].filter(Boolean).forEach(u => {
+    if (res[u] === "unverified") r.warns.push("couldn't check the file from here");
+    else if (res[u] && res[u] !== "ok") r.errs.push(`${u === r.media_jpg && u !== r.media ? "JPEG copy for Instagram" : "media file"} not found (${res[u]})`);
+  }));
+}
+async function handleFile(file) {
+  if (!file) return;
+  const pv = $("#preview");
+  pv.innerHTML = `<p class="muted">Reading ${esc(file.name)}...</p>`;
+  try {
+    const rows = readSheet(new Uint8Array(await file.arrayBuffer()), file.name);
+    pv.innerHTML = `<p class="muted">Checking ${rows.length} media files...</p>`;
+    await verifyMedia(rows);
+    S.rows = rows; S.rowsFrom = file.name;
+    renderPreview();
+  } catch (e) { pv.innerHTML = `<p class="tag err" style="white-space:normal">${esc(e.message)}</p>`; S.rows = []; renderFoot(); }
+}
+function renderPreview() {
+  const rows = S.rows;
+  $("#preview").innerHTML = `<p style="margin:16px 0 8px"><b>${esc(S.rowsFrom)}</b> <span class="muted">${rows.length} rows</span></p>
+  <div style="overflow-x:auto"><table class="prev"><thead><tr><th>#</th><th>Time (ET)</th><th>Type</th><th>To</th><th>Media</th><th>Caption</th><th>Status</th></tr></thead><tbody>
+  ${rows.map(r => `<tr><td>${r.n}</td><td style="white-space:nowrap">${r.at ? `${dayLabel(r.at.slice(0, 10)).replace(/^\w+, /, "")}<br><b>${hm12(r.at)}</b>` : esc(r.rawAt)}</td>
+    <td>${kindIcon(r.kind)}</td><td style="white-space:nowrap">${(r.platforms || destPlats()).map(pl => netIcon(pl, "")).join("")}</td><td class="small">${esc(r.media.split("/").pop() || "-")}</td>
+    <td class="capc"><div>${esc(r.caption)}</div><span class="small muted">${r.caption.length} chars${r.comment ? " &middot; has first comment" : ""}</span></td>
+    <td>${r.errs.length ? r.errs.map(e => `<span class="tag err">${esc(e)}</span>`).join(" ") : r.dup ? `<span class="tag dup">already scheduled (${hm12(r.dupOf.at)} ${esc(r.dupOf.at.slice(5, 10).replace("-", "/"))}), skipped</span>` : '<span class="tag ok">ready</span>'}${r.warns.map(w => ` <span class="tag warn">${esc(w)}</span>`).join("")}</td></tr>`).join("")}
+  </tbody></table></div>`;
+  renderFoot();
+}
+const destPlats = () => CFG.profiles.map(p => p.id).filter(k => S.dest[k]);
+function renderFoot() {
+  const good = S.rows.filter(r => !r.errs.length && !r.dup), bad = S.rows.filter(r => r.errs.length).length, dup = S.rows.filter(r => r.dup).length;
+  const n = S.dest.fb + S.dest.ig, perRow = good.some(r => r.platforms), ok = good.length && (n || good.every(r => r.platforms));
+  $("#createFoot").innerHTML = !S.rows.length ? "" :
+    `<button class="btn primary" id="schedBtn" ${ok ? "" : "disabled"}>Schedule ${good.length} post${good.length === 1 ? "" : "s"}${perRow ? "" : ` to ${n} profile${n === 1 ? "" : "s"}`}</button>
+     ${perRow ? '<span class="muted small">Destinations come from the sheet\'s PLATFORMS column.</span>' : ""}
+     <span class="muted">${bad ? `${bad} row${bad === 1 ? "" : "s"} with problems will be left out. ` : ""}${dup ? `${dup} already scheduled.` : ""}</span>
+     <span class="spacer"></span><button class="btn" id="clearBtn">Choose another file</button>`;
+}
+async function schedule() {
+  const good = S.rows.filter(r => !r.errs.length && !r.dup);
+  const pl = destPlats();
+  if (!good.length || (!pl.length && good.some(r => !r.platforms))) return;
+  await busy("#schedBtn", async () => {
+    const added = new Date().toISOString();
+    await mutateQueue(q => {
+      good.forEach(r => {
+        if (q.posts.some(p => p.media === r.media)) return;
+        q.posts.push({ id: `${r.at.replace(/[-:]/g, "")}_${hash(r.media)}`, at: r.at, platforms: r.platforms || pl, kind: r.kind, media: r.media, ...(r.media_jpg ? { media_jpg: r.media_jpg } : {}), caption: r.caption, comment: r.comment, batch: S.rowsFrom, added });
+      });
+    }, `schedule ${good.length} posts from ${S.rowsFrom}`);
+    toast(`Scheduled ${good.length} posts`);
+    const first = good.map(r => r.at).sort()[0];
+    S.week0 = sunday(first.slice(0, 10)); S.rows = []; $("#preview").innerHTML = ""; renderFoot();
+    closeLayers(); render();
+    dispatch().catch(() => {});
+  });
+}
+function sampleSheet() {
+  if (!window.XLSX) return toast("The spreadsheet tool didn't load. Reload the page.");
+  const t = addDays(nowET().slice(0, 10), 1), [y, m, d] = t.split("-");
+  const aoa = [["## Rows starting with ## are ignored. Times are Eastern."], ["POSTING TIME", "CAPTION", "LINK", "MEDIA", "TITLE", "FIRST COMMENT", "FIRST COMMENT DELAY", "TOBI BACKGROUND", "REEL OR STORY"],
+    [`${+m}/${+d}/${y}  9:00`, "Your caption here.\n\nLine breaks are kept.", "", `https://${CFG.owner}.github.io/${CFG.repo}/DATE/0900_example.mp4`, "", "Optional first comment", "", "", "reel"]];
+  const ws = XLSX.utils.aoa_to_sheet(aoa), wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, "posts"); XLSX.writeFile(wb, "planner_sample.xlsx");
+}
+
+/* ---------- settings ---------- */
+async function renderSettings() {
+  const t = token();
+  const tokenURL = "https://github.com/settings/personal-access-tokens/new";
+  let user = "";
+  if (t) { try { user = (await gh("/user")).login; } catch (e) { user = ""; } }
+  $("#ghBox").innerHTML = DEMO ? '<p class="muted">Demo mode: open the page without ?demo to connect.</p>' : t ? `
+    <p style="margin-top:0">${user ? `Connected as <b>${esc(user)}</b>. Scheduling and editing are on.` : '<span style="color:var(--red)">The saved token was rejected (expired or wrong). Paste a new one.</span>'}</p>
+    <button class="btn danger" id="tokClear">Disconnect this browser</button>` : `
+    <p style="margin-top:0">To schedule and edit from this browser, give it a GitHub access token that can only touch the <code>${CFG.repo}</code> repo. It's saved in this browser only.</p>
+    <ol class="steps small">
+      <li>Open <a href="${tokenURL}" target="_blank" rel="noopener">GitHub > New fine-grained token</a>.</li>
+      <li>Name: <code>planner dashboard</code>. Expiration: 1 year.</li>
+      <li>Repository access: <b>Only select repositories</b> &rarr; <code>${CFG.repo}</code>.</li>
+      <li>Repository permissions: <b>Contents: Read and write</b>, <b>Actions: Read and write</b>.</li>
+      <li>Generate token, copy it, paste below.</li>
+    </ol>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:10px"><input id="tokIn" class="search" type="password" placeholder="github_pat_..." autocomplete="off" style="max-width:none;flex:1"><button class="btn primary" id="tokSave">Save</button></div>`;
+  const wf = S.wf;
+  $("#autoBox").innerHTML = !t || DEMO ? '<p class="muted" style="margin:0">Connect GitHub to see and control autoposting.</p>' : wf ? `
+    <p style="margin-top:0">${wf.state === "active" ? '<span class="dot" style="background:var(--green)"></span><b>On.</b> Scheduled posts go out at their time.' : '<span class="dot" style="background:var(--amber)"></span><b>Paused.</b> Nothing posts until you resume.'}</p>
+    <button class="btn ${wf.state === "active" ? "danger" : "primary"}" id="pauseBtn">${wf.state === "active" ? "Pause all posting" : "Resume autoposting"}</button>
+    <p class="small muted">Runs and logs: <a href="https://github.com/${CFG.owner}/${CFG.repo}/actions/workflows/${CFG.workflow}" target="_blank" rel="noopener">GitHub Actions</a></p>` : '<p class="muted" style="margin:0">Couldn\'t read the autopost workflow. Does the token have Actions: Read and write?</p>';
+  if (!$("#checkDate").value) $("#checkDate").value = addDays(nowET().slice(0, 10), 1);
+}
+async function setPaused(pause) {
+  await gh(repoPath(`/actions/workflows/${CFG.workflow}/${pause ? "disable" : "enable"}`), { method: "PUT" });
+  await loadAll(true); renderSettings(); toast(pause ? "Paused: nothing will post" : "Autoposting is on");
+}
+
+/* ---------- layers + misc ---------- */
+function openLayer(sel) { closeLayers(); $(sel).classList.add("on"); $("#scrim").classList.add("on"); }
+function closeLayers() { document.querySelectorAll(".modal.on, .drawer.on").forEach(e => e.classList.remove("on")); $("#scrim").classList.remove("on"); S.open = null; }
+let toastT;
+function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("on"), 4200); }
+async function busy(sel, fn) {
+  const b = $(sel); const old = b && b.textContent;
+  if (b) { b.disabled = true; b.textContent = "Saving..."; }
+  try { await fn(); } catch (e) { toast(e.message); } finally { if (b && document.body.contains(b)) { b.disabled = false; b.textContent = old; } }
+}
+function openCreate() {
+  $("#profCount").textContent = "";
+  $("#destChecks").innerHTML = CFG.profiles.map(p => `<label><input type="checkbox" data-dest="${p.id}" ${S.dest[p.id] ? "checked" : ""}> ${netIcon(p.id, "", true)} ${p.net} <span class="muted">${esc(p.name)}</span></label>`).join("");
+  renderFoot(); openLayer("#createModal");
+}
+
+document.addEventListener("click", e => {
+  const t = e.target.closest("button, [data-close], .scrim");
+  if (!t) return;
+  if (t.matches("[data-close], .scrim")) return closeLayers();
+  if (t.dataset.f) { S.filter = t.dataset.f; render(); }
+  else if (t.dataset.p) { S.show[t.dataset.p] = !S.show[t.dataset.p]; render(); }
+  else if (t.dataset.v) { S.view = t.dataset.v; store.set("stp_view", S.view); render(); }
+  else if (t.id === "selectBtn") { S.selecting = !S.selecting; S.sel.clear(); render(); }
+  else if (t.id === "selAll") { listRows(visible()).filter(p => !locked(p)).forEach(p => S.sel.add(p.id)); render(); }
+  else if (t.id === "selNone") { S.sel.clear(); render(); }
+  else if (t.id === "selDelete") bulkDelete();
+  else if (t.dataset.id) openPost(t.dataset.id);
+  else if (t.dataset.open === "create" || t.id === "createBtn") openCreate();
+  else if (t.dataset.open === "settings" || t.id === "settingsBtn") { openLayer("#settingsModal"); renderSettings(); }
+  else if (t.id === "todayBtn") { S.week0 = sunday(nowET().slice(0, 10)); render(); }
+  else if (t.id === "prevBtn") { S.week0 = addDays(S.week0, -7); render(); }
+  else if (t.id === "nextBtn") { S.week0 = addDays(S.week0, 7); render(); }
+  else if (t.id === "refreshBtn") loadAll().then(() => toast("Up to date"));
+  else if (t.id === "pickBtn") $("#fileIn").click();
+  else if (t.id === "sampleBtn") sampleSheet();
+  else if (t.id === "schedBtn") schedule();
+  else if (t.id === "clearBtn") { S.rows = []; $("#preview").innerHTML = ""; renderFoot(); $("#fileIn").value = ""; $("#fileIn").click(); }
+  else if (t.id === "saveBtn") savePost();
+  else if (t.id === "delBtn") deletePost();
+  else if (t.id === "tokSave") { const v = $("#tokIn").value.trim(); if (!v) return toast("Paste the token first."); store.set("stp_token", v); renderSettings(); loadAll(true); }
+  else if (t.id === "tokClear") { store.set("stp_token", null); S.wf = null; S.runs = []; renderSettings(); render(); }
+  else if (t.id === "pauseBtn") busy("#pauseBtn", () => setPaused(S.wf && S.wf.state === "active"));
+  else if (t.id === "resumeBtn") busy("#resumeBtn", () => setPaused(false));
+  else if (t.id === "checkBtn") {
+    const d = $("#checkDate").value; if (!d) return toast("Pick a day.");
+    busy("#checkBtn", async () => { await dispatch("check", d); $("#checkMsg").innerHTML = `Test started for ${esc(d)}. Results in about 3 minutes: <a href="https://github.com/${CFG.owner}/${CFG.repo}/actions/workflows/${CFG.workflow}" target="_blank" rel="noopener">open the run</a> (look for "check passed").`; });
+  }
+});
+document.addEventListener("change", e => {
+  if (e.target.id === "fileIn") handleFile(e.target.files[0]);
+  if (e.target.dataset.dest) { S.dest[e.target.dataset.dest] = e.target.checked; renderFoot(); }
+  if (e.target.dataset.sel) { e.target.checked ? S.sel.add(e.target.dataset.sel) : S.sel.delete(e.target.dataset.sel); render(); }
+  if (e.target.dataset.selday) {
+    const d = e.target.dataset.selday, on = e.target.checked;
+    listRows(visible()).filter(p => p.at.slice(0, 10) === d && !locked(p)).forEach(p => on ? S.sel.add(p.id) : S.sel.delete(p.id));
+    render();
+  }
+});
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeLayers(); });
+$("#search").addEventListener("input", e => { S.q = e.target.value; render(); });
+const drop = $("#drop");
+["dragenter", "dragover"].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add("hot"); }));
+["dragleave", "drop"].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove("hot"); }));
+drop.addEventListener("drop", e => handleFile(e.dataTransfer.files[0]));
+
+S.week0 = sunday(nowET().slice(0, 10));
+render();
+loadAll();
+setInterval(() => { if (!document.hidden && !S.selecting && !document.querySelector(".modal.on, .drawer.on")) loadAll(true); }, 60000);
+</script>
+</body>
+</html>
