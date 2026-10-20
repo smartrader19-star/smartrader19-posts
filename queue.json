@@ -4285,19 +4285,6 @@
    "added": "2026-10-20T08:17:00.000Z"
   },
   {
-   "id": "20261022T0100_03d4d1de",
-   "at": "2026-10-22T01:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0100_tw-commute-cost-math.mp4",
-   "caption": "$25 x 240 office days = $6,000 a year, before parking, work clothes or wear on the car.\n\nWhat does a day at the office cost you? \ud83d\udc47\n\n#commute #remotework #personalfinance #money #budgeting",
-   "comment": "Count it before you compare job offers. Remote days are worth real money.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
    "id": "20261022T0100_1758f230",
    "at": "2026-10-22T01:00",
    "platforms": [
@@ -4311,6 +4298,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T0100_03d4d1de",
+   "at": "2026-10-22T01:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0100_tw-commute-cost-math.mp4",
+   "caption": "$25 x 240 office days = $6,000 a year, before parking, work clothes or wear on the car.\n\nWhat does a day at the office cost you? \ud83d\udc47\n\n#commute #remotework #personalfinance #money #budgeting",
+   "comment": "Count it before you compare job offers. Remote days are worth real money.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T0200_2f72fc61",
    "at": "2026-10-22T02:00",
    "platforms": [
@@ -4321,20 +4322,7 @@
    "caption": "Time decay is slow on long-dated options and speeds up near expiration. LEAPS give an idea room to play out, though they still cost real money upfront.\n\nHave you ever bought LEAPS? \ud83d\udc47\n\nNot financial advice.\n\n#leaps #optionstrading #options #longterminvesting #stockmarket",
    "comment": "Deep in-the-money LEAPS behave more like the stock. Out-of-the-money ones are still lottery-ish.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T0300_b9f29669",
-   "at": "2026-10-22T03:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0300_tw-job-hopping-pay.mp4",
-   "caption": "The Atlanta Fed's Wage Growth Tracker has long shown higher wage growth for job switchers than for job stayers. Staying can still be the right call, just know the trade-off.\n\nDid your biggest raise come from staying or leaving? \ud83d\udc47\n\nSource: Federal Reserve Bank of Atlanta, Wage Growth Tracker.\n\n#careers #salary #jobsearch #personalfinance #money",
-   "comment": "Interview once a year even if you're happy. Know what you're worth.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T0300_15528ada",
@@ -4350,6 +4338,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T0300_b9f29669",
+   "at": "2026-10-22T03:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0300_tw-job-hopping-pay.mp4",
+   "caption": "The Atlanta Fed's Wage Growth Tracker has long shown higher wage growth for job switchers than for job stayers. Staying can still be the right call, just know the trade-off.\n\nDid your biggest raise come from staying or leaving? \ud83d\udc47\n\nSource: Federal Reserve Bank of Atlanta, Wage Growth Tracker.\n\n#careers #salary #jobsearch #personalfinance #money",
+   "comment": "Interview once a year even if you're happy. Know what you're worth.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T0400_31159f0e",
    "at": "2026-10-22T04:00",
    "platforms": [
@@ -4360,20 +4361,7 @@
    "caption": "When everyone is already in, there's no one left to push the price higher. Crowded trades unwind fast.\n\nHave you ever been in a trade where everyone agreed? How'd it end? \ud83d\udc47\n\nNot financial advice.\n\n#contrarian #tradingpsychology #stocks #investing #stockmarket",
    "comment": "Consensus feels safe. It usually isn't.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T0500_40634f57",
-   "at": "2026-10-22T05:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0500_tw-student-debt-cancel-poll.mp4",
-   "caption": "Supporters say it would free millions of people to buy homes, start businesses and save. Opponents say it's unfair to people who paid theirs off or never went to college.\n\nWhere do you stand? Keep it respectful \ud83d\udc47\n\n#studentloans #studentdebt #college #personalfinance #money",
-   "comment": "Whatever happens in Washington, know your repayment options today.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T0500_486584f5",
@@ -4389,6 +4377,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T0500_40634f57",
+   "at": "2026-10-22T05:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0500_tw-student-debt-cancel-poll.mp4",
+   "caption": "Supporters say it would free millions of people to buy homes, start businesses and save. Opponents say it's unfair to people who paid theirs off or never went to college.\n\nWhere do you stand? Keep it respectful \ud83d\udc47\n\n#studentloans #studentdebt #college #personalfinance #money",
+   "comment": "Whatever happens in Washington, know your repayment options today.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T0600_ee84fece",
    "at": "2026-10-22T06:00",
    "platforms": [
@@ -4399,20 +4401,7 @@
    "caption": "Corrections are a normal part of investing. The numbers are measured from a recent high.\n\nWhich one did you live through first? \ud83d\udc47\n\nNot financial advice.\n\n#bearmarket #correction #investing #stocks #stockmarket",
    "comment": "Decide what you'll do in each one now, while you're calm.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T0700_e25a2a3c",
-   "at": "2026-10-22T07:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0700_tw-cosigning-risk.mp4",
-   "caption": "When you co-sign, the lender can come after you for the full balance, plus late fees and collection costs.\n\nHave you ever co-signed for someone? Would you again? \ud83d\udc47\n\nSource: Federal Trade Commission.\n\n#cosigning #credit #debt #personalfinance #money",
-   "comment": "Only co-sign an amount you could afford to pay off yourself.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T0700_2394a03e",
@@ -4428,6 +4417,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T0700_e25a2a3c",
+   "at": "2026-10-22T07:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0700_tw-cosigning-risk.mp4",
+   "caption": "When you co-sign, the lender can come after you for the full balance, plus late fees and collection costs.\n\nHave you ever co-signed for someone? Would you again? \ud83d\udc47\n\nSource: Federal Trade Commission.\n\n#cosigning #credit #debt #personalfinance #money",
+   "comment": "Only co-sign an amount you could afford to pay off yourself.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T0800_97943c6c",
    "at": "2026-10-22T08:00",
    "platforms": [
@@ -4438,21 +4440,7 @@
    "caption": "How does it always KNOW? \ud83d\ude02 Tag someone who has the reverse Midas touch \ud83d\udc47\n\n#tradingmemes #stockmarketmemes #tradinghumor #trading #stockmarket",
    "comment": "It doesn't know. It just feels that way. Size so it doesn't matter.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T0900_7e44e940",
-   "at": "2026-10-22T09:00",
-   "platforms": [
-    "fb",
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0900_tw-roth-vs-traditional.mp4",
-   "caption": "If you expect a higher tax rate later, Roth often wins. If you're in a high bracket now, traditional can make sense. Many people do both.\n\nWhich do you use? \ud83d\udc47\n\nNot financial advice.\n\n#rothira #401k #retirement #taxes #personalfinance",
-   "comment": "Not sure? Splitting contributions between both is a reasonable hedge.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T0900_bb446f6b",
@@ -4468,6 +4456,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T0900_7e44e940",
+   "at": "2026-10-22T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/0900_tw-roth-vs-traditional.mp4",
+   "caption": "If you expect a higher tax rate later, Roth often wins. If you're in a high bracket now, traditional can make sense. Many people do both.\n\nWhich do you use? \ud83d\udc47\n\nNot financial advice.\n\n#rothira #401k #retirement #taxes #personalfinance",
+   "comment": "Not sure? Splitting contributions between both is a reasonable hedge.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T1000_8730cfd7",
    "at": "2026-10-22T10:00",
    "platforms": [
@@ -4478,20 +4480,7 @@
    "caption": "The VIX is calculated from S&P 500 option prices. It tends to jump when stocks fall fast.\n\nDo you watch the VIX? \ud83d\udc47\n\nSource: Cboe. Not financial advice.\n\n#vix #volatility #optionstrading #sp500 #stockmarket",
    "comment": "A spike in the VIX makes options expensive. That matters before you buy them.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T1100_14ae5e20",
-   "at": "2026-10-22T11:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1100_tw-engagement-ring-salary-myth.mp4",
-   "caption": "De Beers pushed the two-months'-salary idea in its ads in the 1980s. There's no financial rule that says a ring should cost a set slice of your income.\n\nWhat do you think is a reasonable amount to spend on a ring? \ud83d\udc47\n\n#engagementring #wedding #personalfinance #money #marketing",
-   "comment": "Spend what you can afford in cash. Don't start a marriage with ring debt.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T1100_5039f3b0",
@@ -4507,6 +4496,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T1100_14ae5e20",
+   "at": "2026-10-22T11:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1100_tw-engagement-ring-salary-myth.mp4",
+   "caption": "De Beers pushed the two-months'-salary idea in its ads in the 1980s. There's no financial rule that says a ring should cost a set slice of your income.\n\nWhat do you think is a reasonable amount to spend on a ring? \ud83d\udc47\n\n#engagementring #wedding #personalfinance #money #marketing",
+   "comment": "Spend what you can afford in cash. Don't start a marriage with ring debt.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T1200_8f3ed6f6",
    "at": "2026-10-22T12:00",
    "platforms": [
@@ -4517,20 +4519,7 @@
    "caption": "A pre-mortem forces you to look at the risks before excitement takes over.\n\nDo you think through how a trade could go wrong first? \ud83d\udc47\n\n#tradingpsychology #riskmanagement #tradingplan #trading #stockmarket",
    "comment": "Write your exit for the failure case before you write your profit target.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T1300_6b79c648",
-   "at": "2026-10-22T13:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1300_tw-sports-betting-apps.mp4",
-   "caption": "Easy access plus constant promos is a powerful mix. If it's entertainment, budget it like entertainment.\n\nDo you bet on sports? How do you keep it in check? \ud83d\udc47\n\n#sportsbetting #gambling #personalfinance #money #budgeting",
-   "comment": "Set a deposit limit in the app. Most apps let you.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T1300_92cb5b83",
@@ -4546,6 +4535,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T1300_6b79c648",
+   "at": "2026-10-22T13:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1300_tw-sports-betting-apps.mp4",
+   "caption": "Easy access plus constant promos is a powerful mix. If it's entertainment, budget it like entertainment.\n\nDo you bet on sports? How do you keep it in check? \ud83d\udc47\n\n#sportsbetting #gambling #personalfinance #money #budgeting",
+   "comment": "Set a deposit limit in the app. Most apps let you.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T1400_96ad1d3e",
    "at": "2026-10-22T14:00",
    "platforms": [
@@ -4556,20 +4559,7 @@
    "caption": "A long streak doesn't guarantee the future, but it shows a business that has managed its cash through hard times.\n\nDo you own any Dividend Aristocrats? \ud83d\udc47\n\nSource: S&P Dow Jones Indices. Not financial advice.\n\n#dividends #dividendinvesting #investing #stocks #stockmarket",
    "comment": "Check the payout ratio too. A streak can end if the dividend outgrows the profits.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T1500_30920f27",
-   "at": "2026-10-22T15:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1500_tw-pmi-under-20-down.mp4",
-   "caption": "Private mortgage insurance can usually be cancelled once you reach enough equity. Ask your lender exactly when.\n\nDid you put 20% down, or pay PMI? \ud83d\udc47\n\nSource: Consumer Financial Protection Bureau.\n\n#pmi #mortgage #homebuying #personalfinance #realestate",
-   "comment": "Track your equity. Request PMI removal as soon as you qualify.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T1500_626ed599",
@@ -4585,6 +4575,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T1500_30920f27",
+   "at": "2026-10-22T15:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1500_tw-pmi-under-20-down.mp4",
+   "caption": "Private mortgage insurance can usually be cancelled once you reach enough equity. Ask your lender exactly when.\n\nDid you put 20% down, or pay PMI? \ud83d\udc47\n\nSource: Consumer Financial Protection Bureau.\n\n#pmi #mortgage #homebuying #personalfinance #realestate",
+   "comment": "Track your equity. Request PMI removal as soon as you qualify.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T1600_6dd37436",
    "at": "2026-10-22T16:00",
    "platforms": [
@@ -4595,20 +4598,7 @@
    "caption": "Gaps on big news, like a strong earnings report, can hold for a long time. Betting on every gap to fill is a strategy until it isn't.\n\nDo you trade gap fills? \ud83d\udc47\n\nNot financial advice.\n\n#gaptrading #technicalanalysis #daytrading #trading #stockmarket",
    "comment": "Ask why the stock gapped before you bet against it.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T1700_b096991c",
-   "at": "2026-10-22T17:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1700_tw-bank-never-asks-for-code.mp4",
-   "caption": "That one-time code is the key to your account. Scammers spoof real phone numbers to sound legit.\n\nHave you ever gotten a call like this? \ud83d\udc47\n\n#scamalert #fraud #banking #personalfinance #money",
-   "comment": "Hang up and call the number on the back of your card instead.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T1700_d60dcda2",
@@ -4624,6 +4614,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T1700_b096991c",
+   "at": "2026-10-22T17:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1700_tw-bank-never-asks-for-code.mp4",
+   "caption": "That one-time code is the key to your account. Scammers spoof real phone numbers to sound legit.\n\nHave you ever gotten a call like this? \ud83d\udc47\n\n#scamalert #fraud #banking #personalfinance #money",
+   "comment": "Hang up and call the number on the back of your card instead.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T1800_aad925f4",
    "at": "2026-10-22T18:00",
    "platforms": [
@@ -4634,20 +4638,7 @@
    "caption": "A long call butterfly: buy one lower strike, sell two middle strikes, buy one higher strike. Max profit is at the middle strike.\n\nHave you ever traded a butterfly? \ud83d\udc47\n\nNot financial advice.\n\n#butterflyspread #optionstrading #options #optionsstrategy #stockmarket",
    "comment": "They're cheap because hitting the exact spot is hard. Size accordingly.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T1900_c60bad3d",
-   "at": "2026-10-22T19:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1900_tw-tbills-state-tax-free.mp4",
-   "caption": "You still owe federal tax on T-bill interest, but not state or local. Compare the after-tax yield, not just the headline rate.\n\nDo you own T-bills? \ud83d\udc47\n\nSource: TreasuryDirect. Not financial advice.\n\n#tbills #treasury #savings #personalfinance #investing",
-   "comment": "Many brokerages let you buy T-bills with no fee.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T1900_44072e96",
@@ -4663,6 +4654,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T1900_c60bad3d",
+   "at": "2026-10-22T19:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/1900_tw-tbills-state-tax-free.mp4",
+   "caption": "You still owe federal tax on T-bill interest, but not state or local. Compare the after-tax yield, not just the headline rate.\n\nDo you own T-bills? \ud83d\udc47\n\nSource: TreasuryDirect. Not financial advice.\n\n#tbills #treasury #savings #personalfinance #investing",
+   "comment": "Many brokerages let you buy T-bills with no fee.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T2000_f5fc7cff",
    "at": "2026-10-22T20:00",
    "platforms": [
@@ -4673,21 +4677,7 @@
    "caption": "Relative volume compares today's trading to the stock's usual volume. Big moves on light volume fade more often.\n\nDo you check relative volume before a trade? \ud83d\udc47\n\nNot financial advice.\n\n#volume #daytrading #technicalanalysis #trading #stockmarket",
    "comment": "Make it one of your first filters, not your last.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T2100_89f887c2",
-   "at": "2026-10-22T21:00",
-   "platforms": [
-    "fb",
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/2100_tw-no-spend-week.mp4",
-   "caption": "It's not about never spending. It's about noticing what you spend on autopilot.\n\nWould you try it? What would be the hardest to give up? \ud83d\udc47\n\n#nospend #budgeting #savingmoney #personalfinance #money",
-   "comment": "Move whatever you saved to savings at the end of the week, or it disappears.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T2100_626579d6",
@@ -4703,6 +4693,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T2100_89f887c2",
+   "at": "2026-10-22T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/2100_tw-no-spend-week.mp4",
+   "caption": "It's not about never spending. It's about noticing what you spend on autopilot.\n\nWould you try it? What would be the hardest to give up? \ud83d\udc47\n\n#nospend #budgeting #savingmoney #personalfinance #money",
+   "comment": "Move whatever you saved to savings at the end of the week, or it disappears.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261022T2200_6d2fc2cb",
    "at": "2026-10-22T22:00",
    "platforms": [
@@ -4713,20 +4717,7 @@
    "caption": "High-beta stocks feel amazing in rallies and awful in selloffs. Know which kind you own.\n\nWhat's the highest-beta stock you hold? \ud83d\udc47\n\nNot financial advice.\n\n#beta #investing #riskmanagement #stocks #stockmarket",
    "comment": "Size high-beta positions smaller. They earn it.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
-  },
-  {
-   "id": "20261022T2300_42e63a3e",
-   "at": "2026-10-22T23:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/2300_tw-fidelity-salary-multiples.mp4",
-   "caption": "It's a rough benchmark, not a test. Starting late doesn't mean it's too late; it means the next dollar matters more.\n\nWhere are you right now? \ud83d\udc47\n\nSource: Fidelity Investments. Not financial advice.\n\n#retirement #retirementplanning #401k #personalfinance #money",
-   "comment": "Behind? Raise your contribution 1% this month and 1% every year.",
-   "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261022T2300_554a1a71",
@@ -4742,6 +4733,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261022T2300_42e63a3e",
+   "at": "2026-10-22T23:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-22/2300_tw-fidelity-salary-multiples.mp4",
+   "caption": "It's a rough benchmark, not a test. Starting late doesn't mean it's too late; it means the next dollar matters more.\n\nWhere are you right now? \ud83d\udc47\n\nSource: Fidelity Investments. Not financial advice.\n\n#retirement #retirementplanning #401k #personalfinance #money",
+   "comment": "Behind? Raise your contribution 1% this month and 1% every year.",
+   "batch": "stpost 2026-10-22 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
    "id": "20261023T0000_949ce93d",
    "at": "2026-10-23T00:00",
    "platforms": [
@@ -4752,7 +4756,7 @@
    "caption": "Do the boring things, every day. Goodnight, traders \ud83c\udf19\n\n#tradingpsychology #consistency #discipline #trading #stockmarket",
    "comment": "Small, repeatable, every day.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:02.000Z"
+   "added": "2026-10-20T08:17:09.000Z"
   },
   {
    "id": "20261023T0100_d023ed3a",
