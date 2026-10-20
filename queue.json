@@ -3677,7 +3677,7 @@
    "caption": "FOMO is not a strategy. \ud83d\ude80\n\nFOMO, the fear of missing out, is one of the most expensive emotions in investing. It usually sounds like this: \"Everyone's making money on this, and I'm missing it.\"\n\nHere's the problem. By the time a stock is all over your feed, a lot of the easy move has often already happened. The people who bought early may be the ones selling to you. You're not getting in early. You're often providing their exit.\n\nWhat FOMO trading tends to look like:\n\u2192 Buying after a huge run-up because the chart \"only goes up\"\n\u2192 Skipping your research because there's \"no time\"\n\u2192 Putting in more than you planned, because this one feels different\n\u2192 Panic-selling when it drops, because you never had a reason to own it in the first place\n\nThe fix isn't to never buy anything popular. It's to have a reason that doesn't depend on other people's excitement.\n\nBefore you buy anything that's trending, ask:\n\u2192 Would I buy this if nobody was talking about it?\n\u2192 Can I explain what this company does and how it makes money?\n\u2192 How much of my money would I be okay losing on this?\n\u2192 Am I buying a business, or buying a feeling?\n\nIf the only answer is \"because everyone else is,\" that's not a strategy. That's a crowd.\n\nWhat's the biggest FOMO buy you ever made? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#fomo #tradingpsychology #stockmarket #investing #stocks #trading #money",
    "comment": "Rule I use: wait 48 hours before buying anything I first heard about on social media. Most of the urge disappears.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261020T1800_0da78df5",
@@ -3716,7 +3716,7 @@
    "caption": "A 1% fee can cost you $187,000. \ud83d\ude33\n\nThat sounds dramatic, so here's exactly where the number comes from.\n\nTake $100,000 and leave it invested for 30 years:\n\u2192 Earning a 7% average return: about $761,226\n\u2192 Earning 6% because a 1% fee comes out every year: about $574,349\n\u2192 The difference: about $186,876, roughly a quarter of the final balance\n\nWhy such a big gap from such a small number? Fees compound too, just in the wrong direction. A 1% fee isn't 1% of your gains. It's 1% of your whole balance, every year, whether your account went up or down. And the money paid in fees never gets to grow for you.\n\nWhere fees hide:\n\u2192 Fund expense ratios (check every fund you own)\n\u2192 Advisory fees charged as a % of your assets\n\u2192 Trading costs, and the taxes from trading too often\n\u2192 Funds inside some 401(k) plans\n\nNone of this means every fee is bad. Good advice can be worth paying for. Just know what you're paying and what you're getting for it.\n\nQuick check you can do today: look up the expense ratio on each fund you own. Many broad-market index funds charge well under 0.1%.\n\nDo you know what you're paying in fees? \ud83d\udc47\n\n-Cole\n\n(Math: $100,000, 30 years, 7% vs 6% compounded annually. Returns vary and are not guaranteed.)\nEducational only, not financial advice.\n\n#investing #fees #indexfunds #stockmarket #retirement #personalfinance #money",
    "comment": "Send this to the friend who says their fee is 'only 1%'. It might be the most valuable thing they read this year.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261020T2000_011de629",
@@ -3744,6 +3744,19 @@
    "comment": "Mine: always pay the credit card in full. What's yours?",
    "batch": "stpost 2026-10-20 (queued by hourly.py)",
    "added": "2026-10-20T08:16:51.000Z"
+  },
+  {
+   "id": "20261020T2100_8cc09136",
+   "at": "2026-10-20T21:00",
+   "platforms": [
+    "fb2"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/cc/cc-list-top10.mp4",
+   "caption": "10 investing mistakes that cost Americans the most, counted down. Number one is the one almost everybody makes. \ud83d\udc47\n\n10. Thinking you need a lot to start. Many big brokers sell fractional shares for as little as $1 to $5.\n9. Investing money you'll need soon. A down payment due next year can't wait out a bad year in stocks.\n8. Checking every day. The more red days you see, the more tempting it is to sell.\n7. Chasing what's hot. By the time a stock is all over your feed, a lot of the easy gains are already in the price.\n6. Putting everything in one stock. One bad year at one company can sink the whole plan. A broad index fund spreads it across hundreds.\n5. Skipping the tax breaks. A 401(k) and a Roth IRA let your money grow with less tax.\n4. High fees. $100,000 growing 30 years at 7% is about $761,000. Pay 1% a year in fees and it's about $574,000. That's roughly $187,000 gone.\n3. Timing the market. J.P. Morgan found 7 of the 10 best days for stocks came within two weeks of the 10 worst. Sell after a bad day and you can miss the rebound.\n2. Panic selling. In 2020 the S&P 500 fell about 34% in five weeks, then hit a new high by August. People who sold at the bottom locked in the loss.\n1. Waiting to start. $500 a month at 7% from age 25 grows to about $1.31 million by 65. Start at 35 and it's about $610,000. Same habit, half the money.\n\nEvery one of these is fixable, starting today. Which one have you made? \ud83d\udc47\n\n(Fee math: $100,000 compounded 30 years at 7% vs 6%. Best/worst days: J.P. Morgan Asset Management, Guide to Retirement, 2024. 2020 drawdown: S&P 500, Feb 19 to Mar 23, 2020; record close Aug 18, 2020. Monthly math assumes 7% a year compounded monthly, before taxes and inflation.)\nEducational only, not financial advice.\n\n#investing #stockmarket #personalfinance #indexfunds #retirement #compoundinterest #money",
+   "comment": "Send this to a friend who's still \"waiting for the right time\" to start \u23f3 And follow Compound Cents for money math that makes cents.",
+   "batch": "Compound Cents (queued by ccpost.py)",
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261020T2200_e9928c20",
@@ -3782,7 +3795,7 @@
    "caption": "Roth IRA: pay tax on the seed, not the tree. \ud83c\udf31\ud83c\udf33\n\nIf I could explain one investing account to every 22-year-old, it would be this one.\n\nHere's how a Roth IRA works, in plain English:\n\u2192 You put in money you've already paid income tax on (the seed)\n\u2192 You invest it, often in simple index funds\n\u2192 It can grow for decades, and you don't pay tax on that growth\n\u2192 In retirement, qualified withdrawals come out tax-free (the tree)\n\nSo you pay tax on a small seed today instead of on a big tree later.\n\nThe 2026 numbers: you can put in up to $7,500 a year, or $8,600 if you're 50 or older.\n\nThe fine print, honestly:\n\u2192 There are income limits on who can contribute directly\n\u2192 \"Qualified\" generally means you're 59\u00bd or older and the account is at least 5 years old\n\u2192 You can usually take out what you contributed (not the growth) at any time\n\nWhy it's so powerful for younger investors: the earlier you plant the seed, the bigger the tree gets, and none of that growth is taxed if you follow the rules.\n\nDo you have a Roth IRA yet? \ud83d\udc47\n\n-Cole\n\n(2026 IRA limits: IRS Notice 2025-67.)\nEducational only, not financial advice.\n\n#rothira #investing #retirement #taxes #stockmarket #personalfinance #money",
    "comment": "Send this to the youngest person in your family. It costs nothing and could be worth a fortune to them.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T0000_3a002755",
@@ -3822,7 +3835,7 @@
    "caption": "Compound interest rewards patience, not intelligence. \u23f3\n\nYou don't need to be the smartest investor. You need to be the one who doesn't quit.\n\nHere's what patience looks like in numbers. $10,000 invested once and left alone for 30 years at a 7% average return grows to about $76,123. The investor didn't predict anything. They just didn't interrupt it.\n\nThe hard part is that the market tests your patience constantly. From 1980 to 2023, the S&P 500 had an average drop of about 14% at some point during the year, and still finished positive in 33 of those 44 years (J.P. Morgan). Big dips inside good years are normal, not a sign that something is broken.\n\nWhere smart people go wrong:\n\u2192 They overthink, trade too much, and rack up fees and taxes\n\u2192 They \"wait for a better entry\" and miss the recovery\n\u2192 They sell during a drop because the explanation sounds smart\n\nWhere patient people win:\n\u2192 They automate and stop tinkering\n\u2192 They expect drops and plan for them in advance\n\u2192 They measure success in decades, not days\n\nIntelligence helps you understand the market. Patience is what lets you get paid by it.\n\nAre you more of a tinkerer or a holder? \ud83d\udc47\n\n-Cole\n\n(Math: $10,000 at 7% compounded annually for 30 years. Intra-year declines: J.P. Morgan Guide to the Markets, 1980-2023. Past performance does not guarantee future results.)\nEducational only, not financial advice.\n\n#compoundinterest #investing #stockmarket #longterminvesting #tradingpsychology #patience #money",
    "comment": "Write this on a sticky note and put it wherever you check your portfolio.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T0200_04ded561",
@@ -3861,7 +3874,7 @@
    "caption": "Don't ask how high. Ask how long. \ud83d\udcca\n\nThe question everyone asks about a stock is \"how high can it go?\" The question that actually decides your results is \"how long am I willing to hold it?\"\n\nIf your honest answer is \"until it drops 20%,\" you're not really investing. You're renting a stock until it scares you. And every stock you'll ever own will scare you at some point.\n\nWhy holding period matters so much:\n\u2192 Over days or weeks, prices are driven mostly by news and mood\n\u2192 Over years, they're driven much more by what the business actually earns\n\u2192 The longer you hold, the more the business matters and the less the noise does\n\nBefore I buy anything, I ask myself three things:\n\u2192 Would I be okay if this fell 30% next year?\n\u2192 Am I buying because I understand it, or because it's everywhere online?\n\u2192 Is this money I won't need for at least five years?\n\nIf any answer is no, I pass. That one filter has kept me out of more mistakes than any tip has gotten me into.\n\nShort-term trading can work for some people with a real plan. But many people lose money acting like traders when they meant to be investors.\n\nWhat's your rule before buying a stock? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#stocks #stockmarket #investing #longterminvesting #tradingpsychology #trading #money",
    "comment": "Before your next buy, write down how long you plan to hold it. Then reread that note the next time it drops.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T0400_f470f1e6",
@@ -3901,7 +3914,7 @@
    "caption": "Losses hurt twice as much as gains feel good. \ud83d\ude23\n\nThis isn't just a feeling. It's one of the most famous findings in behavioral economics. Psychologists Daniel Kahneman and Amos Tversky found that a loss tends to hit us roughly twice as hard as an equal gain feels good. They called it loss aversion.\n\nIt sounds harmless, but it quietly wrecks a lot of portfolios:\n\u2192 We sell winners too early to \"lock in\" the good feeling\n\u2192 We hold losers way too long because selling makes the loss feel real\n\u2192 We check our accounts constantly, and every red day stings more than the green days help\n\u2192 We avoid investing at all, because a possible loss feels worse than the cost of doing nothing\n\nThat last one is sneaky. Cash on the sidelines feels safe, but over time inflation slowly eats it.\n\nHow to work with your brain instead of against it:\n\u2192 Decide your exit rules before you buy, while you're calm\n\u2192 Look at your portfolio less often, so you see fewer painful dips\n\u2192 Judge decisions by your process, not by one result\n\u2192 For long-term money, automate it so your emotions don't get a vote\n\nYou can't turn off loss aversion. But once you know it's there, you can stop letting it trade for you.\n\nWhich do you do more: sell winners too early or hold losers too long? \ud83d\udc47\n\n-Cole\n\n(Loss aversion: Kahneman & Tversky, prospect theory.)\nEducational only, not financial advice.\n\n#tradingpsychology #lossaversion #behavioralfinance #investing #stockmarket #trading #money",
    "comment": "Next time you want to sell, ask: would I buy this today at this price? If yes, why sell?",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T0600_aefa2b94",
@@ -3940,7 +3953,7 @@
    "caption": "Spend less than you make. Invest the rest. Wait. \u270d\ufe0f\n\nThe whole plan fits on a whiteboard. Sticking with it for 30 years is the hard part.\n\nStep 1, spend less than you make: this is the engine. No gap, no investing. It doesn't have to be huge. It has to be consistent.\n\nStep 2, invest the rest: not in your checking account, not in whatever's trending, but in something you can hold for decades, like a broad, low-cost index fund.\n\nStep 3, wait: this is where most people quit. Waiting means sitting through boring years, scary headlines and crashes without abandoning the plan.\n\nHere's the plan in real numbers. $300 a month invested at a 7% average return for 30 years grows to about $365,991. You'd have put in $108,000. The other $257,991 is the reward for step 3.\n\nWhy such a simple plan is hard:\n\u2192 Step 1 fights your lifestyle\n\u2192 Step 2 fights your impatience\n\u2192 Step 3 fights your fear\n\nNothing about it is complicated. All of it is behavior.\n\nWhich step is hardest for you? \ud83d\udc47\n\n-Cole\n\n(Math: $300 invested monthly at a 7% average annual return for 30 years. Returns vary and are not guaranteed.)\nEducational only, not financial advice.\n\n#investing #makingmoney #stockmarket #indexfunds #moneymindset #personalfinance #money",
    "comment": "Screenshot this whiteboard. It's the only investing plan most people ever need to get started.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T0800_aa02482e",
@@ -3968,6 +3981,19 @@
    "comment": "Whichever you choose, negotiate the price of the car first, not the monthly payment.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
    "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
+   "id": "20261021T0900_ef376ab8",
+   "at": "2026-10-21T09:00",
+   "platforms": [
+    "fb2"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/cc/cc-list-market-pays.mp4",
+   "caption": "Most people think the stock market only pays you one way. It actually pays you five. \ud83d\udc47\n\nIf you think investing is just \"buy low, sell high,\" you're missing most of the paycheck:\n\n\u2192 Price growth: the company gets bigger, and every share you own is worth more\n\u2192 Dividends: about 4 out of 5 companies in the S&P 500 pay you cash just for owning them\n\u2192 Buybacks: the company buys back its own shares, so your slice of the pie gets bigger without you spending a dime\n\u2192 Buyouts: when a bigger company buys yours, it usually pays more than the stock price\n\u2192 Compounding: reinvest those dividends and they buy more shares, which pay more dividends\n\nPut it together and the S&P 500 has returned about 10% a year over the long run with dividends reinvested. Not every year. Some years are ugly. But over decades, owning great companies has paid people in more ways than one.\n\nThat's the difference between gambling and investing. A gambler needs to be right today. An owner just needs to keep owning.\n\nWhich one did you not know about? \ud83d\udc47\n\n(Dividend payers: S&P Dow Jones Indices, 407 of 503 S&P 500 constituents in 2025. Long-run return: S&P 500 total return since 1957, about 10.5% a year before inflation.)\nEducational only, not financial advice.\n\n#investing #stockmarket #dividends #personalfinance #money",
+   "comment": "Send this to the friend who still thinks the stock market is a casino \ud83c\udfb0 And follow Compound Cents for money math that makes cents.",
+   "batch": "Compound Cents (queued by ccpost.py)",
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T1000_81c3672a",
@@ -4006,7 +4032,7 @@
    "caption": "Plan the trade. Trade the plan. \ud83d\udcdd\n\nMost bad trades aren't caused by bad information. They're caused by decisions made in the middle of a move, when emotions are loudest.\n\nA trading plan moves those decisions to before you click buy, when you're calm. A real plan answers four questions:\n\u2192 Entry: why am I getting in, and at what price?\n\u2192 Exit if I'm wrong: where do I admit it and get out?\n\u2192 Exit if I'm right: where do I take profits?\n\u2192 Size: how much am I putting on this trade?\n\nPosition size is the one people skip, and it's the one that keeps you in the game. Many traders follow a rule of risking only about 1% to 2% of their account on any single trade. On a $20,000 account, 1% is $200. Lose that and you're annoyed, not wiped out.\n\nThen comes the hard part, actually following it:\n\u2192 Don't move your stop because you \"have a feeling\"\n\u2192 Don't double down to get back to even\n\u2192 Don't skip your exit because the stock \"has to come back\"\n\nA plan is only as good as your discipline when it gets tested.\n\nDo you write your trades down before you place them? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#trading #tradingpsychology #daytrading #stockmarket #riskmanagement #stocks #investing",
    "comment": "Keep a simple trade journal: entry, exit, size, reason, and how you felt. Your patterns will jump off the page.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T1200_279dc41b",
@@ -4046,7 +4072,7 @@
    "caption": "Revenge trading is gambling with your feelings. \ud83d\ude24\n\nRevenge trading is what happens right after a loss: you jump straight into another trade, usually bigger, to \"make it back.\" It feels like taking control. It's actually your emotions running the account.\n\nWhy it's so dangerous:\n\u2192 You're trading to fix a feeling, not because the setup is good\n\u2192 You usually size up, so the next loss hits even harder\n\u2192 You skip your own rules because you're in a hurry\n\u2192 One bad trade turns into a bad day, and a bad day into a bad month\n\nThe market doesn't know you just lost money, and it doesn't owe you a comeback.\n\nHow traders protect themselves from it:\n\u2192 A daily loss limit: hit it and you're done for the day, no exceptions\n\u2192 A mandatory break after any losing trade, even 15 minutes\n\u2192 No increasing position size after a loss\n\u2192 Writing down what happened before placing the next trade\n\nThe best trade after a big loss is very often no trade at all.\n\nHave you ever revenge traded? What happened? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#tradingpsychology #trading #daytrading #stockmarket #riskmanagement #mindset #money",
    "comment": "Set a hard daily loss limit tonight while you're calm. Future you will thank you on a bad day.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T1400_467de186",
@@ -4085,7 +4111,7 @@
    "caption": "Every crash felt like the end. It wasn't. \ud83d\udcc9\ud83d\udcc8\n\nIn the moment, every big market drop feels different and permanent. That's exactly what makes crashes so hard to sit through.\n\nA few that felt like the end:\n\u2192 1987: the S&P 500 fell more than 20% in a single day\n\u2192 2008: major banks failed and people feared the financial system would break\n\u2192 2020: the S&P 500 dropped about a third in roughly a month as the world shut down\n\nIn each case, the investors who did best usually weren't the ones who predicted the bottom. They were the ones who kept their plan going when it felt impossible.\n\nDrops are also more normal than people think. From 1980 to 2023, the S&P 500 had an average decline of about 14% at some point in the year, and still ended positive in 33 of those 44 years (J.P. Morgan).\n\nNone of this means stocks can't fall further, or that every investment comes back. Individual companies can go to zero. It means panic is a terrible advisor for long-term money.\n\nWhat helps during a crash:\n\u2192 Only invest money you won't need for years\n\u2192 Decide in advance what you'll do in a 20% drop\n\u2192 Keep investing on schedule if your plan says so\n\u2192 Turn off the news when it starts making your decisions\n\nWhat do you do when the market drops? \ud83d\udc47\n\n-Cole\n\n(Intra-year declines: J.P. Morgan Guide to the Markets, 1980-2023. Past performance does not guarantee future results.)\nEducational only, not financial advice.\n\n#stockmarket #marketcrash #investing #tradingpsychology #longterminvesting #stocks #money",
    "comment": "Save this post. You won't need it on a good day. You'll need it on the next bad one.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T1600_b58f34c4",
@@ -4125,7 +4151,7 @@
    "caption": "The best day to start investing was 10 years ago. The second best is today. \ud83d\udcc5\n\nYou can't buy back the years. But you can stop losing more of them.\n\nHere's why time matters so much. $200 a month invested at a 7% average return:\n\u2192 After 10 years: about $34,617 (you put in $24,000)\n\u2192 After 30 years: about $243,994 (you put in $72,000)\n\nOver 10 years, most of the balance is your own money. Over 30 years, most of it is growth. Compounding needs time to really kick in, which is why starting late hurts more than starting small.\n\nThe most common reasons people wait:\n\u2192 \"I don't have enough money yet\"\n\u2192 \"I'll start when the market calms down\"\n\u2192 \"I need to learn more first\"\n\nAll three keep you on the sidelines while time passes anyway.\n\nHow to start this week:\n\u2192 Open a retirement account if you don't have one (a 401(k) with a match, or a Roth IRA)\n\u2192 Pick one broad, low-cost index fund\n\u2192 Set up an automatic monthly amount, even a small one\n\u2192 Raise it a little every time your income goes up\n\nStarting small today beats starting perfectly someday.\n\nHow old were you when you started investing? \ud83d\udc47\n\n-Cole\n\n(Math: $200 invested monthly at a 7% average annual return. Returns vary and are not guaranteed.)\nEducational only, not financial advice.\n\n#investing #stockmarket #compoundinterest #retirement #makingmoney #personalfinance #money",
    "comment": "Tag someone who keeps saying they'll start investing 'next year'.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T1800_2d27d011",
@@ -4164,7 +4190,7 @@
    "caption": "You're not buying a ticker. You're buying a business. \ud83c\udfe2\n\nIt's easy to forget when you're staring at a chart. A stock isn't just a squiggly line that goes up and down. It's a small piece of ownership in a real company, with real customers, real products and real profits (or losses).\n\nWhy that mindset matters:\n\u2192 Prices can swing wildly in the short run on headlines and mood\n\u2192 Over the long run, a stock tends to follow what the business actually earns\n\u2192 If you think like an owner, a price drop on a great business can look like a sale instead of a disaster\n\nQuestions an owner asks before buying:\n\u2192 How does this company make money?\n\u2192 Will people still want what it sells in 10 years?\n\u2192 Does it make a profit, or is it burning cash?\n\u2192 Would I be comfortable owning it if the stock market closed for five years?\n\nIf you can't answer those, that's okay. That's exactly why so many people own the whole market through an index fund instead.\n\nDo you think of your stocks as businesses or as tickers? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#stocks #stockmarket #investing #valueinvesting #longterminvesting #money #personalfinance",
    "comment": "Next time you look at a stock, open the company's website before the chart. It changes how you see it.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T2000_8b713f91",
@@ -4192,6 +4218,19 @@
    "comment": "Make a list of every past employer and check each one.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
    "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
+   "id": "20261021T2100_24d689ca",
+   "at": "2026-10-21T21:00",
+   "platforms": [
+    "fb2"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/cc/cc-list-cash-places.mp4",
+   "caption": "Your checking account is the worst-paid employee you have. \ud83d\udc47\n\nThe average interest checking account in America pays about 0.07%. On $10,000, that's around $7 a year.\n\nKeep enough in checking to cover your bills and a little cushion. The rest has better places to be:\n\n\u2192 High-yield savings: FDIC-insured like your checking, but pays far more interest. Good home for your emergency fund\n\u2192 Your 401(k) match: if your employer offers one and you skip it, you're turning down part of your pay\n\u2192 Credit card balances: cards charge people who carry a balance over 21% a year. Paying that off is a guaranteed \"return\" almost nothing beats\n\u2192 Treasury bills: backed by the U.S. government, and the interest is exempt from state and local income tax\n\u2192 A Roth IRA: invest it for the long run, and qualified withdrawals in retirement are tax-free\n\nNone of this is complicated. It's just moving money out of the account that pays you nothing.\n\nWhich one are you starting with? \ud83d\udc47\n\n(Checking: FDIC national rate for interest checking, 0.07%, Aug 2026. Card APR: Federal Reserve G.19, accounts assessed interest, 2026. T-bill tax treatment: TreasuryDirect. Roth: qualified withdrawals generally require age 59\u00bd and a 5-year-old account.)\nEducational only, not financial advice.\n\n#personalfinance #money #investing #savings #financialfreedom",
+   "comment": "Send this to the friend with way too much cash sitting in checking \ud83d\udc40 And follow Compound Cents for money math that makes cents.",
+   "batch": "Compound Cents (queued by ccpost.py)",
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261021T2200_6a6baa96",
@@ -4230,7 +4269,7 @@
    "caption": "If an investment keeps you up at night, the position is too big. \ud83d\ude34\n\nThat's the sleep test, and it's one of the simplest risk tools there is.\n\nWhen a position is too large for you, a normal drop doesn't feel normal. It feels like an emergency. And emergencies lead to bad decisions: panic selling, doubling down, or checking your phone at 2 AM.\n\nSigns a position is too big for you:\n\u2192 You check it constantly\n\u2192 A 10% drop ruins your day\n\u2192 You'd be in real trouble if it went to zero\n\u2192 You've stopped thinking clearly about whether to hold it\n\nHow to fix it:\n\u2192 Trim it to a size you could hold through a 30-50% drop\n\u2192 Spread money across many companies (an index fund does this for you)\n\u2192 Keep your speculative bets to a small slice you can afford to lose\n\u2192 Make sure your emergency fund is separate, so you're never forced to sell\n\nThe right position size is the one that lets you act like an investor instead of a nervous wreck.\n\nHave you ever had a position that kept you up at night? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#riskmanagement #tradingpsychology #investing #stockmarket #trading #mindset #money",
    "comment": "Size every position so you could sleep through a bad week. Your decisions get better instantly.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T0000_ece76ce3",
@@ -4270,7 +4309,7 @@
    "caption": "\"Be fearful when others are greedy, and greedy when others are fearful.\" \ud83e\udde0\n\nThat line is from Warren Buffett's 1986 letter to Berkshire Hathaway shareholders, and it's one of the most quoted pieces of investing wisdom ever.\n\nWhat it means in plain English:\n\u2192 When everyone is excited and prices are soaring, be careful. That's when people overpay\n\u2192 When everyone is scared and prices are falling, look closer. That's when good businesses can go on sale\n\nWhy it's so hard to do:\n\u2192 Greed feels like confidence in the moment\n\u2192 Fear feels like being responsible\n\u2192 Going against the crowd feels lonely, even when it's right\n\nWhat it doesn't mean: it's not a signal to bet everything when the market drops, or to sell everything when it rises. For most people, the practical version is simpler: keep investing on schedule through the scary times instead of stopping, and don't pile in extra just because everyone's euphoric.\n\nWhere do you think the market mood is right now, fear or greed? \ud83d\udc47\n\n-Cole\n\n(Quote: Warren Buffett, 1986 Berkshire Hathaway shareholder letter.)\nEducational only, not financial advice.\n\n#warrenbuffett #tradingpsychology #stockmarket #investing #valueinvesting #money #mindset",
    "comment": "Save this for the next time the whole internet is panicking. Or the next time it's euphoric.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T0200_2f72fc61",
@@ -4309,7 +4348,7 @@
    "caption": "Check less. Worry less. Stay invested. \ud83d\udcf5\n\nThe more often you look at your investments, the more red you see. Over any single day, the stock market goes down a lot more often than people expect. Over decades, the long-run trend has been up. Checking constantly means you live in the noisy part and miss the big picture.\n\nWhat frequent checking does to most people:\n\u2192 Every dip feels like a crisis\n\u2192 Loss aversion kicks in (losses feel about twice as painful as gains feel good)\n\u2192 You start making changes your plan never called for\n\nA healthier routine:\n\u2192 Check once a month, on the same day\n\u2192 Look at your contributions and savings rate, not just the balance\n\u2192 Rebalance once or twice a year, not every time you feel nervous\n\u2192 Turn off price alerts on long-term holdings\n\nYour investments don't need you watching them. They need you leaving them alone and adding to them.\n\nHow often do you check your portfolio right now? \ud83d\udc47\n\n-Cole\n\n(Loss aversion: Kahneman & Tversky, prospect theory.)\nEducational only, not financial advice.\n\n#investing #tradingpsychology #stockmarket #longterminvesting #mindset #money #personalfinance",
    "comment": "Move your investing app off your home screen today. It's a small change that makes a big difference.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T0400_31159f0e",
@@ -4349,7 +4388,7 @@
    "caption": "Don't put your whole future in one stock. \ud83e\udd5a\ud83e\uddfa\n\nEven great companies can stumble. Products get replaced, scandals happen, competition shows up, and stocks that looked unstoppable can fall hard and take years to recover, if they ever do.\n\nWhy concentration is risky:\n\u2192 One company's bad news becomes your bad news\n\u2192 It's common to own too much of your own employer's stock, which ties your paycheck AND your savings to one company\n\u2192 Big wins in one stock are easy to see in hindsight. The ones that failed are quietly forgotten\n\nHow to diversify without overthinking it:\n\u2192 A broad index fund spreads your money across hundreds of companies\n\u2192 Keep any single stock to a small slice of your portfolio\n\u2192 If your company gives you stock, consider whether you'd buy that much of it with your own cash\n\u2192 Spread across different sectors, not just different tech names\n\nDiversification won't make you rich overnight. It's what keeps one bad surprise from undoing years of saving.\n\nWhat's the biggest single stock in your portfolio? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#diversification #investing #stockmarket #riskmanagement #indexfunds #money #personalfinance",
    "comment": "Rule of thumb many investors use: no single stock big enough that its collapse would change your life.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T0600_ee84fece",
@@ -4388,7 +4427,7 @@
    "caption": "Automate your investing, so your emotions don't get a vote. \ud83e\udd16\n\nEvery manual investing decision is a chance for fear or greed to sneak in. \"I'll wait until next month.\" \"The market feels too high.\" \"Let me just see how this week goes.\" Those little delays add up to years of missed growth.\n\nAutomation removes the decision entirely:\n\u2192 Your 401(k) contribution comes out of your paycheck before you see it\n\u2192 An automatic transfer moves money to your brokerage or IRA on payday\n\u2192 A recurring buy puts it into the same index fund every month\n\u2192 Dividend reinvestment turns payouts into more shares\n\nThe result: you keep investing through scary headlines, boring stretches and euphoric bubbles, without having to talk yourself into it.\n\nThe best part? Automation works hardest exactly when you'd be least likely to invest on your own: during market drops.\n\nWhat part of your investing is on autopilot? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#automation #investing #stockmarket #tradingpsychology #401k #money #personalfinance",
    "comment": "Set up one recurring investment this week. Even a small one. Momentum matters more than the amount.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T0800_97943c6c",
@@ -4416,6 +4455,19 @@
    "comment": "Not sure? Splitting contributions between both is a reasonable hedge.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
    "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
+   "id": "20261022T0900_7f0daf9b",
+   "at": "2026-10-22T09:00",
+   "platforms": [
+    "fb2"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/cc/cc-list-under-1k.mp4",
+   "caption": "You don't need a loan to start a business. You need a weekend. \ud83d\udc47\n\nMost people think starting a business takes $50,000 and a business plan. These five can start with what's in your garage plus less than $1,000:\n\n\u2192 Pressure washing: a decent machine costs a few hundred bucks, and every driveway, deck and sidewalk gets dirty again\n\u2192 Lawn care: grass grows every single week from spring to fall, and most people hate mowing it\n\u2192 Car detailing: buckets, soap, a vacuum and towels. People pay over $100 to make their car feel new\n\u2192 Junk removal: if you already own a pickup, you already own the main piece of equipment\n\u2192 Window cleaning: a squeegee and a bucket, and storefronts need it every month\n\nNone of these will make you rich in a month. But they teach you the hardest part of business: finding customers and showing up. And every one of them pays in cash flow, not \"someday.\"\n\nQuick tip: check your city's license and insurance rules before your first job.\n\nWhich one would you try first? \ud83d\udc47\n\nEducational only, not financial advice.\n\n#sidehustle #smallbusiness #entrepreneur #money #personalfinance",
+   "comment": "Send this to the friend who keeps saying they need a side hustle \ud83d\udc40 And follow Compound Cents for money math that makes cents.",
+   "batch": "Compound Cents (queued by ccpost.py)",
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T1000_8730cfd7",
@@ -4454,7 +4506,7 @@
    "caption": "Your best trade can be the start of your worst habit. \u26a0\ufe0f\n\nA big win feels like proof that you've figured something out. Sometimes you have. Often, it was luck dressed up as skill, and the confidence it creates leads to bigger, riskier trades.\n\nThat's overconfidence, one of the best-documented biases in investing. A well-known study by Brad Barber and Terrance Odean found that the households that traded the most earned noticeably lower returns than the overall market, and overconfidence was a big part of their explanation.\n\nSigns a win is turning into a bad habit:\n\u2192 You start sizing up because \"you're on a roll\"\n\u2192 You skip your usual research\n\u2192 You remember your wins in detail and your losses barely at all\n\u2192 You start to feel like you can't lose\n\nHow to stay grounded:\n\u2192 Keep position sizes consistent, win or lose\n\u2192 Review your winners as carefully as your losers\n\u2192 Ask: was this skill, or would it have worked anyway?\n\u2192 Track your results honestly in a journal\n\nThe market has a way of humbling everyone eventually. It's cheaper when you humble yourself first.\n\nEver had a big win that led to a bigger loss? \ud83d\udc47\n\n-Cole\n\n(Overconfidence and trading: Barber & Odean, \"Trading Is Hazardous to Your Wealth,\" Journal of Finance, 2000.)\nEducational only, not financial advice.\n\n#tradingpsychology #trading #overconfidence #stockmarket #riskmanagement #investing #money",
    "comment": "After your next big win, change nothing about your position size. That's the discipline.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T1200_8f3ed6f6",
@@ -4494,7 +4546,7 @@
    "caption": "Money you need in the next 5 years usually doesn't belong in stocks. \u23f3\n\nStocks have historically grown over long periods, but in the short run they can drop a lot, and sometimes stay down for years. If you need the money soon, a bad stretch can force you to sell at the worst possible time.\n\nA common guideline investors use:\n\u2192 Need it in under 5 years (house down payment, car, tuition, emergency fund)? Keep it somewhere stable, like a high-yield savings account, CDs or Treasury bills\n\u2192 Won't need it for 5+ years (retirement, long-term goals)? That's money that can ride out the market's ups and downs\n\nWhy this matters for your psychology too: when you know your short-term money is safe, it's much easier to stay calm about your long-term investments during a crash. You're never forced to sell.\n\nThis isn't a perfect rule for everyone, but it's a smart starting point for matching your money to its job.\n\nWhat are you saving for in the next 5 years? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#investing #stockmarket #riskmanagement #savingmoney #financialplanning #money #personalfinance",
    "comment": "Give every dollar a deadline. Short deadline, keep it safe. Long deadline, let it grow.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T1400_96ad1d3e",
@@ -4533,7 +4585,7 @@
    "caption": "A hot tip is often someone else's exit. \ud83d\udd25\n\nBy the time a \"can't miss\" stock reaches you through a group chat, a forum or a social media post, it has usually traveled a long way. The people who bought early may be looking for buyers, and new excitement gives them plenty.\n\nWhy hot tips are risky:\n\u2192 You don't know the source's real position, or when they plan to sell\n\u2192 The price may already reflect all the excitement\n\u2192 There's no plan attached, just urgency\n\u2192 \"Pump and dump\" schemes depend on people acting fast without asking questions\n\nBefore you act on any tip:\n\u2192 Who is telling me this, and what do they gain if I buy?\n\u2192 What does the company actually do, and is it profitable?\n\u2192 What would make me sell?\n\u2192 Am I okay losing every dollar I put in?\n\nIf a tip comes with pressure to \"get in now before it's too late,\" that pressure is the warning sign.\n\nWhat's the worst stock tip you ever got? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#stocktips #tradingpsychology #stockmarket #investing #trading #scams #money",
    "comment": "The more urgent a stock tip sounds, the slower you should move.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T1600_6dd37436",
@@ -4573,7 +4625,7 @@
    "caption": "Dividends: getting paid to be patient. \ud83d\udcb0\n\nA dividend is a cash payment a company makes to its shareholders, usually from its profits. You don't have to sell your shares or time anything. You just own them, and the payments arrive, often every quarter.\n\nThey're more common than many people think: about 4 out of 5 companies in the S&P 500 pay a cash dividend.\n\nHow dividends help long-term investors:\n\u2192 Reinvesting them buys more shares, which earn more dividends: compounding on autopilot\n\u2192 They give you a return even in years when the stock price goes nowhere\n\u2192 They can make it easier to stay patient through rough markets\n\nWhat to watch out for:\n\u2192 Dividends can be cut or suspended, they're not guaranteed\n\u2192 An unusually high yield can signal a struggling company\n\u2192 In a taxable account, dividends are generally taxed when you receive them\n\nPatience is hard. Getting paid while you practice it makes it a little easier.\n\nDo you invest for dividends, growth, or both? \ud83d\udc47\n\n-Cole\n\n(Dividend payers: S&P Dow Jones Indices, 407 of 503 S&P 500 constituents in 2025.)\nEducational only, not financial advice.\n\n#dividends #dividendinvesting #passiveincome #investing #stockmarket #money #personalfinance",
    "comment": "Turn on dividend reinvestment and let the compounding do its quiet work.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T1800_aad925f4",
@@ -4612,7 +4664,7 @@
    "caption": "Your paycheck is one income. Your investments can become another. \ud83d\udcb8\n\nMost people have one source of income: their job. If it stops, everything stops. Building investments is how you slowly create a second stream that doesn't depend on you clocking in.\n\nHow investments earn money:\n\u2192 Price growth: the businesses you own get more valuable over time\n\u2192 Dividends: some companies pay you cash just for owning them\n\u2192 Interest: bonds, Treasury bills and savings accounts pay you to lend your money\n\nAt first, the second income is tiny. A few dollars of dividends. A small gain. It feels pointless. But every dollar you invest is a new worker, and over years those workers can start earning more than you put in.\n\nThe steps are simple, not easy:\n\u2192 Spend less than you earn\n\u2192 Invest the gap automatically, every month\n\u2192 Reinvest what it earns\n\u2192 Give it decades\n\nYour job pays you for your time. Your investments can pay you for your patience.\n\nWhat would a second income let you do? \ud83d\udc47\n\n-Cole\n\nEducational only, not financial advice.\n\n#passiveincome #makingmoney #investing #financialfreedom #stockmarket #money #personalfinance",
    "comment": "Every dollar you invest is a little employee. Start hiring. Follow Compound Cents for more.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T2000_f5fc7cff",
@@ -4640,6 +4692,19 @@
    "comment": "Move whatever you saved to savings at the end of the week, or it disappears.",
    "batch": "stpost 2026-10-22 (queued by hourly.py)",
    "added": "2026-10-20T08:17:09.000Z"
+  },
+  {
+   "id": "20261022T2100_0d859b75",
+   "at": "2026-10-22T21:00",
+   "platforms": [
+    "fb2"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/cc/cc-list-never-die.mp4",
+   "caption": "Trends come and go. These 5 businesses don't care. \ud83d\udc47\n\nEvery few years there's a new \"get rich\" business. Dropshipping. NFTs. Vending machines on TikTok. Most of them fade.\n\nThe ones that last all sell something people NEED, over and over:\n\u2192 Plumbing: pipes burst in good years and bad years\n\u2192 Laundromats: clothes get dirty every single week\n\u2192 Auto repair: the average car in America is 12.8 years old, and old cars break\n\u2192 Storage units: the rent comes in every month, whether anyone visits or not\n\u2192 Heating & air: when the AC dies in a Texas July, nobody shops around\n\nNone of these are exciting. That's kind of the point. Boring + necessary + repeat customers is how a lot of small businesses quietly last for decades.\n\nWhich one would you start? Or what's #6? \ud83d\udc47\n\n(Average vehicle age 12.8 years: S&P Global Mobility, 2025.)\nEducational only, not financial advice.\n\n#smallbusiness #entrepreneur #business #money #personalfinance",
+   "comment": "Send this to the friend who keeps saying \"I'm gonna start a business one day\" \ud83d\ude04 And follow Compound Cents for money math that makes cents.",
+   "batch": "Compound Cents (queued by ccpost.py)",
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261022T2200_6d2fc2cb",
@@ -4678,7 +4743,7 @@
    "caption": "Red days are the price of admission. \ud83c\udf9f\ufe0f\n\nIf you want the long-term growth the stock market has historically offered, you have to accept the drops that come with it. They're not a sign something is broken. They're the cost of the ticket.\n\nHow normal are drops? From 1980 to 2023, the S&P 500 had an average decline of about 14% at some point during the year, yet it still finished the year positive in 33 of those 44 years (J.P. Morgan).\n\nSo in a \"good\" year, you should still expect to see your account fall noticeably at some point.\n\nHow to pay the price without panicking:\n\u2192 Expect drops before they happen, so they don't surprise you\n\u2192 Keep short-term money out of stocks\n\u2192 Keep investing on schedule through the red stretches\n\u2192 Zoom out: look at your progress over years, not days\n\nThe investors who get the long-term rewards are usually the ones willing to sit through the uncomfortable parts.\n\nHow do you handle the red days? \ud83d\udc47\n\n-Cole\n\n(Intra-year declines: J.P. Morgan Guide to the Markets, 1980-2023. Past performance does not guarantee future results.)\nEducational only, not financial advice.\n\n#stockmarket #investing #longterminvesting #tradingpsychology #marketcrash #money #personalfinance",
    "comment": "Red days are temporary. Selling in a panic can make them permanent.",
    "batch": "Compound Cents (queued by ccpost.py)",
-   "added": "2026-10-20T20:01:29.000Z"
+   "added": "2026-10-20T20:14:21.000Z"
   },
   {
    "id": "20261023T0000_949ce93d",
