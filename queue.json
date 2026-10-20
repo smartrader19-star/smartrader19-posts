@@ -3811,19 +3811,6 @@
    "added": "2026-10-20T08:16:51.000Z"
   },
   {
-   "id": "20261021T0100_51e0a781",
-   "at": "2026-10-21T01:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0100_tw-rent-increase-vs-raise.mp4",
-   "caption": "When rent rises faster than your paycheck, you're taking a pay cut without anyone saying the words.\n\nHow much did your rent go up last renewal? \ud83d\udc47\n\n#rent #renting #personalfinance #money #relatable",
-   "comment": "Always ask your landlord if the increase is negotiable. Sometimes it is.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
    "id": "20261021T0100_1638089e",
    "at": "2026-10-21T01:00",
    "platforms": [
@@ -3837,6 +3824,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T0100_51e0a781",
+   "at": "2026-10-21T01:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0100_tw-rent-increase-vs-raise.mp4",
+   "caption": "When rent rises faster than your paycheck, you're taking a pay cut without anyone saying the words.\n\nHow much did your rent go up last renewal? \ud83d\udc47\n\n#rent #renting #personalfinance #money #relatable",
+   "comment": "Always ask your landlord if the increase is negotiable. Sometimes it is.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T0200_04ded561",
    "at": "2026-10-21T02:00",
    "platforms": [
@@ -3847,20 +3848,7 @@
    "caption": "When a market maker sells you a call, they usually buy some of the stock to hedge. That hedging is part of why big options activity can move share prices.\n\nDid you think market makers were betting against you? \ud83d\udc47\n\nNot financial advice.\n\n#marketmakers #optionstrading #options #marketstructure #stockmarket",
    "comment": "Your real cost is the spread. Use limit orders.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T0300_0b13e147",
-   "at": "2026-10-21T03:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0300_tw-negotiate-your-salary.mp4",
-   "caption": "Raises are usually a percentage of what you already make, so a higher starting point grows every year. $5,000 growing 3% a year for 40 years sums to about $377,006, before investing a dollar of it.\n\nDid you negotiate your last offer? \ud83d\udc47\n\n#salarynegotiation #careers #personalfinance #money #career",
-   "comment": "The worst they can say is no. Ask anyway.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T0300_cf7dbd27",
@@ -3876,6 +3864,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T0300_0b13e147",
+   "at": "2026-10-21T03:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0300_tw-negotiate-your-salary.mp4",
+   "caption": "Raises are usually a percentage of what you already make, so a higher starting point grows every year. $5,000 growing 3% a year for 40 years sums to about $377,006, before investing a dollar of it.\n\nDid you negotiate your last offer? \ud83d\udc47\n\n#salarynegotiation #careers #personalfinance #money #career",
+   "comment": "The worst they can say is no. Ask anyway.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T0400_f470f1e6",
    "at": "2026-10-21T04:00",
    "platforms": [
@@ -3886,20 +3887,7 @@
    "caption": "Kahneman and Tversky measured it: we weigh losses roughly twice as heavily as equal gains. Knowing that is half the battle.\n\nDo you feel losses more than wins? \ud83d\udc47\n\nSource: Kahneman & Tversky, prospect theory.\n\n#lossaversion #tradingpsychology #behavioralfinance #trading #stockmarket",
    "comment": "Set your exit before you enter, while the fear isn't in charge.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T0500_fe4618d4",
-   "at": "2026-10-21T05:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0500_tw-tax-free-first-50k-poll.mp4",
-   "caption": "Supporters say it would put real money back in working people's pockets. Opponents ask how the government would pay for it.\n\nWhere do you stand? \ud83d\udc47\n\n#taxes #incometax #economy #personalfinance #money",
-   "comment": "Keep it civil in the comments. Curious where everyone lands.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T0500_84ba3e45",
@@ -3915,6 +3903,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T0500_fe4618d4",
+   "at": "2026-10-21T05:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0500_tw-tax-free-first-50k-poll.mp4",
+   "caption": "Supporters say it would put real money back in working people's pockets. Opponents ask how the government would pay for it.\n\nWhere do you stand? \ud83d\udc47\n\n#taxes #incometax #economy #personalfinance #money",
+   "comment": "Keep it civil in the comments. Curious where everyone lands.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T0600_aefa2b94",
    "at": "2026-10-21T06:00",
    "platforms": [
@@ -3925,20 +3927,7 @@
    "caption": "In a market-cap-weighted index, a company's weight is based on its total value. That's why a handful of mega-caps can decide whether \u201cthe market\u201d is up or down.\n\nDid you know the index works this way? \ud83d\udc47\n\nNot financial advice.\n\n#sp500 #indexfunds #investing #stocks #stockmarket",
    "comment": "Equal-weight versions of the index exist if you want less concentration.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T0700_60df5596",
-   "at": "2026-10-21T07:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0700_tw-credit-utilization-30.mp4",
-   "caption": "Utilization is a big part of your score. A common guideline is keeping it under 30% of your limit, and lower is better.\n\nDo you know your utilization right now? \ud83d\udc47\n\n#creditscore #creditcards #credit #personalfinance #money",
-   "comment": "Pay part of the balance before the statement date, not just the due date.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T0700_b5a4ef72",
@@ -3954,6 +3943,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T0700_60df5596",
+   "at": "2026-10-21T07:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0700_tw-credit-utilization-30.mp4",
+   "caption": "Utilization is a big part of your score. A common guideline is keeping it under 30% of your limit, and lower is better.\n\nDo you know your utilization right now? \ud83d\udc47\n\n#creditscore #creditcards #credit #personalfinance #money",
+   "comment": "Pay part of the balance before the statement date, not just the due date.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T0800_aa02482e",
    "at": "2026-10-21T08:00",
    "platforms": [
@@ -3964,21 +3966,7 @@
    "caption": "Nobody at the table was convinced \ud83d\ude02 How do YOU explain options to people? \ud83d\udc47\n\n#optionstrading #tradingmemes #options #tradinghumor #stockmarket",
    "comment": "The coupon analogy actually isn't bad. The zero part is what scares them.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T0900_9559bd76",
-   "at": "2026-10-21T09:00",
-   "platforms": [
-    "fb",
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0900_tw-lease-vs-buy-car.mp4",
-   "caption": "Leasing can make sense if you want a new car every few years and drive few miles. Buying usually wins if you keep cars a long time.\n\nLease or buy, and why? \ud83d\udc47\n\nNot financial advice.\n\n#cars #carlease #carbuying #personalfinance #money",
-   "comment": "Whichever you choose, negotiate the price of the car first, not the monthly payment.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T0900_ceeca643",
@@ -3994,6 +3982,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T0900_9559bd76",
+   "at": "2026-10-21T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/0900_tw-lease-vs-buy-car.mp4",
+   "caption": "Leasing can make sense if you want a new car every few years and drive few miles. Buying usually wins if you keep cars a long time.\n\nLease or buy, and why? \ud83d\udc47\n\nNot financial advice.\n\n#cars #carlease #carbuying #personalfinance #money",
+   "comment": "Whichever you choose, negotiate the price of the car first, not the monthly payment.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T1000_81c3672a",
    "at": "2026-10-21T10:00",
    "platforms": [
@@ -4004,20 +4006,7 @@
    "caption": "Calendars usually work best when the stock sits near the strike. A big move either way hurts.\n\nHave you traded a calendar spread? \ud83d\udc47\n\nNot financial advice.\n\n#calendarspread #optionstrading #options #optionsstrategy #stockmarket",
    "comment": "Check earnings dates first. A report between the two expirations changes everything.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T1100_4cf1ba5d",
-   "at": "2026-10-21T11:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1100_tw-529-plan-basics.mp4",
-   "caption": "Many states also give a state tax deduction for contributions. Grandparents can contribute too.\n\nAre you saving for a child's education? \ud83d\udc47\n\nSource: IRS Publication 970. Not financial advice.\n\n#529plan #college #savings #personalfinance #parenting",
-   "comment": "Check your state's plan first for the tax break.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T1100_adbf3592",
@@ -4033,6 +4022,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T1100_4cf1ba5d",
+   "at": "2026-10-21T11:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1100_tw-529-plan-basics.mp4",
+   "caption": "Many states also give a state tax deduction for contributions. Grandparents can contribute too.\n\nAre you saving for a child's education? \ud83d\udc47\n\nSource: IRS Publication 970. Not financial advice.\n\n#529plan #college #savings #personalfinance #parenting",
+   "comment": "Check your state's plan first for the tax break.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T1200_279dc41b",
    "at": "2026-10-21T12:00",
    "platforms": [
@@ -4043,20 +4045,7 @@
    "caption": "More information doesn't always mean better decisions. Past a point it just means more reasons to second-guess.\n\nHow many things do you check before entering a trade? \ud83d\udc47\n\n#tradingpsychology #technicalanalysis #daytrading #trading #stockmarket",
    "comment": "Pick three things you trust. Ignore the rest.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T1300_e57af343",
-   "at": "2026-10-21T13:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1300_tw-lottery-odds.mp4",
-   "caption": "Powerball jackpot odds: 1 in 292,201,338. $20 a week is $1,040 a year that could be invested instead.\n\nDo you play the lottery? Be honest \ud83d\udc47\n\nSource: Powerball.com.\n\n#lottery #powerball #personalfinance #money #investing",
-   "comment": "Buy a ticket for fun if you want. Just don't make it the plan.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T1300_cd9b75a8",
@@ -4072,6 +4061,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T1300_e57af343",
+   "at": "2026-10-21T13:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1300_tw-lottery-odds.mp4",
+   "caption": "Powerball jackpot odds: 1 in 292,201,338. $20 a week is $1,040 a year that could be invested instead.\n\nDo you play the lottery? Be honest \ud83d\udc47\n\nSource: Powerball.com.\n\n#lottery #powerball #personalfinance #money #investing",
+   "comment": "Buy a ticket for fun if you want. Just don't make it the plan.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T1400_467de186",
    "at": "2026-10-21T14:00",
    "platforms": [
@@ -4082,20 +4085,7 @@
    "caption": "That idea goes back to Peter Lynch. Insider purchases are public through SEC Form 4 filings.\n\nDo you track insider buying? \ud83d\udc47\n\nNot financial advice.\n\n#insiderbuying #stocks #investing #sec #stockmarket",
    "comment": "One insider buy is a clue. Several insiders buying is a stronger one.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T1500_11fe1759",
-   "at": "2026-10-21T15:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1500_tw-toll-text-scam.mp4",
-   "caption": "Fake toll texts have been everywhere. Real toll agencies don't usually text you a payment link out of nowhere.\n\nHave you gotten one of these? \ud83d\udc47\n\nSource: Federal Trade Commission / FBI scam alerts.\n\n#scamalert #fraud #identitytheft #personalfinance #money",
-   "comment": "Check any toll balance by typing the agency's website yourself, never through a text link.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T1500_12a6bf3f",
@@ -4111,6 +4101,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T1500_11fe1759",
+   "at": "2026-10-21T15:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1500_tw-toll-text-scam.mp4",
+   "caption": "Fake toll texts have been everywhere. Real toll agencies don't usually text you a payment link out of nowhere.\n\nHave you gotten one of these? \ud83d\udc47\n\nSource: Federal Trade Commission / FBI scam alerts.\n\n#scamalert #fraud #identitytheft #personalfinance #money",
+   "comment": "Check any toll balance by typing the agency's website yourself, never through a text link.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T1600_b58f34c4",
    "at": "2026-10-21T16:00",
    "platforms": [
@@ -4121,20 +4124,7 @@
    "caption": "Extreme readings can line up with turning points, but the ratio can stay extreme for a long time.\n\nDo you watch the put/call ratio? \ud83d\udc47\n\nNot financial advice.\n\n#putcallratio #optionstrading #options #marketsentiment #stockmarket",
    "comment": "Use it for context, never as the only reason to trade.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T1700_e263e3b4",
-   "at": "2026-10-21T17:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1700_tw-split-bills-50-50-or-income.mp4",
-   "caption": "Some couples split evenly, some split by income share, some pool everything. Fights usually come from never deciding.\n\nHow do you and your partner split it? \ud83d\udc47\n\n#relationships #couplesfinance #budgeting #personalfinance #money",
-   "comment": "Pick a system together, write it down, revisit it once a year.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T1700_9d39127e",
@@ -4150,6 +4140,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T1700_e263e3b4",
+   "at": "2026-10-21T17:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1700_tw-split-bills-50-50-or-income.mp4",
+   "caption": "Some couples split evenly, some split by income share, some pool everything. Fights usually come from never deciding.\n\nHow do you and your partner split it? \ud83d\udc47\n\n#relationships #couplesfinance #budgeting #personalfinance #money",
+   "comment": "Pick a system together, write it down, revisit it once a year.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T1800_2d27d011",
    "at": "2026-10-21T18:00",
    "platforms": [
@@ -4160,20 +4164,7 @@
    "caption": "Most blown trades come from entering as a trend trader and holding like a mean reversion trader, or the other way around.\n\nWhich one are you? \ud83d\udc47\n\nNot financial advice.\n\n#trendtrading #tradingstrategy #swingtrading #trading #stockmarket",
    "comment": "Know which game you're playing before you enter.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T1900_b33b1e3a",
-   "at": "2026-10-21T19:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1900_tw-15-vs-30-year-mortgage.mp4",
-   "caption": "Same $300,000 loan and the same 6.5% rate for comparison. The 15-year costs $717 more a month but saves about $212,235 in interest. Real 15-year rates are usually a bit lower, which widens the gap.\n\n15 or 30: which would you choose? \ud83d\udc47\n\nNot financial advice.\n\n#mortgage #homebuying #realestate #personalfinance #money",
-   "comment": "A 30-year with extra principal payments gives you flexibility and most of the savings.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T1900_f80e895f",
@@ -4189,6 +4180,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T1900_b33b1e3a",
+   "at": "2026-10-21T19:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/1900_tw-15-vs-30-year-mortgage.mp4",
+   "caption": "Same $300,000 loan and the same 6.5% rate for comparison. The 15-year costs $717 more a month but saves about $212,235 in interest. Real 15-year rates are usually a bit lower, which widens the gap.\n\n15 or 30: which would you choose? \ud83d\udc47\n\nNot financial advice.\n\n#mortgage #homebuying #realestate #personalfinance #money",
+   "comment": "A 30-year with extra principal payments gives you flexibility and most of the savings.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T2000_8b713f91",
    "at": "2026-10-21T20:00",
    "platforms": [
@@ -4199,21 +4203,7 @@
    "caption": "The put you sell pays for part of the put you buy. Max profit is the distance between the strikes minus what you paid.\n\nDo you ever trade the downside with spreads? \ud83d\udc47\n\nNot financial advice.\n\n#bearputspread #optionstrading #options #optionsstrategy #stockmarket",
    "comment": "Pick the lower strike where you think the drop actually stops.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T2100_3725cf75",
-   "at": "2026-10-21T21:00",
-   "platforms": [
-    "fb",
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/2100_tw-forgotten-old-401k.mp4",
-   "caption": "You can usually leave it, move it into your new employer's plan, or roll it into an IRA. Forgetting it is the only bad option.\n\nDo you have an old 401(k) you haven't touched? \ud83d\udc47\n\nNot financial advice.\n\n#401k #retirement #rollover #personalfinance #money",
-   "comment": "Make a list of every past employer and check each one.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T2100_89224810",
@@ -4229,6 +4219,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T2100_3725cf75",
+   "at": "2026-10-21T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/2100_tw-forgotten-old-401k.mp4",
+   "caption": "You can usually leave it, move it into your new employer's plan, or roll it into an IRA. Forgetting it is the only bad option.\n\nDo you have an old 401(k) you haven't touched? \ud83d\udc47\n\nNot financial advice.\n\n#401k #retirement #rollover #personalfinance #money",
+   "comment": "Make a list of every past employer and check each one.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261021T2200_6a6baa96",
    "at": "2026-10-21T22:00",
    "platforms": [
@@ -4239,20 +4243,7 @@
    "caption": "Economists call it the endowment effect: we overvalue what's already ours. Your portfolio isn't a collection; it's a set of decisions.\n\nIs there a stock you hold only because you already own it? \ud83d\udc47\n\nNot financial advice.\n\n#behavioralfinance #tradingpsychology #investing #stocks #stockmarket",
    "comment": "Ask the \u201cwould I buy it today?\u201d question once a quarter for every holding.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
-  },
-  {
-   "id": "20261021T2300_1b682d55",
-   "at": "2026-10-21T23:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/2300_tw-sell-what-you-dont-use.mp4",
-   "caption": "Selling things you don't use can fund an emergency fund or pay down a card faster than cutting coffee ever will.\n\nWhat's the most you've made selling stuff you didn't need? \ud83d\udc47\n\n#declutter #sidehustle #savingmoney #personalfinance #money",
-   "comment": "List one thing tonight. Put every dollar toward a goal.",
-   "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261021T2300_63bf191e",
@@ -4268,6 +4259,19 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261021T2300_1b682d55",
+   "at": "2026-10-21T23:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-21/2300_tw-sell-what-you-dont-use.mp4",
+   "caption": "Selling things you don't use can fund an emergency fund or pay down a card faster than cutting coffee ever will.\n\nWhat's the most you've made selling stuff you didn't need? \ud83d\udc47\n\n#declutter #sidehustle #savingmoney #personalfinance #money",
+   "comment": "List one thing tonight. Put every dollar toward a goal.",
+   "batch": "stpost 2026-10-21 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:00.000Z"
+  },
+  {
    "id": "20261022T0000_ece76ce3",
    "at": "2026-10-22T00:00",
    "platforms": [
@@ -4278,7 +4282,7 @@
    "caption": "Protect the account first. Goodnight, traders \ud83c\udf19\n\n#riskmanagement #tradingpsychology #daytrading #trading #stockmarket",
    "comment": "Survive first. Profits come to the people still in the game.",
    "batch": "stpost 2026-10-21 (queued by hourly.py)",
-   "added": "2026-10-17T07:53:23.000Z"
+   "added": "2026-10-20T08:17:00.000Z"
   },
   {
    "id": "20261022T0100_03d4d1de",
