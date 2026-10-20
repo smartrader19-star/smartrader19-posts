@@ -4762,6 +4762,7 @@
    "id": "20261023T0100_d023ed3a",
    "at": "2026-10-23T01:00",
    "platforms": [
+    "fb",
     "ig"
    ],
    "kind": "reel",
@@ -4769,7 +4770,7 @@
    "caption": "For some people time is worth more than money. For others, 10% is the difference between saving and not.\n\nWould you take it? \ud83d\udc47\n\n#fourdayweek #worklifebalance #careers #personalfinance #money",
    "comment": "Run your budget at 90% first. If it works, you have a real choice.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0200_85e3c146",
@@ -4782,7 +4783,7 @@
    "caption": "It's technically a diagonal spread. Less capital than owning shares, but the long call can lose value fast if the stock drops.\n\nHave you tried the poor man's covered call? \ud83d\udc47\n\nNot financial advice.\n\n#pmcc #coveredcalls #optionstrading #options #stockmarket",
    "comment": "Make sure the premium you collect covers the long call's time decay.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0300_493185ae",
@@ -4795,7 +4796,7 @@
    "caption": "4 phones at $1,000 vs 1 phone at $1,000 over the same 4 years: $3,000 difference before trade-in credit.\n\nHow old is your phone right now? \ud83d\udc47\n\n#smartphone #savingmoney #personalfinance #money #frugal",
    "comment": "A new battery is a lot cheaper than a new phone.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0400_5b42b6ab",
@@ -4808,12 +4809,13 @@
    "caption": "Max drawdown is the biggest peak-to-bottom drop along the way. It tells you how much pain you'd have to survive to earn the return.\n\nWhat's the biggest drawdown you've lived through? \ud83d\udc47\n\nNot financial advice.\n\n#drawdown #riskmanagement #trading #investing #stockmarket",
    "comment": "Judge a strategy by its worst stretch, not its best year.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0500_11013939",
    "at": "2026-10-23T05:00",
    "platforms": [
+    "fb",
     "ig"
    ],
    "kind": "reel",
@@ -4821,7 +4823,7 @@
    "caption": "2% back on a purchase vs 22% a year on whatever you don't pay off. The bank wins that one every time.\n\nDo you pay your card in full every month? \ud83d\udc47\n\n#creditcards #cashback #creditcarddebt #personalfinance #money",
    "comment": "Set up autopay for the full statement balance.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0600_1f3edeeb",
@@ -4834,7 +4836,7 @@
    "caption": "A lot of institutional orders are aimed at the closing price. Moves in the last hour can be sharp in either direction.\n\nDo you trade the last hour? \ud83d\udc47\n\nNot financial advice.\n\n#powerhour #daytrading #trading #marketstructure #stockmarket",
    "comment": "Friday power hour can be extra jumpy. Size down.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0700_ef65b837",
@@ -4847,7 +4849,7 @@
    "caption": "$20,000 x (22% + 10%) = $6,400, before state tax. Rolling it over keeps all of it working.\n\nHave you ever cashed out a retirement account? \ud83d\udc47\n\nSource: IRS Topic 558 (exceptions apply). Not financial advice.\n\n#401k #retirement #taxes #personalfinance #money",
    "comment": "Roll it into your new plan or an IRA. Don't take the check.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0800_15957738",
@@ -4860,21 +4862,7 @@
    "caption": "Too real? \ud83d\ude02 What's your outlook right now? \ud83d\udc47\n\n#tradingmemes #stockmarketmemes #daytrading #trading #stockmarket",
    "comment": "Pick a plan before the open and let it make the calls.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
-  },
-  {
-   "id": "20261023T0900_3a29d163",
-   "at": "2026-10-23T09:00",
-   "platforms": [
-    "fb",
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-23/0900_tw-shop-your-insurance.mp4",
-   "caption": "Comparing quotes takes about 30 minutes and can save hundreds a year. Same coverage, different price.\n\nWhen did you last compare insurance quotes? \ud83d\udc47\n\n#carinsurance #insurance #savingmoney #personalfinance #money",
-   "comment": "Bundle and raise your deductible only if your emergency fund can cover it.",
-   "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T0900_a6e2fb58",
@@ -4890,6 +4878,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261023T0900_3a29d163",
+   "at": "2026-10-23T09:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-23/0900_tw-shop-your-insurance.mp4",
+   "caption": "Comparing quotes takes about 30 minutes and can save hundreds a year. Same coverage, different price.\n\nWhen did you last compare insurance quotes? \ud83d\udc47\n\n#carinsurance #insurance #savingmoney #personalfinance #money",
+   "comment": "Bundle and raise your deductible only if your emergency fund can cover it.",
+   "batch": "stpost 2026-10-23 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:16.000Z"
+  },
+  {
    "id": "20261023T1000_68d1062b",
    "at": "2026-10-23T10:00",
    "platforms": [
@@ -4900,7 +4902,7 @@
    "caption": "With hours left, time decay and gamma are at their most extreme. Small moves in the stock become huge moves in the option.\n\nDo you trade 0DTE? Be honest about how it's going \ud83d\udc47\n\nNot financial advice.\n\n#0dte #optionstrading #options #daytrading #stockmarket",
    "comment": "Only risk money you're fully prepared to watch go to zero.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1100_5fcc2e33",
@@ -4913,7 +4915,7 @@
    "caption": "A year of no rent can wipe out a car loan or credit cards, or start a down payment. The key is having a plan and a move-out date.\n\nWould you move back home to save? \ud83d\udc47\n\n#savingmoney #debtfree #personalfinance #money #genz",
    "comment": "Pay your parents something and help around the house. It keeps it fair.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1200_ee62d193",
@@ -4926,12 +4928,13 @@
    "caption": "Float is the number of shares actually available to trade. Small floats mean wild moves, wide spreads and frequent halts.\n\nHave you ever traded a low-float runner? \ud83d\udc47\n\nNot financial advice.\n\n#lowfloat #daytrading #smallcaps #trading #stockmarket",
    "comment": "Use smaller size and limit orders. The spread can be your biggest loss.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1300_415a1d93",
    "at": "2026-10-23T13:00",
    "platforms": [
+    "fb",
     "ig"
    ],
    "kind": "reel",
@@ -4939,7 +4942,7 @@
    "caption": "$500/month for 40 years at an 8% average annual return (monthly compounding) = about $1,745,504. Returns aren't guaranteed, but time in the market is the biggest lever you control.\n\nWhat age did you start investing? \ud83d\udc47\n\nNot financial advice.\n\n#investing #compounding #millionaire #personalfinance #money",
    "comment": "Started late? Then the best time is today.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1400_cfa4c344",
@@ -4952,7 +4955,7 @@
    "caption": "Breakeven at expiration = strike + premium paid: $100 + $3.00 = $103.00. Before expiration the option can still be sold for its remaining value.\n\nDo you calculate breakeven before you buy? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #calloptions #optionsforbeginners #stockmarket",
    "comment": "If you don't think it gets past breakeven, the option isn't the trade.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1500_9ddcea64",
@@ -4965,7 +4968,7 @@
    "caption": "A lower monthly payment can just mean a longer loan and more interest. Negotiate the out-the-door price first, then the financing.\n\nHave you ever been talked into a longer loan? \ud83d\udc47\n\n#carbuying #cars #negotiation #personalfinance #money",
    "comment": "Get pre-approved by a credit union before you walk in.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1600_6a42e150",
@@ -4978,12 +4981,13 @@
    "caption": "Round numbers act like magnets and walls because so many traders put their orders at them.\n\nHave you noticed stocks stalling at round numbers? \ud83d\udc47\n\nNot financial advice.\n\n#technicalanalysis #supportandresistance #daytrading #trading #stockmarket",
    "comment": "Place your order slightly before the round number, not on it.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1700_11aa386b",
    "at": "2026-10-23T17:00",
    "platforms": [
+    "fb",
     "ig"
    ],
    "kind": "reel",
@@ -4991,7 +4995,7 @@
    "caption": "Some plans offer a short grace period or let you carry over a limited amount. Glasses, contacts, prescriptions and first-aid supplies often qualify.\n\nDo you have FSA money left this year? \ud83d\udc47\n\nSource: IRS Publication 969. Check your plan's rules.\n\n#fsa #healthcare #benefits #personalfinance #money",
    "comment": "Log in this weekend and check the deadline.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1800_a172339b",
@@ -5004,7 +5008,7 @@
    "caption": "Comparing the two helps you judge whether you're overpaying for options or getting them cheap.\n\nDo you compare IV with historical volatility? \ud83d\udc47\n\nNot financial advice.\n\n#impliedvolatility #optionstrading #options #volatility #stockmarket",
    "comment": "Buying options when IV is sky-high means you need an even bigger move.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T1900_3f0c674f",
@@ -5017,7 +5021,7 @@
    "caption": "Sales are designed to make spending feel like saving. The cheapest purchase is still the one you skip.\n\nWhat's the best \u201cdeal\u201d you regret buying? \ud83d\udc47\n\n#shopping #savingmoney #budgeting #personalfinance #money",
    "comment": "Wait 48 hours before any sale purchase. Most urges pass.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T2000_15921085",
@@ -5030,21 +5034,7 @@
    "caption": "A stop-market order gets you out at the next price. A stop-limit only fills at your limit or better. One risks a bad price; the other risks no exit.\n\nWhich do you use? \ud83d\udc47\n\nNot financial advice.\n\n#stoploss #orders #riskmanagement #trading #stockmarket",
    "comment": "Know which order type you're using before you need it.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
-  },
-  {
-   "id": "20261023T2100_2d1e9dba",
-   "at": "2026-10-23T21:00",
-   "platforms": [
-    "fb",
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-23/2100_tw-prenup-poll.mp4",
-   "caption": "Some people see it as planning. Others see it as planning to fail. It usually comes down to assets, kids and trust.\n\nWhere do you stand? \ud83d\udc47\n\n#prenup #marriage #relationships #personalfinance #money",
-   "comment": "Talk about money openly before marriage, prenup or not.",
-   "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T2100_867f3992",
@@ -5060,6 +5050,20 @@
    "added": "2026-10-20T08:16:13.000Z"
   },
   {
+   "id": "20261023T2100_2d1e9dba",
+   "at": "2026-10-23T21:00",
+   "platforms": [
+    "fb",
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-23/2100_tw-prenup-poll.mp4",
+   "caption": "Some people see it as planning. Others see it as planning to fail. It usually comes down to assets, kids and trust.\n\nWhere do you stand? \ud83d\udc47\n\n#prenup #marriage #relationships #personalfinance #money",
+   "comment": "Talk about money openly before marriage, prenup or not.",
+   "batch": "stpost 2026-10-23 (queued by hourly.py)",
+   "added": "2026-10-20T08:17:16.000Z"
+  },
+  {
    "id": "20261023T2200_88356e1a",
    "at": "2026-10-23T22:00",
    "platforms": [
@@ -5070,7 +5074,7 @@
    "caption": "Weeklies lose value quickly as expiration gets close. Monthlies give your idea more room but cost more upfront.\n\nWeeklies or monthlies? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #weeklyoptions #optionsexpiration #stockmarket",
    "comment": "Match the expiration to how long your idea needs to play out.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261023T2300_8c323cd4",
@@ -5083,7 +5087,7 @@
    "caption": "California, Hawaii, Massachusetts and Michigan ban or restrict it. Everywhere else, better credit can mean a lower premium.\n\nDid you know your credit affects your insurance? \ud83d\udc47\n\nSource: National Association of Insurance Commissioners.\n\n#creditscore #carinsurance #insurance #personalfinance #money",
    "comment": "One more reason to pay every bill on time.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261024T0000_5de4caee",
@@ -5096,7 +5100,7 @@
    "caption": "Not \u201chow much did I make?\u201d Process first. Goodnight, traders \ud83c\udf19\n\n#tradingjournal #tradingpsychology #weeklyreview #trading #stockmarket",
    "comment": "Write the answers down. Next Friday, compare.",
    "batch": "stpost 2026-10-23 (queued by hourly.py)",
-   "added": "2026-10-17T08:02:10.000Z"
+   "added": "2026-10-20T08:17:16.000Z"
   },
   {
    "id": "20261024T0100_c822bf8f",
