@@ -5146,18 +5146,19 @@
    "added": "2026-10-20T08:17:24.000Z"
   },
   {
-   "id": "20261024T1700_087af11c",
+   "id": "20261024T1700_decfaa62",
    "at": "2026-10-24T17:00",
    "platforms": [
     "fb",
     "ig"
    ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-24/1700_tw-work-life-insurance-ends.mp4",
-   "caption": "Employer coverage is a nice perk, not a plan. Some policies can be converted when you leave, but often at a higher price.\n\nDo you have coverage outside of work? \ud83d\udc47\n\nNot financial advice.\n\n#lifeinsurance #insurance #family #personalfinance #money",
-   "comment": "Check your benefits portal for how much coverage you actually have.",
-   "batch": "stpost 2026-10-24 (queued by hourly.py)",
-   "added": "2026-10-20T08:17:24.000Z"
+   "kind": "image",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-24/1700_rb-sp500-vs-30y-treasury.jpg",
+   "media_jpg": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-24/1700_rb-sp500-vs-30y-treasury.jpg",
+   "caption": "The US government pays me more than 500 of America's biggest companies? \ud83e\udd14\n\nHere's the catch most people skip: a 30-year Treasury pays the same coupon for 30 years and hands back exactly the $1,000,000 you put in. No raise, ever. The S&P 500's dividend is smaller today, but those companies have raised their payouts over time, and the shares can grow too.\n\nNeither one is free money. Bonds lose value when rates rise. Stocks can drop 30% in a year.\n\nFixed income for 30 years, or growth that isn't guaranteed? Which one are you picking? \ud83d\udc47\n\nNot financial advice.\n\n#stocks #investing #sp500 #treasury #bonds #dividends #stockmarket",
+   "comment": "Yield or growth? Drop your pick below \ud83d\udc47 and follow for more stock takes.",
+   "batch": "owner's post (queued by Claude)",
+   "added": "2026-10-24T18:31:38.000Z"
   },
   {
    "id": "20261024T1800_2fa10c23",
