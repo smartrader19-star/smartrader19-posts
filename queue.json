@@ -6890,7 +6890,7 @@
    "caption": "The stop follows the highest price by a set amount or percent.\n\nDo you use trailing stops? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Set the trail wider than normal daily swings.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T1700_199a03e1",
@@ -6903,7 +6903,7 @@
    "caption": "Rolling closes the current contract and opens a later one, often for a credit.\n\nDo you roll losing options? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Decide in advance when you'd take the loss instead.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T1800_d716368c",
@@ -6916,7 +6916,7 @@
    "caption": "Fewer shares outstanding means each remaining share owns more of the earnings.\n\nDo you look for buybacks? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Check share count over the last 5 years.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T1900_d6b53e9e",
@@ -6929,7 +6929,7 @@
    "caption": "Preparation turns the open into execution instead of guessing.\n\nWhat's your morning routine? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Write your watchlist the night before.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T2000_89ee787e",
@@ -6943,7 +6943,7 @@
    "caption": "The math: Verizon pays $0.708 per share every quarter, $2.832 a year. 10,000 shares = $28,320 a year, about $2,360 a month. Against a $100 monthly phone bill, that's more than 20 bills.\n\nThe catch: 10,000 shares at Friday's close of $44.66 costs $446,600. That's about a 6.3% yield. A high yield often means slow growth and a lot of debt, and the share price can sit still for years.\n\nWould you own the company you pay every month? \ud83d\udc47\n\n(Prices: Oct 23 2026 close.) Not financial advice.\n\n#VZ #verizon #dividendstocks #dividends #passiveincome #investing",
    "comment": "Which company do you pay every month that you should own instead? \ud83d\udc47",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T2100_8ab8749d",
@@ -6956,7 +6956,7 @@
    "caption": "It's a theory, not a rule, but many traders watch heavy strikes into expiration.\n\nDo you watch max pain? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Look at open interest by strike before Friday.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T2200_b24897da",
@@ -6969,7 +6969,7 @@
    "caption": "Kahneman and Tversky's loss aversion research shows losses weigh more than equal gains.\n\nDoes a loss hurt more than a win? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Judge trades by process, not one result.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261029T2300_170332c7",
@@ -6982,7 +6982,7 @@
    "caption": "The math: Walmart pays $0.99 a year per share, about a 0.83% yield at $119.89. 10-year Treasuries yield 4.99%.\n\nThe catch: nobody buys Walmart for the dividend. Its shareholders get paid in growth, which can be huge and can also reverse. Treasuries pay a fixed rate and never grow.\n\nWalmart or Treasuries? \ud83d\udc47\n\n(Prices and dividends: Oct 23 2026 close, latest regular dividend.) Not financial advice.\n\n#WMT #treasury #dividends #stocks #investing #stockmarket",
    "comment": "Growth or guaranteed income? Drop it below \ud83d\udc47",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261030T0000_7b07a43a",
@@ -6995,7 +6995,7 @@
    "caption": "The price-to-earnings ratio compares price to past or expected profits, not future growth.\n\nDo you use P/E? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Compare P/E to growth, not on its own.",
    "batch": "stpost 2026-10-29 (queued by hourly.py)",
-   "added": "2026-10-25T05:26:27.000Z"
+   "added": "2026-10-29T19:41:44.000Z"
   },
   {
    "id": "20261030T0100_41bca20c",
