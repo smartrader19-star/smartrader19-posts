@@ -7008,7 +7008,7 @@
    "caption": "Market makers adjust hedges as options expire, which can pin or move prices.\n\nDo you trade expiration Fridays? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Mark the biggest open-interest strikes.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0200_ab37d9d8",
@@ -7021,7 +7021,7 @@
    "caption": "When a breakout fails, buyers who got in late often sell together, speeding up the drop.\n\nEver been trapped in a fake breakout? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Use a stop just below the breakout level.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0300_ddb6a401",
@@ -7034,7 +7034,7 @@
    "caption": "Pressure to win changes how you manage risk.\n\nDo you trade only risk capital? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Keep trading money separate from bill money.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0400_98b12e7e",
@@ -7047,7 +7047,7 @@
    "caption": "Market leadership rotates between styles and sectors over time.\n\nGrowth or value? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Own some of both.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0500_67b2f592",
@@ -7060,7 +7060,7 @@
    "caption": "Dead trades tie up money and attention you could use elsewhere.\n\nDo you use time stops? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Give each trade a deadline.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0600_40166525",
@@ -7073,7 +7073,7 @@
    "caption": "It profits from a range-bound stock and loses if the stock moves far either way.\n\nHave you traded iron condors? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Know your max loss on both sides.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0700_175642e8",
@@ -7086,7 +7086,7 @@
    "caption": "Pyramiding into a working trade keeps your largest size on your best ideas.\n\nDo you add to winners? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Add only after the trade moves in your favor.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0800_eaa9d3f1",
@@ -7099,20 +7099,7 @@
    "caption": "Trading tends to be busiest at the open and close and quieter at midday.\n\nWhen do you trade? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Avoid forcing trades in the midday lull.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
-  },
-  {
-   "id": "20261030T0900_fbac9ff8",
-   "at": "2026-10-30T09:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-30/0900_tw-tgt-10000-shares.mp4",
-   "caption": "The math: Target pays $1.16 per share every quarter, $4.64 a year. 10,000 shares = $46,400 a year.\n\nThe catch: 10,000 shares at Friday's close of $152.76 costs $1,527,600. That's about a 3.0% yield, and dividends can be cut while the share price can fall.\n\nWould you own Target for the dividend? \ud83d\udc47\n\n(Prices and dividends: Oct 23 2026 close, latest regular dividend.) Not financial advice.\n\n#TGT #dividendstocks #dividends #passiveincome #stocks #investing",
-   "comment": "How many shares of $TGT do you own? Follow for more \ud83d\udc47",
-   "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T0900_6166d3cf",
@@ -7128,6 +7115,19 @@
    "added": "2026-10-29T16:49:29.000Z"
   },
   {
+   "id": "20261030T0900_fbac9ff8",
+   "at": "2026-10-30T09:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-30/0900_tw-tgt-10000-shares.mp4",
+   "caption": "The math: Target pays $1.16 per share every quarter, $4.64 a year. 10,000 shares = $46,400 a year.\n\nThe catch: 10,000 shares at Friday's close of $152.76 costs $1,527,600. That's about a 3.0% yield, and dividends can be cut while the share price can fall.\n\nWould you own Target for the dividend? \ud83d\udc47\n\n(Prices and dividends: Oct 23 2026 close, latest regular dividend.) Not financial advice.\n\n#TGT #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $TGT do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-10-30 (queued by hourly.py)",
+   "added": "2026-10-29T19:44:00.000Z"
+  },
+  {
    "id": "20261030T1000_b29c23f8",
    "at": "2026-10-30T10:00",
    "platforms": [
@@ -7138,7 +7138,7 @@
    "caption": "Winning streaks lead to bigger size and looser rules.\n\nDo you size up after wins? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Keep size the same after a streak.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1100_784ed142",
@@ -7151,7 +7151,7 @@
    "caption": "Many broad funds hold the same giant companies.\n\nDo you know what's inside your ETFs? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Compare the top holdings of your ETFs.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1200_9ba0884d",
@@ -7164,7 +7164,7 @@
    "caption": "It's calculated from S&P 500 option prices and tends to spike when stocks fall.\n\nDo you watch the VIX? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Check the VIX before buying options.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1300_9da21d45",
@@ -7177,7 +7177,7 @@
    "caption": "The math: Pfizer pays $0.43 per share every quarter, $1.72 a year. 10,000 shares = $17,200 a year.\n\nThe catch: 10,000 shares at Friday's close of $30.03 costs $300,300. That's about a 5.7% yield, and dividends can be cut while the share price can fall.\n\nWould you buy Pfizer for the yield? \ud83d\udc47\n\n(Prices and dividends: Oct 23 2026 close, latest regular dividend.) Not financial advice.\n\n#PFE #dividendstocks #dividends #passiveincome #stocks #investing",
    "comment": "How many shares of $PFE do you own? Follow for more \ud83d\udc47",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1400_aa5f74c7",
@@ -7190,7 +7190,7 @@
    "caption": "Entering near support improves your risk-to-reward.\n\nDo you chase or wait? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Set alerts at pullback levels.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1500_b21b5a83",
@@ -7203,7 +7203,7 @@
    "caption": "Long-term capital gains have lower federal rates than short-term gains.\n\nDo you think about taxes when selling? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Check your holding period before taking profit.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1600_640caef0",
@@ -7216,7 +7216,7 @@
    "caption": "Constant screen-watching invites impulsive decisions on noise.\n\nHow much screen time do you need? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Set alerts and step away.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1700_5d35edc5",
@@ -7229,7 +7229,7 @@
    "caption": "Shares can wait forever. Options have an expiration date.\n\nCalls or shares? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Compare the break-even price before buying calls.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1800_9e29985b",
@@ -7242,7 +7242,7 @@
    "caption": "A weekly review turns random results into patterns you can fix.\n\nDo you review your week? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Pick your best and worst trade and write why.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T1900_9c4808e8",
@@ -7255,7 +7255,7 @@
    "caption": "Executives must report trades. Open-market insider buying is often watched closely.\n\nDo you track insider buys? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Look up recent insider buying on stocks you own.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T2000_98a0ffab",
@@ -7269,7 +7269,7 @@
    "caption": "The math: PepsiCo pays $1.48 per share every quarter, $5.92 a year. 10,000 shares = $59,200 a year, about $4,933 a month.\n\nThe catch: 10,000 shares at Friday's close of $135.77 costs $1,357,700. That's about a 4.4% yield. PepsiCo has raised its dividend for over 50 years in a row, but the stock can still fall, and past raises don't promise future ones.\n\n$KO or $PEP? Pick one \ud83d\udc47\n\n(Prices: Oct 23 2026 close.) Not financial advice.\n\n#PEP #pepsico #dividendstocks #dividends #passiveincome #stocks",
    "comment": "Coke or Pepsi? In your portfolio, not your fridge \ud83d\udc47",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T2100_7f0f1743",
@@ -7282,7 +7282,7 @@
    "caption": "The pattern is confirmed when price breaks above the middle peak.\n\nDo you trade double bottoms? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Wait for the break of the middle peak.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T2200_05a24ee9",
@@ -7295,7 +7295,7 @@
    "caption": "Selling before earnings bets the move will be smaller than the market priced in.\n\nDo you sell premium into earnings? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Use defined-risk spreads for earnings.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261030T2300_8c5c58a8",
@@ -7308,7 +7308,7 @@
    "caption": "The math: Main Street Capital pays $0.265 per share every month, $3.18 a year. 10,000 shares = $31,800 a year.\n\nThe catch: 10,000 shares at Friday's close of $53.51 costs $535,100. That's about a 5.9% yield, and dividends can be cut while the share price can fall.\n\nMonthly dividends: yes or no? \ud83d\udc47\n\n(Prices and dividends: Oct 23 2026 close, latest regular dividend.) Not financial advice.\n\n#MAIN #dividendstocks #dividends #passiveincome #stocks #investing",
    "comment": "How many shares of $MAIN do you own? Follow for more \ud83d\udc47",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261031T0000_de8eed56",
@@ -7321,7 +7321,7 @@
    "caption": "One result is luck. A hundred results is skill.\n\nHow do you judge your trades? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Grade your process, not your P&L.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-25T05:27:58.000Z"
+   "added": "2026-10-29T19:44:00.000Z"
   },
   {
    "id": "20261031T0100_49da34c6",
