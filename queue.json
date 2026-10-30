@@ -7229,7 +7229,7 @@
    "caption": "Shares can wait forever. Options have an expiration date.\n\nCalls or shares? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Compare the break-even price before buying calls.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261030T1800_9e29985b",
@@ -7242,7 +7242,7 @@
    "caption": "A weekly review turns random results into patterns you can fix.\n\nDo you review your week? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Pick your best and worst trade and write why.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261030T1900_9c4808e8",
@@ -7255,21 +7255,33 @@
    "caption": "Executives must report trades. Open-market insider buying is often watched closely.\n\nDo you track insider buys? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
    "comment": "Look up recent insider buying on stocks you own.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261030T2000_98a0ffab",
    "at": "2026-10-30T20:00",
    "platforms": [
-    "fb",
     "ig"
    ],
    "kind": "reel",
    "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-30/2000_tw-pep-10000-shares.mp4",
    "caption": "The math: PepsiCo pays $1.48 per share every quarter, $5.92 a year. 10,000 shares = $59,200 a year, about $4,933 a month.\n\nThe catch: 10,000 shares at Friday's close of $135.77 costs $1,357,700. That's about a 4.4% yield. PepsiCo has raised its dividend for over 50 years in a row, but the stock can still fall, and past raises don't promise future ones.\n\n$KO or $PEP? Pick one \ud83d\udc47\n\n(Prices: Oct 23 2026 close.) Not financial advice.\n\n#PEP #pepsico #dividendstocks #dividends #passiveincome #stocks",
    "comment": "Coke or Pepsi? In your portfolio, not your fridge \ud83d\udc47",
-   "batch": "SmarTrader 8 PM tweet reels (week_oct25.py)",
-   "added": "2026-10-29T19:48:01.000Z"
+   "batch": "stpost 2026-10-30 (queued by hourly.py)",
+   "added": "2026-10-30T20:22:27.000Z"
+  },
+  {
+   "id": "20261030T2000_b945a5fe",
+   "at": "2026-10-30T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-10-30/2000_tw-pep-10000-shares_fb.mp4",
+   "caption": "The math: PepsiCo pays $1.48 per share every quarter, $5.92 a year. 10,000 shares = $59,200 a year, about $4,933 a month.\n\nThe catch: 10,000 shares at Friday's close of $135.77 costs $1,357,700. That's about a 4.4% yield. PepsiCo has raised its dividend for over 50 years in a row, but the stock can still fall, and past raises don't promise future ones.\n\n$KO or $PEP? Pick one \ud83d\udc47\n\n(Prices: Oct 23 2026 close.) Not financial advice.\n\n#PEP #pepsico #dividendstocks #dividends #passiveincome #stocks",
+   "comment": "Coke or Pepsi? In your portfolio, not your fridge \ud83d\udc47",
+   "batch": "stpost 2026-10-30 (queued by hourly.py)",
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261030T2100_7f0f1743",
@@ -7282,7 +7294,7 @@
    "caption": "The pattern is confirmed when price breaks above the middle peak.\n\nDo you trade double bottoms? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
    "comment": "Wait for the break of the middle peak.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261030T2200_05a24ee9",
@@ -7295,7 +7307,7 @@
    "caption": "Selling before earnings bets the move will be smaller than the market priced in.\n\nDo you sell premium into earnings? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
    "comment": "Use defined-risk spreads for earnings.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261030T2300_8c5c58a8",
@@ -7308,7 +7320,7 @@
    "caption": "The math: Main Street Capital pays $0.265 per share every month, $3.18 a year. 10,000 shares = $31,800 a year.\n\nThe catch: 10,000 shares at Friday's close of $53.51 costs $535,100. That's about a 5.9% yield, and dividends can be cut while the share price can fall.\n\nMonthly dividends: yes or no? \ud83d\udc47\n\n(Prices and dividends: Oct 23 2026 close, latest regular dividend.) Not financial advice.\n\n#MAIN #dividendstocks #dividends #passiveincome #stocks #investing",
    "comment": "How many shares of $MAIN do you own? Follow for more \ud83d\udc47",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261031T0000_de8eed56",
@@ -7321,7 +7333,7 @@
    "caption": "One result is luck. A hundred results is skill.\n\nHow do you judge your trades? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
    "comment": "Grade your process, not your P&L.",
    "batch": "stpost 2026-10-30 (queued by hourly.py)",
-   "added": "2026-10-29T19:44:00.000Z"
+   "added": "2026-10-30T20:22:27.000Z"
   },
   {
    "id": "20261031T0100_49da34c6",
