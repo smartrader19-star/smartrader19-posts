@@ -8686,6 +8686,331 @@
    "comment": "Keep your size the same after a big win.",
    "batch": "stpost 2026-11-03 (queued by hourly.py)",
    "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261104T0100_2b2d50f2",
+   "at": "2026-11-04T01:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0100_tw-stock-split-math.mp4",
+   "caption": "A split changes the share count and the price, but your total value is the same on day one.\n\nDo splits make you want to buy? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Look at market cap, not the split ratio.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0200_99969145",
+   "at": "2026-11-04T02:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0200_tw-tape-speed.mp4",
+   "caption": "Price moving up on shrinking volume can mean buyers are fading. Watch both together.\n\nDo you watch volume with price? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Keep volume on every chart you trade.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0300_407e741d",
+   "at": "2026-11-04T03:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0300_tw-itm-otm.mp4",
+   "caption": "A low price often reflects a low chance of finishing in the money. Delta gives a rough idea of the odds.\n\nDo you buy cheap options? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Check delta before you buy a cheap contract.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0400_bdebeebf",
+   "at": "2026-11-04T04:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0400_tw-stock-comp.mp4",
+   "caption": "Stock-based compensation dilutes shareholders. Some \"adjusted\" numbers leave it out, so check the GAAP figures too.\n\nDo you check stock comp? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Find stock comp on the cash flow statement.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0500_919e28e1",
+   "at": "2026-11-04T05:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0500_tw-no-trade-zone.mp4",
+   "caption": "Trading near clear levels gives you a defined stop and a target. Mid-range entries often have neither.\n\nDo you wait for levels? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Mark the high and low before you trade.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0600_82ae2ae5",
+   "at": "2026-11-04T06:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0600_tw-disposition-exit.mp4",
+   "caption": "Locking in a gain gives you an instant reward. A written exit rule helps you hold a good trade.\n\nWhen do you usually sell winners? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Write the exit rule before you enter.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0700_3a517bcd",
+   "at": "2026-11-04T07:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0700_tw-butterfly.mp4",
+   "caption": "It combines long and short options at three strikes. The risk is limited, and the top profit needs the stock near the middle strike at expiration.\n\nEver traded a butterfly? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Look at the payoff chart before you trade one.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0800_7b6214d6",
+   "at": "2026-11-04T08:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0800_tw-small-caps.mp4",
+   "caption": "Smaller stocks often have thinner trading and less stable earnings. Position size should reflect that.\n\nDo you own small caps? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Compare a small-cap ETF chart with the S&P 500.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T0900_27bab251",
+   "at": "2026-11-04T09:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/0900_tw-vz-10000-shares.mp4",
+   "caption": "The math: Verizon pays $0.708 per share every quarter, $2.83 a year. 10,000 shares = $28,320 a year.\n\nThe catch: 10,000 shares at Friday's close of $44.73 costs $447,300. That's about a 6.3% yield, and dividends can be cut while the share price can fall.\n\nCustomer or shareholder? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#VZ #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $VZ do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1000_59aff684",
+   "at": "2026-11-04T10:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1000_tw-trading-news-spike.mp4",
+   "caption": "Prices can react within seconds. Chasing the first spike often means buying from people who got there earlier.\n\nDo you trade headlines? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Wait for a level after big news.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1100_905d3ebe",
+   "at": "2026-11-04T11:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1100_tw-regret.mp4",
+   "caption": "Regret over missed trades causes chasing. There will be another setup tomorrow.\n\nWhat's the one you still think about? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Add your missed trades to the journal too.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1200_44664849",
+   "at": "2026-11-04T12:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1200_tw-0dte.mp4",
+   "caption": "With no time left, small moves in the stock mean huge swings in the option. Size them as if the whole premium can vanish.\n\nDo you trade 0DTE? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Only risk what you can lose completely.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1300_944d25f0",
+   "at": "2026-11-04T13:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1300_tw-amzn-vs-30y.mp4",
+   "caption": "The math: Amazon pays no dividend at all. 30-year Treasuries yield 5.31%.\n\nThe catch: nobody buys Amazon for the dividend. Its shareholders get paid in growth, which can be huge and can also reverse. Treasuries pay a fixed rate and never grow.\n\nAmazon or Treasuries? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#AMZN #treasury #dividends #stocks #investing #stockmarket",
+   "comment": "Growth or guaranteed income? Drop it below \ud83d\udc47",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1400_46e9fe83",
+   "at": "2026-11-04T14:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1400_tw-reits.mp4",
+   "caption": "US REITs must distribute at least 90% of taxable income to keep their status. They can be sensitive to interest rates, and those dividends are often taxed as ordinary income.\n\nDo you own REITs? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Check how your REIT's dividends are taxed.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1500_2422951e",
+   "at": "2026-11-04T15:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1500_tw-first-pullback.mp4",
+   "caption": "A pullback can offer a closer stop and a better risk to reward, though it may never come.\n\nDo you chase or wait? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Set an alert at the level you'd buy.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1600_571aa997",
+   "at": "2026-11-04T16:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1600_tw-margin-of-safety.mp4",
+   "caption": "Paying well below your estimate of value leaves room for mistakes. Benjamin Graham made the idea famous.\n\nHow much margin do you demand? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Estimate value before you look at the price.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1700_5bb3858a",
+   "at": "2026-11-04T17:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1700_tw-trading-alone.mp4",
+   "caption": "Following calls without your own plan leaves you guessing on exits. Whoever called it may already be out.\n\nDo you follow alerts? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Write the exit down before you copy a trade.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1800_59c40dae",
+   "at": "2026-11-04T18:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1800_tw-assigned-early.mp4",
+   "caption": "American-style options can be exercised early. Short in-the-money calls are most at risk right before an ex-dividend date.\n\nHave you been assigned early? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Check ex-dividend dates on your short calls.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T1900_53a35495",
+   "at": "2026-11-04T19:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/1900_tw-earnings-vs-guidance.mp4",
+   "caption": "Guidance and expectations already built into the price can matter more than the headline beat.\n\nEver been burned by a beat? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Read the guidance, not just the headline.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T2000_a9f5a322",
+   "at": "2026-11-04T20:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/2000_tw-mo-10000-shares.mp4",
+   "caption": "The math: Altria pays $1.11 per share every quarter, $4.44 a year. 10,000 shares = $44,400 a year.\n\nThe catch: 10,000 shares at Friday's close of $78.03 costs $780,300. That's about a 5.7% yield, and dividends can be cut while the share price can fall.\n\nWould you own tobacco for income? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#MO #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $MO do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T2000_ae1b268d",
+   "at": "2026-11-04T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/2000_tw-mo-10000-shares_fb.mp4",
+   "caption": "The math: Altria pays $1.11 per share every quarter, $4.44 a year. 10,000 shares = $44,400 a year.\n\nThe catch: 10,000 shares at Friday's close of $78.03 costs $780,300. That's about a 5.7% yield, and dividends can be cut while the share price can fall.\n\nWould you own tobacco for income? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#MO #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $MO do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T2100_92e1a6c9",
+   "at": "2026-11-04T21:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/2100_tw-gap-and-go.mp4",
+   "caption": "Traders watch premarket volume, the catalyst and key levels to judge whether a gap can hold.\n\nDo you trade gaps? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Wait for the first pullback on a gapper.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T2200_c827cd1d",
+   "at": "2026-11-04T22:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/2200_tw-international.mp4",
+   "caption": "Market leadership changes across decades. That's one of the arguments for owning more than one region.\n\nDo you own anything outside the US? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Check your fund's country breakdown.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261104T2300_e04e0363",
+   "at": "2026-11-04T23:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/2300_tw-xom-10000-shares.mp4",
+   "caption": "The math: Exxon pays $1.03 per share every quarter, $4.12 a year. 10,000 shares = $41,200 a year.\n\nThe catch: 10,000 shares at Friday's close of $187.25 costs $1,872,500. That's about a 2.2% yield, and dividends can be cut while the share price can fall.\n\nWould you hold Exxon for the dividend? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#XOM #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $XOM do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
+  },
+  {
+   "id": "20261105T0000_095bd4bf",
+   "at": "2026-11-05T00:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-04/2400_tw-flat-is-a-position.mp4",
+   "caption": "Sitting out protects your capital and your head. You don't get paid for being busy.\n\nCan you sit on your hands? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Try one no-trade morning this week.",
+   "batch": "stpost 2026-11-04 (queued by hourly.py)",
+   "added": "2026-10-31T13:44:25.000Z"
   }
  ]
 }
