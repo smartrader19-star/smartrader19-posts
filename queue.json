@@ -8361,6 +8361,331 @@
    "comment": "Close near-the-strike shorts before expiration day's end.",
    "batch": "stpost 2026-11-02 (queued by hourly.py)",
    "added": "2026-10-31T13:40:20.000Z"
+  },
+  {
+   "id": "20261103T0100_015772fa",
+   "at": "2026-11-03T01:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0100_tw-lump-vs-dca.mp4",
+   "caption": "A Vanguard study found lump sum outperformed about two-thirds of the time, because markets rise more often than they fall. Behavior still matters.\n\nLump sum or DCA? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Pick the one you won't abandon in a crash.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0200_6a7ff6e4",
+   "at": "2026-11-03T02:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0200_tw-inside-bar.mp4",
+   "caption": "Many traders use inside bars to define tight levels for a possible breakout. They can break in either direction.\n\nDo you trade inside bars? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Spot three on your watchlist today.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0300_5f8b8087",
+   "at": "2026-11-03T03:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0300_tw-poor-mans-covered-call.mp4",
+   "caption": "A \"poor man's covered call\" uses a deep in-the-money LEAPS as the stock substitute. It costs less, but it still has real risk.\n\nWould you try this? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Paper trade it before risking money.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0400_68ef221e",
+   "at": "2026-11-03T04:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0400_tw-drawdown-recovery.mp4",
+   "caption": "Drawdown is the drop from peak to trough. The deeper it goes, the larger the gain you need to get back.\n\nWhat's your max drawdown? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Track your peak-to-trough drop monthly.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0500_bbda79f3",
+   "at": "2026-11-03T05:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0500_tw-roe.mp4",
+   "caption": "Return on equity shows profit per dollar of shareholder equity. Debt can inflate it, so check both together.\n\nDo you look at ROE? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Compare ROE with the debt level.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0600_8051ad0d",
+   "at": "2026-11-03T06:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0600_tw-herd-trading.mp4",
+   "caption": "Crowded trades can reverse hard when buyers run out. Popularity isn't the same as value.\n\nWhat's the most crowded trade right now? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Ask who's left to buy before you buy.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0700_c93650bd",
+   "at": "2026-11-03T07:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0700_tw-calendar-spread.mp4",
+   "caption": "Near-term options lose time value faster than longer-dated ones. The trade usually does best if the stock stays close to the strike.\n\nEver traded a calendar? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Price one on a stock you follow.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0800_0bfed41d",
+   "at": "2026-11-03T08:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0800_tw-catalyst.mp4",
+   "caption": "Earnings, guidance and upgrades can bring in volume. Knowing why it's moving helps you judge if the move can last.\n\nDo you check the news first? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Find the catalyst before you take the trade.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T0900_d507f193",
+   "at": "2026-11-03T09:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/0900_tw-o-10000-shares.mp4",
+   "caption": "The math: Realty Income pays $0.272 per share every month, $3.26 a year. 10,000 shares = $32,640 a year.\n\nThe catch: 10,000 shares at Friday's close of $56.93 costs $569,300. That's about a 5.7% yield, and dividends can be cut while the share price can fall.\n\nRealty Income or rental property? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#RealtyIncome #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $O do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1000_8848687c",
+   "at": "2026-11-03T10:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1000_tw-equal-weight.mp4",
+   "caption": "It's weighted by market cap, so the largest companies count most. Equal-weight funds give each one the same slice.\n\nCap-weighted or equal-weight? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Check the top 10 holdings of your index fund.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1100_0832f465",
+   "at": "2026-11-03T11:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1100_tw-analysis-paralysis.mp4",
+   "caption": "Many indicators are built from the same price data, so they often repeat each other. Fewer tools can mean clearer decisions.\n\nHow many indicators do you use? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Remove one indicator this week.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1200_5dcf881c",
+   "at": "2026-11-03T12:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1200_tw-collar.mp4",
+   "caption": "The call premium helps pay for the put. You limit your downside, but you give up the upside above the call strike.\n\nHave you ever used a collar? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Price a collar on your biggest position.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1300_99705d7e",
+   "at": "2026-11-03T13:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1300_tw-msft-vs-tbill.mp4",
+   "caption": "The math: Microsoft pays $3.64 a year per share, about a 0.70% yield at $521.91. 3-month T-bills yield 3.97%.\n\nThe catch: nobody buys Microsoft for the dividend. Its shareholders get paid in growth, which can be huge and can also reverse. Treasuries pay a fixed rate and never grow.\n\nMicrosoft or T-bills? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#MSFT #treasury #dividends #stocks #investing #stockmarket",
+   "comment": "Growth or guaranteed income? Drop it below \ud83d\udc47",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1400_665134fe",
+   "at": "2026-11-03T14:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1400_tw-backtest-trap.mp4",
+   "caption": "Overfitting tunes rules to old data. Test on data the strategy hasn't seen, and include costs and slippage.\n\nHave you backtested your strategy? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Test it on data you didn't build it on.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1500_b8074508",
+   "at": "2026-11-03T15:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1500_tw-debt-check.mp4",
+   "caption": "Heavy debt leaves less room for error when business slows or rates rise. Check the balance sheet as well as the P/E.\n\nDo you read the balance sheet? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Compare debt to cash and earnings.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1600_39ad784b",
+   "at": "2026-11-03T16:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1600_tw-r-multiples.mp4",
+   "caption": "If you risk $100 and make $300, that's +3R. It makes trades comparable and takes some of the emotion out.\n\nDo you track R? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Add an R column to your journal.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1700_485d2c58",
+   "at": "2026-11-03T17:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1700_tw-skew.mp4",
+   "caption": "Demand for crash protection often lifts implied volatility on index puts, so the options chain isn't symmetrical.\n\nHave you noticed this on the chain? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Compare IV on puts and calls for one stock.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1800_cedbdb71",
+   "at": "2026-11-03T18:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1800_tw-spinoffs.mp4",
+   "caption": "Index rules and fund mandates can force selling of a new spinoff, which some investors look at as an opportunity. It's no guarantee.\n\nEver owned a spinoff? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Read the spinoff's first filing.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T1900_8b4a847e",
+   "at": "2026-11-03T19:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/1900_tw-max-trades.mp4",
+   "caption": "Limiting your trades forces you to wait for your best setups, and it cuts costs.\n\nHow many trades a day do you take? \ud83d\udc47\n\nNot financial advice.\n\n#daytrading #trading #stockmarket #tradingtips",
+   "comment": "Try a limit of three trades tomorrow.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T2000_a460c462",
+   "at": "2026-11-03T20:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/2000_tw-pep-10000-shares.mp4",
+   "caption": "The math: PepsiCo pays $1.48 per share every quarter, $5.92 a year. 10,000 shares = $59,200 a year.\n\nThe catch: 10,000 shares at Friday's close of $137.34 costs $1,373,400. That's about a 4.3% yield, and dividends can be cut while the share price can fall.\n\nPepsiCo or Coca-Cola? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#PEP #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $PEP do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T2000_9eb8c8cd",
+   "at": "2026-11-03T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/2000_tw-pep-10000-shares_fb.mp4",
+   "caption": "The math: PepsiCo pays $1.48 per share every quarter, $5.92 a year. 10,000 shares = $59,200 a year.\n\nThe catch: 10,000 shares at Friday's close of $137.34 costs $1,373,400. That's about a 4.3% yield, and dividends can be cut while the share price can fall.\n\nPepsiCo or Coca-Cola? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#PEP #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $PEP do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T2100_ce736d79",
+   "at": "2026-11-03T21:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/2100_tw-beta.mp4",
+   "caption": "Beta measures past sensitivity to the market. It isn't a promise, and it can change over time.\n\nHigh beta or low beta? \ud83d\udc47\n\nNot financial advice.\n\n#investing #stocks #stockmarket #longterminvesting",
+   "comment": "Look up the beta of your largest holding.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T2200_fe407e39",
+   "at": "2026-11-03T22:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/2200_tw-bear-call-spread.mp4",
+   "caption": "You sell a call and buy a higher one for a credit. It works if the stock stays below your short strike, and losses are capped.\n\nHave you sold a call spread? \ud83d\udc47\n\nNot financial advice.\n\n#optionstrading #options #stockmarket #tradingtips",
+   "comment": "Paper trade one this week.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261103T2300_ad963ba4",
+   "at": "2026-11-03T23:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/2300_tw-cat-10000-shares.mp4",
+   "caption": "The math: Caterpillar pays $1.63 per share every quarter, $6.52 a year. 10,000 shares = $65,200 a year.\n\nThe catch: 10,000 shares at Friday's close of $622.75 costs $6,227,500. That's about a 1.0% yield, and dividends can be cut while the share price can fall.\n\nWould you pay this much for that dividend? \ud83d\udc47\n\n(Prices and dividends: Oct 30 2026 close, latest regular dividend.) Not financial advice.\n\n#CAT #dividendstocks #dividends #passiveincome #stocks #investing",
+   "comment": "How many shares of $CAT do you own? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
+  },
+  {
+   "id": "20261104T0000_19969fe5",
+   "at": "2026-11-04T00:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-03/2400_tw-winning-streak.mp4",
+   "caption": "Winning streaks can lead to bigger size and looser rules, and that's when one trade can give it all back.\n\nWhat do you do after a big win? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #trading #mindset #stockmarket",
+   "comment": "Keep your size the same after a big win.",
+   "batch": "stpost 2026-11-03 (queued by hourly.py)",
+   "added": "2026-10-31T13:42:28.000Z"
   }
  ]
 }
