@@ -8096,6 +8096,32 @@
    "comment": "Do you own any bank stocks? Follow for more \ud83d\udc47",
    "batch": "stpost 2026-11-11 (queued by hourly.py)",
    "added": "2026-11-07T09:43:00.000Z"
+  },
+  {
+   "id": "20261112T2000_17d1655d",
+   "at": "2026-11-12T20:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-12/2000_tw-pfe-yield-trap.mp4",
+   "caption": "The math: Pfizer pays $0.43 a share every quarter, $1.72 a year, on a $29.39 share price. 10,000 shares = $17,200 a year.\n\nThe catch: the yield is high partly BECAUSE the price fell. Income doesn't help if the shares keep dropping.\n\nWould you buy it for the yield? \ud83d\udc47\n\n(Prices and dividends: Nov 6 2026 close, latest regular dividend. 5-year returns include reinvested dividends.) Not financial advice.\n\n#PFE #Pfizer #dividendtrap #dividends #stocks #investing",
+   "comment": "Have you ever bought a yield trap? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-12 (queued by hourly.py)",
+   "added": "2026-11-07T09:44:10.000Z"
+  },
+  {
+   "id": "20261112T2000_c6b07f48",
+   "at": "2026-11-12T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-12/2000_tw-pfe-yield-trap_fb.mp4",
+   "caption": "The math: Pfizer pays $0.43 a share every quarter, $1.72 a year, on a $29.39 share price. 10,000 shares = $17,200 a year.\n\nThe catch: the yield is high partly BECAUSE the price fell. Income doesn't help if the shares keep dropping.\n\nWould you buy it for the yield? \ud83d\udc47\n\n(Prices and dividends: Nov 6 2026 close, latest regular dividend. 5-year returns include reinvested dividends.) Not financial advice.\n\n#PFE #Pfizer #dividendtrap #dividends #stocks #investing",
+   "comment": "Have you ever bought a yield trap? Follow for more \ud83d\udc47",
+   "batch": "stpost 2026-11-12 (queued by hourly.py)",
+   "added": "2026-11-07T09:44:10.000Z"
   }
  ]
 }
