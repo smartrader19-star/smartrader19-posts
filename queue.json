@@ -8098,19 +8098,6 @@
    "added": "2026-11-11T07:20:05.000Z"
   },
   {
-   "id": "20261112T2000_9c26a9ce",
-   "at": "2026-11-12T20:00",
-   "platforms": [
-    "ig"
-   ],
-   "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-12/2000_tw-missed-10-best-days.mp4",
-   "caption": "The data: J.P. Morgan Asset Management, 2024 Guide to Retirement. $10,000 in the S&P 500 from Jan 3 2004 to Dec 29 2023: fully invested $71,750; out of the market on the 10 best days $32,871.\n\nThe psychology: loss aversion, from Kahneman and Tversky's prospect theory. Losses feel roughly twice as painful as equal gains feel good, which is why selling in a crash feels like relief.\n\nThe catch: nobody can pick the best days in advance, which is exactly the point. They hide right next to the scariest days.\n\nHave you ever sold in a panic? \ud83d\udc47\n\n(Source: J.P. Morgan Asset Management.) Not financial advice.\n\n#SP500 #stockmarket #investing #longterminvesting #stocks #tradingpsychology",
-   "comment": "Did you sell in 2020 or 2022? Follow for more \ud83d\udc47",
-   "batch": "stpost 2026-11-12 (queued by hourly.py)",
-   "added": "2026-11-09T12:42:06.000Z"
-  },
-  {
    "id": "20261112T2000_3011bf91",
    "at": "2026-11-12T20:00",
    "platforms": [
@@ -8121,7 +8108,20 @@
    "caption": "The data: J.P. Morgan Asset Management, 2024 Guide to Retirement. $10,000 in the S&P 500 from Jan 3 2004 to Dec 29 2023: fully invested $71,750; out of the market on the 10 best days $32,871.\n\nThe psychology: loss aversion, from Kahneman and Tversky's prospect theory. Losses feel roughly twice as painful as equal gains feel good, which is why selling in a crash feels like relief.\n\nThe catch: nobody can pick the best days in advance, which is exactly the point. They hide right next to the scariest days.\n\nHave you ever sold in a panic? \ud83d\udc47\n\n(Source: J.P. Morgan Asset Management.) Not financial advice.\n\n#SP500 #stockmarket #investing #longterminvesting #stocks #tradingpsychology",
    "comment": "Did you sell in 2020 or 2022? Follow for more \ud83d\udc47",
    "batch": "stpost 2026-11-12 (queued by hourly.py)",
-   "added": "2026-11-09T12:42:06.000Z"
+   "added": "2026-11-11T07:21:04.000Z"
+  },
+  {
+   "id": "20261112T2000_d316e2bb",
+   "at": "2026-11-12T20:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-12/2000_neon-ep02-two-fees.mp4",
+   "caption": "Two investors. Same $100,000. Same 30 years. One paid a professional. The cheap one won by $187,000. \ud83d\udcb8\n\nInvestor one hires a fund manager. Stock picks, quarterly calls, the whole grown-up package. The fee is \"just\" 1% a year.\n\nInvestor two buys an index fund that owns the whole market. The fee is almost zero. Then he leaves it alone.\n\nHere's the part nobody tells you: that 1% comes out every single year, whether the manager wins or loses. And most lose. S&P's SPIVA scorecard shows about 9 in 10 large-cap fund managers trailed the S&P 500 over 15 years.\n\nThe math:\n\u2192 $100,000 at 7% a year for 30 years = $761,226\n\u2192 The same money at 7% minus a 1% fee = $574,349\n\u2192 That's $187,000 gone, for \"just\" 1%\n\nHonestly? For most people, paying a stock picker is the most expensive habit they never notice. Fees compound too. Every dollar you pay is a dollar that never grows again.\n\nBefore you pay anyone to manage your money:\n1. Find the expense ratio or advisory fee. It's always in writing.\n2. Run your balance at 7%, then at 7% minus that fee, over 30 years.\n3. Ask what they'll do that's worth the difference.\n\nYour manager gets paid either way. You only get paid if you keep it.\n\nINDEX or ADVISOR? Comment which one you use and why \ud83d\udc47\n\nSources: S&P Dow Jones Indices, SPIVA U.S. Scorecard (15-year large-cap results). Growth figures are illustrative: $100,000 compounded at 7% and 6% a year for 30 years. Not financial advice.\n\n#investing #indexfunds #personalfinance #stockmarket #financialadvisor",
+   "comment": "INDEX or ADVISOR? Tell us which one you use \ud83d\udc47",
+   "batch": "stpost 2026-11-12 (queued by hourly.py)",
+   "added": "2026-11-11T07:21:04.000Z"
   },
   {
    "id": "20261113T2000_6db4fbdc",
