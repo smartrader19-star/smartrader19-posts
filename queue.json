@@ -8174,6 +8174,19 @@
    "comment": "Hold or sell? Tell us why \ud83d\udc47",
    "batch": "stpost 2026-11-17 (queued by hourly.py)",
    "added": "2026-11-17T08:51:33.000Z"
+  },
+  {
+   "id": "20261118T2000_13ce30d2",
+   "at": "2026-11-18T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-18/2000_tw-disposition-effect_fb.mp4",
+   "caption": "The research: Terrance Odean, \"Are Investors Reluctant to Realize Their Losses?\" (Journal of Finance, 1998), studied 10,000 accounts at a U.S. discount broker. Investors sold winning stocks far more readily than losing ones, and the winners they sold went on to beat the losers they held by about 3.4 percentage points over the next year.\n\nWhy we do it: selling a winner feels like locking in a win. Selling a loser makes the loss real, so we wait.\n\nBe honest: are you holding a loser just to avoid admitting it? \ud83d\udc47\n\nNot financial advice.\n\n#tradingpsychology #investing #stockmarket #behavioralfinance #trading",
+   "comment": "Which stock are you refusing to sell? \ud83d\udc47",
+   "batch": "stpost 2026-11-18 (queued by hourly.py)",
+   "added": "2026-11-17T08:52:29.000Z"
   }
  ]
 }
