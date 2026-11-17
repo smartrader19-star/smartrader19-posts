@@ -8239,6 +8239,19 @@
    "comment": "Would you buy it today? \ud83d\udc47",
    "batch": "stpost 2026-11-22 (queued by hourly.py)",
    "added": "2026-11-17T08:56:29.000Z"
+  },
+  {
+   "id": "20261123T2000_51312f47",
+   "at": "2026-11-23T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-23/2000_tw-cost-paid-in-price_fb.mp4",
+   "caption": "The math: Costco pays $1.47 a share every quarter, $5.88 a year. 10,000 shares at $1113.74 = $11,137,400, paying $58,800 a year.\n\nThe catch: Costco also pays occasional special dividends (not counted here), and a stock trading near its all-time high can fall a long way. Past returns aren't promised.\n\nDividends or growth: which one builds more wealth? \ud83d\udc47\n\n(Prices and dividends: Nov 16 2026 close, latest regular dividend. 5-year returns include reinvested dividends.) Not financial advice.\n\n#COST #Costco #growthstocks #dividends #stocks #investing",
+   "comment": "Growth or income? \ud83d\udc47",
+   "batch": "stpost 2026-11-23 (queued by hourly.py)",
+   "added": "2026-11-17T08:57:21.000Z"
   }
  ]
 }
