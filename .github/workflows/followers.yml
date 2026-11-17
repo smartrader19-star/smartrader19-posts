@@ -1,0 +1,24 @@
+# Saves SmarTrader's real Instagram + Facebook follower counts to followers.json (planner-data branch). Copied to
+# .github/workflows/ by hourly.py; edit the copy in hourly/planner/. Started by hourly.py --refresh-followers.
+name: followers
+on:
+  schedule:
+    - cron: "0 11 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  followers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            planner
+      - name: followers
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_ID: ${{ secrets.META_IG_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 planner/followers.py
