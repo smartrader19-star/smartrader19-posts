@@ -8187,6 +8187,19 @@
    "comment": "Which stock are you refusing to sell? \ud83d\udc47",
    "batch": "stpost 2026-11-18 (queued by hourly.py)",
    "added": "2026-11-17T08:52:29.000Z"
+  },
+  {
+   "id": "20261119T2000_fac56ea8",
+   "at": "2026-11-19T20:00",
+   "platforms": [
+    "fb"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-19/2000_tw-pg-70-years_fb.mp4",
+   "caption": "The math: Procter & Gamble raised its quarterly dividend to $1.0885 in April 2026, its 70th consecutive yearly increase. That's $4.35 a year. 10,000 shares = $43,540 a year.\n\nThe catch: 10,000 shares at $173.02 cost $1,730,200, about a 2.5% yield, and the stock returned +36% in 5 years with dividends, well behind the S&P 500. Steady isn't the same as fast.\n\nWould you rather own $PG or a growth stock? \ud83d\udc47\n\n(Source: P&G dividend release, April 2026.) (Prices and dividends: Nov 16 2026 close, latest regular dividend. 5-year returns include reinvested dividends.) Not financial advice.\n\n#PG #ProcterAndGamble #dividendking #dividends #dividendstocks #investing",
+   "comment": "Boring and paid, or exciting? \ud83d\udc47",
+   "batch": "stpost 2026-11-19 (queued by hourly.py)",
+   "added": "2026-11-17T08:53:24.000Z"
   }
  ]
 }
