@@ -8202,17 +8202,17 @@
    "added": "2026-11-17T09:12:47.000Z"
   },
   {
-   "id": "20261120T2000_5022694b",
+   "id": "20261120T2000_7ca7d794",
    "at": "2026-11-20T20:00",
    "platforms": [
     "fb"
    ],
    "kind": "reel",
-   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-20/2000_tw-pypl-anchoring_fb.mp4",
-   "caption": "The numbers: PayPal hit $310.16 in July 2021 and closed at $58.83 on Nov 16 2026, 81% lower. Its 5-year total return is -68%.\n\nAnchoring is a bias Tversky and Kahneman described in 1974: the first number we see sticks, and we adjust from it too little. An old high tells you nothing about today's value.\n\nHave you ever bought a stock just because it was \"down a lot\"? \ud83d\udc47\n\nNot financial advice.\n\n#PYPL #PayPal #tradingpsychology #anchoring #stockmarket #investing",
-   "comment": "Cheap or a trap? \ud83d\udc47",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-20/2000_tw-aapl-skipped-ai_fb.mp4",
+   "caption": "The facts: Apple hit an intraday record of $360.80 on Nov 13 2026, putting its value above $5.2 trillion, as investors rotated away from heavy AI spenders. Analysts expect Apple to spend about $11 billion on AI-related capex this year, against $100 billion-plus at each of the biggest cloud companies. Apple uses Google's models to power its new Siri.\n\nThe catch: skipping the build-out only works if Apple can keep renting AI from others.\n\nSmart or lazy? \ud83d\udc47\n\n(Sources: CNBC Nov 13 2026; The Next Web. Prices: Yahoo.) Not financial advice.\n\n#AAPL #Apple #AIstocks #NVDA #stockmarket #investing",
+   "comment": "Smart or lazy? \ud83d\udc47",
    "batch": "stpost 2026-11-20 (queued by hourly.py)",
-   "added": "2026-11-17T08:54:21.000Z"
+   "added": "2026-11-17T09:13:54.000Z"
   },
   {
    "id": "20261121T2000_84e6999f",
