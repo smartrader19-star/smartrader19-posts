@@ -8241,6 +8241,19 @@
    "added": "2026-11-22T00:18:08.000Z"
   },
   {
+   "id": "20261122T2000_72dcd3d8",
+   "at": "2026-11-22T20:00",
+   "platforms": [
+    "ig"
+   ],
+   "kind": "reel",
+   "media": "https://smartrader19-star.github.io/smartrader19-posts/2026-11-22/2000_tw-nvda-recency-bias.mp4",
+   "caption": "The numbers: Nvidia's 52-week high is $243.37. It closed at $156.14 on Nov 16 2026, -36%. It was the first company worth $5 trillion. The AI selloff started before its CEO resigned, then sped up.\n\nRecency bias: we weight the latest trend too heavily and treat it as permanent, up or down. Tversky and Kahneman called the family of shortcuts behind it the availability heuristic (1973).\n\nIs NVDA a buy at -36%, or is it still falling? \ud83d\udc47\n\n(Prices: Yahoo.) Not financial advice.\n\n#NVDA #Nvidia #tradingpsychology #stockmarket #investing #trading",
+   "comment": "Buy or wait? \ud83d\udc47",
+   "batch": "stpost 2026-11-22 (queued by hourly.py)",
+   "added": "2026-11-22T00:19:06.000Z"
+  },
+  {
    "id": "20261122T2000_2f051973",
    "at": "2026-11-22T20:00",
    "platforms": [
@@ -8251,7 +8264,7 @@
    "caption": "The numbers: Nvidia's 52-week high is $243.37. It closed at $156.14 on Nov 16 2026, -36%. It was the first company worth $5 trillion. The AI selloff started before its CEO resigned, then sped up.\n\nRecency bias: we weight the latest trend too heavily and treat it as permanent, up or down. Tversky and Kahneman called the family of shortcuts behind it the availability heuristic (1973).\n\nIs NVDA a buy at -36%, or is it still falling? \ud83d\udc47\n\n(Prices: Yahoo.) Not financial advice.\n\n#NVDA #Nvidia #tradingpsychology #stockmarket #investing #trading",
    "comment": "Buy or wait? \ud83d\udc47",
    "batch": "stpost 2026-11-22 (queued by hourly.py)",
-   "added": "2026-11-17T09:16:06.000Z"
+   "added": "2026-11-22T00:19:06.000Z"
   },
   {
    "id": "20261123T2000_9153f2b2",
